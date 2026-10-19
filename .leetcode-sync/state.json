@@ -1489,6 +1489,305 @@
       "submissions": [
         {"id":1760590603,"status":"Accepted","lang":"cpp","timestamp":1757085576,"runtime":"0 ms","memory":"7.6 MB"}
       ]
+    },
+    "find-words-containing-character": {
+      "id": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "difficulty": "Easy",
+      "tags": ["Array","String"],
+      "topic": "Array",
+      "dir": "Array/2942-find-words-containing-character",
+      "first_attempt_at": 1757179199,
+      "last_attempt_at": 1757179199,
+      "solved_at": 1757179199,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1761724299,"status":"Accepted","lang":"cpp","timestamp":1757179199,"runtime":"0 ms","memory":"33 MB"}
+      },
+      "submissions": [
+        {"id":1761724299,"status":"Accepted","lang":"cpp","timestamp":1757179199,"runtime":"0 ms","memory":"33 MB"}
+      ]
+    },
+    "triangle": {
+      "id": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0120-triangle",
+      "first_attempt_at": 1757262502,
+      "last_attempt_at": 1758887801,
+      "solved_at": 1758818582,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1783249807,"status":"Accepted","lang":"cpp","timestamp":1758887801,"runtime":"51 ms","memory":"12.6 MB"}
+      },
+      "submissions": [
+        {"id":1762865641,"status":"Wrong Answer","lang":"cpp","timestamp":1757262502,"runtime":null,"memory":null},
+        {"id":1782480443,"status":"Wrong Answer","lang":"cpp","timestamp":1758817461,"runtime":null,"memory":null},
+        {"id":1782500061,"status":"Accepted","lang":"cpp","timestamp":1758818582,"runtime":null,"memory":null},
+        {"id":1783249807,"status":"Accepted","lang":"cpp","timestamp":1758887801,"runtime":"51 ms","memory":"12.6 MB"}
+      ]
+    },
+    "climbing-stairs": {
+      "id": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "Easy",
+      "tags": ["Math","Dynamic Programming","Memoization"],
+      "topic": "Math",
+      "dir": "Math/0070-climbing-stairs",
+      "first_attempt_at": 1757351627,
+      "last_attempt_at": 1757352276,
+      "solved_at": 1757352276,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1764082225,"status":"Accepted","lang":"cpp","timestamp":1757352276,"runtime":"0 ms","memory":"7.8 MB"}
+      },
+      "submissions": [
+        {"id":1764066808,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1757351627,"runtime":null,"memory":null},
+        {"id":1764068302,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1757351693,"runtime":null,"memory":null},
+        {"id":1764082225,"status":"Accepted","lang":"cpp","timestamp":1757352276,"runtime":"0 ms","memory":"7.8 MB"}
+      ]
+    },
+    "sort-vowels-in-a-string": {
+      "id": "2785",
+      "title": "Sort Vowels in a String",
+      "slug": "sort-vowels-in-a-string",
+      "difficulty": "Medium",
+      "tags": ["String","Sorting"],
+      "topic": "String",
+      "dir": "String/2785-sort-vowels-in-a-string",
+      "first_attempt_at": 1757604489,
+      "last_attempt_at": 1757604672,
+      "solved_at": 1757604489,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1767309773,"status":"Accepted","lang":"cpp","timestamp":1757604672,"runtime":"10 ms","memory":"16.6 MB"}
+      },
+      "submissions": [
+        {"id":1767306750,"status":"Accepted","lang":"cpp","timestamp":1757604489,"runtime":null,"memory":null},
+        {"id":1767309773,"status":"Accepted","lang":"cpp","timestamp":1757604672,"runtime":"10 ms","memory":"16.6 MB"}
+      ]
+    },
+    "vowels-game-in-a-string": {
+      "id": "3227",
+      "title": "Vowels Game in a String",
+      "slug": "vowels-game-in-a-string",
+      "difficulty": "Medium",
+      "tags": ["Math","String","Brainteaser","Game Theory"],
+      "topic": "Math",
+      "dir": "Math/3227-vowels-game-in-a-string",
+      "first_attempt_at": 1757651857,
+      "last_attempt_at": 1757654709,
+      "solved_at": 1757651857,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1767900033,"status":"Accepted","lang":"cpp","timestamp":1757654709,"runtime":"4 ms","memory":"18.9 MB"}
+      },
+      "submissions": [
+        {"id":1767855424,"status":"Accepted","lang":"cpp","timestamp":1757651857,"runtime":null,"memory":null},
+        {"id":1767882730,"status":"Wrong Answer","lang":"cpp","timestamp":1757653617,"runtime":null,"memory":null},
+        {"id":1767884405,"status":"Accepted","lang":"cpp","timestamp":1757653719,"runtime":null,"memory":null},
+        {"id":1767900033,"status":"Accepted","lang":"cpp","timestamp":1757654709,"runtime":"4 ms","memory":"18.9 MB"}
+      ]
+    },
+    "valid-anagram": {
+      "id": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0242-valid-anagram",
+      "first_attempt_at": 1757666262,
+      "last_attempt_at": 1784811610,
+      "solved_at": 1757666262,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2078403201,"status":"Accepted","lang":"cpp","timestamp":1784811610,"runtime":"5 ms","memory":"10 MB"}
+      },
+      "submissions": [
+        {"id":1768061113,"status":"Accepted","lang":"cpp","timestamp":1757666262,"runtime":null,"memory":null},
+        {"id":1870730115,"status":"Accepted","lang":"cpp","timestamp":1767245935,"runtime":null,"memory":null},
+        {"id":2078401642,"status":"Accepted","lang":"cpp","timestamp":1784811513,"runtime":null,"memory":null},
+        {"id":2078403201,"status":"Accepted","lang":"cpp","timestamp":1784811610,"runtime":"5 ms","memory":"10 MB"}
+      ]
+    },
+    "find-most-frequent-vowel-and-consonant": {
+      "id": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/3541-find-most-frequent-vowel-and-consonant",
+      "first_attempt_at": 1757761833,
+      "last_attempt_at": 1757761833,
+      "solved_at": 1757761833,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1769188150,"status":"Accepted","lang":"cpp","timestamp":1757761833,"runtime":"0 ms","memory":"9.5 MB"}
+      },
+      "submissions": [
+        {"id":1769188150,"status":"Accepted","lang":"cpp","timestamp":1757761833,"runtime":"0 ms","memory":"9.5 MB"}
+      ]
+    },
+    "middle-of-the-linked-list": {
+      "id": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0876-middle-of-the-linked-list",
+      "first_attempt_at": 1757779016,
+      "last_attempt_at": 1765808825,
+      "solved_at": 1757779016,
+      "languages": {
+        "python3": {"file":"solution.py","id":1769540528,"status":"Accepted","lang":"python3","timestamp":1757779016,"runtime":"0 ms","memory":"17.6 MB"},
+        "cpp": {"file":"solution.cpp","id":1856306779,"status":"Accepted","lang":"cpp","timestamp":1765808825,"runtime":"0 ms","memory":"9.9 MB"}
+      },
+      "submissions": [
+        {"id":1769540528,"status":"Accepted","lang":"python3","timestamp":1757779016,"runtime":"0 ms","memory":"17.6 MB"},
+        {"id":1769547616,"status":"Accepted","lang":"cpp","timestamp":1757779260,"runtime":null,"memory":null},
+        {"id":1856306779,"status":"Accepted","lang":"cpp","timestamp":1765808825,"runtime":"0 ms","memory":"9.9 MB"}
+      ]
+    },
+    "reverse-linked-list": {
+      "id": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0206-reverse-linked-list",
+      "first_attempt_at": 1757824761,
+      "last_attempt_at": 1770210435,
+      "solved_at": 1757824761,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1907933498,"status":"Accepted","lang":"cpp","timestamp":1770210435,"runtime":"0 ms","memory":"13.4 MB"}
+      },
+      "submissions": [
+        {"id":1770110813,"status":"Accepted","lang":"cpp","timestamp":1757824761,"runtime":null,"memory":null},
+        {"id":1770113631,"status":"Accepted","lang":"cpp","timestamp":1757824991,"runtime":null,"memory":null},
+        {"id":1813151052,"status":"Accepted","lang":"cpp","timestamp":1761570401,"runtime":null,"memory":null},
+        {"id":1907933498,"status":"Accepted","lang":"cpp","timestamp":1770210435,"runtime":"0 ms","memory":"13.4 MB"}
+      ]
+    },
+    "categorize-box-according-to-criteria": {
+      "id": "2525",
+      "title": "Categorize Box According to Criteria",
+      "slug": "categorize-box-according-to-criteria",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2525-categorize-box-according-to-criteria",
+      "first_attempt_at": 1757826897,
+      "last_attempt_at": 1757827764,
+      "solved_at": 1757827398,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1770150830,"status":"Accepted","lang":"cpp","timestamp":1757827764,"runtime":"0 ms","memory":"7.8 MB"}
+      },
+      "submissions": [
+        {"id":1770138729,"status":"Compile Error","lang":"cpp","timestamp":1757826897,"runtime":null,"memory":null},
+        {"id":1770141653,"status":"Runtime Error","lang":"cpp","timestamp":1757827113,"runtime":null,"memory":null},
+        {"id":1770145655,"status":"Accepted","lang":"cpp","timestamp":1757827398,"runtime":null,"memory":null},
+        {"id":1770149532,"status":"Accepted","lang":"cpp","timestamp":1757827673,"runtime":null,"memory":null},
+        {"id":1770150830,"status":"Accepted","lang":"cpp","timestamp":1757827764,"runtime":"0 ms","memory":"7.8 MB"}
+      ]
+    },
+    "best-poker-hand": {
+      "id": "2347",
+      "title": "Best Poker Hand",
+      "slug": "best-poker-hand",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Counting"],
+      "topic": "Array",
+      "dir": "Array/2347-best-poker-hand",
+      "first_attempt_at": 1757860265,
+      "last_attempt_at": 1757860579,
+      "solved_at": 1757860472,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1770603160,"status":"Accepted","lang":"cpp","timestamp":1757860579,"runtime":"0 ms","memory":"12.4 MB"}
+      },
+      "submissions": [
+        {"id":1770598515,"status":"Wrong Answer","lang":"cpp","timestamp":1757860265,"runtime":null,"memory":null},
+        {"id":1770601624,"status":"Accepted","lang":"cpp","timestamp":1757860472,"runtime":null,"memory":null},
+        {"id":1770603160,"status":"Accepted","lang":"cpp","timestamp":1757860579,"runtime":"0 ms","memory":"12.4 MB"}
+      ]
+    },
+    "maximum-number-of-words-you-can-type": {
+      "id": "1935",
+      "title": "Maximum Number of Words You Can Type",
+      "slug": "maximum-number-of-words-you-can-type",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/1935-maximum-number-of-words-you-can-type",
+      "first_attempt_at": 1757954071,
+      "last_attempt_at": 1757954425,
+      "solved_at": 1757954071,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1771812007,"status":"Accepted","lang":"cpp","timestamp":1757954425,"runtime":"3 ms","memory":"9 MB"}
+      },
+      "submissions": [
+        {"id":1771804766,"status":"Accepted","lang":"cpp","timestamp":1757954071,"runtime":null,"memory":null},
+        {"id":1771808757,"status":"Accepted","lang":"cpp","timestamp":1757954266,"runtime":null,"memory":null},
+        {"id":1771812007,"status":"Accepted","lang":"cpp","timestamp":1757954425,"runtime":"3 ms","memory":"9 MB"}
+      ]
+    },
+    "find-the-winner-of-the-circular-game": {
+      "id": "1823",
+      "title": "Find the Winner of the Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Recursion","Queue","Simulation"],
+      "topic": "Array",
+      "dir": "Array/1823-find-the-winner-of-the-circular-game",
+      "first_attempt_at": 1758030100,
+      "last_attempt_at": 1758030476,
+      "solved_at": 1758030476,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1772777117,"status":"Accepted","lang":"cpp","timestamp":1758030476,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1772770447,"status":"Runtime Error","lang":"cpp","timestamp":1758030100,"runtime":null,"memory":null},
+        {"id":1772777117,"status":"Accepted","lang":"cpp","timestamp":1758030476,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "robot-return-to-origin": {
+      "id": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "difficulty": "Easy",
+      "tags": ["String","Simulation"],
+      "topic": "String",
+      "dir": "String/0657-robot-return-to-origin",
+      "first_attempt_at": 1758210724,
+      "last_attempt_at": 1758210724,
+      "solved_at": 1758210724,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1775146549,"status":"Accepted","lang":"cpp","timestamp":1758210724,"runtime":"3 ms","memory":"10.2 MB"}
+      },
+      "submissions": [
+        {"id":1775146549,"status":"Accepted","lang":"cpp","timestamp":1758210724,"runtime":"3 ms","memory":"10.2 MB"}
+      ]
+    },
+    "find-if-digit-game-can-be-won": {
+      "id": "3232",
+      "title": "Find if Digit Game Can Be Won",
+      "slug": "find-if-digit-game-can-be-won",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/3232-find-if-digit-game-can-be-won",
+      "first_attempt_at": 1758211478,
+      "last_attempt_at": 1758211752,
+      "solved_at": 1758211715,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1775165574,"status":"Accepted","lang":"cpp","timestamp":1758211752,"runtime":"0 ms","memory":"28.5 MB"}
+      },
+      "submissions": [
+        {"id":1775160403,"status":"Wrong Answer","lang":"cpp","timestamp":1758211478,"runtime":null,"memory":null},
+        {"id":1775164867,"status":"Accepted","lang":"cpp","timestamp":1758211715,"runtime":null,"memory":null},
+        {"id":1775165574,"status":"Accepted","lang":"cpp","timestamp":1758211752,"runtime":"0 ms","memory":"28.5 MB"}
+      ]
     }
   }
 }

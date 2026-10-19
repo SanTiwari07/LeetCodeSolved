@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 48 | 45 | 3 | 31 | 16 | 1 |
+| 53 | 50 | 3 | 34 | 18 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 3 | cpp | 2025-08-18 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-08-05 |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Easy | Solved | 1 | cpp | 2025-08-05 |
+| 120 | [Triangle](../Array/0120-triangle/README.md) | Medium | Solved | 4 | cpp | 2025-09-25 |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Solved | 4 | cpp | 2025-07-30 |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Easy | Solved | 4 | cpp | 2025-07-27 |
 | 153 | [Find Minimum in Rotated Sorted Array](../Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2025-08-18 |
@@ -46,13 +47,17 @@
 | 1672 | [Richest Customer Wealth](../Array/1672-richest-customer-wealth/README.md) | Easy | Solved | 1 | cpp | 2025-08-30 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 8 | cpp | 2025-07-26 |
 | 1822 | [Sign of the Product of an Array](../Array/1822-sign-of-the-product-of-an-array/README.md) | Easy | Solved | 3 | cpp | 2025-08-31 |
+| 1823 | [Find the Winner of the Circular Game](../Array/1823-find-the-winner-of-the-circular-game/README.md) | Medium | Solved | 2 | cpp | 2025-09-16 |
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-04 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 3 | cpp | 2025-07-31 |
+| 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Easy | Solved | 3 | cpp | 2025-09-14 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](../Array/2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-02 |
 | 2798 | [Number of Employees Who Met the Target](../Array/2798-number-of-employees-who-met-the-target/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
+| 2942 | [Find Words Containing Character](../Array/2942-find-words-containing-character/README.md) | Easy | Solved | 1 | cpp | 2025-09-06 |
 | 2974 | [Minimum Number Game](../Array/2974-minimum-number-game/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 3024 | [Type of Triangle](../Array/3024-type-of-triangle/README.md) | Easy | Solved | 2 | cpp | 2025-08-28 |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](../Array/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
+| 3232 | [Find if Digit Game Can Be Won](../Array/3232-find-if-digit-game-can-be-won/README.md) | Easy | Solved | 3 | cpp | 2025-09-18 |
 | 3659 | [Partition Array Into K-Distinct Groups](../Array/3659-partition-array-into-k-distinct-groups/README.md) | Medium | Attempted | 1 | cpp | - |
 | 3668 | [Restore Finishing Order](../Array/3668-restore-finishing-order/README.md) | Easy | Solved | 1 | cpp | 2025-08-31 |
 | 3670 | [Maximum Product of Two Integers With No Common Bits](../Array/3670-maximum-product-of-two-integers-with-no-common-bits/README.md) | Medium | Attempted | 8 | cpp | - |
