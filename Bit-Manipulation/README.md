@@ -27,4 +27,6 @@ Filed under their main topic, but they use this one too.
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Math | Easy | Solved |
 | 1486 | [XOR Operation in an Array](../Math/1486-xor-operation-in-an-array/README.md) | Math | Easy | Solved |
 | 3304 | [Find the K-th Character in String Game I](../Math/3304-find-the-k-th-character-in-string-game-i/README.md) | Math | Easy | Solved |
+| 3314 | [Construct the Minimum Bitwise Array I](../Array/3314-construct-the-minimum-bitwise-array-i/README.md) | Array | Easy | Solved |
+| 3315 | [Construct the Minimum Bitwise Array II](../Array/3315-construct-the-minimum-bitwise-array-ii/README.md) | Array | Medium | Solved |
 | 3670 | [Maximum Product of Two Integers With No Common Bits](../Array/3670-maximum-product-of-two-integers-with-no-common-bits/README.md) | Array | Medium | Attempted |

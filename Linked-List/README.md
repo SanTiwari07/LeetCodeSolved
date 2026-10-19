@@ -30,3 +30,4 @@ Filed under their main topic, but they use this one too.
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Hash Table | Medium | Solved |
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Hash Table | Easy | Solved |
 | 3217 | [Delete Nodes From Linked List Present in Array](../Array/3217-delete-nodes-from-linked-list-present-in-array/README.md) | Array | Medium | Solved |
+| 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Array | Easy | Solved |

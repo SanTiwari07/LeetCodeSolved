@@ -24,6 +24,7 @@ Filed under their main topic, but they use this one too.
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Array | Easy | Solved |
 | 120 | [Triangle](../Array/0120-triangle/README.md) | Array | Medium | Solved |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Array | Easy | Solved |
+| 213 | [House Robber II](../Array/0213-house-robber-ii/README.md) | Array | Medium | Attempted |
 | 300 | [Longest Increasing Subsequence](../Array/0300-longest-increasing-subsequence/README.md) | Array | Medium | Solved |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Math | Easy | Solved |
 | 518 | [Coin Change II](../Array/0518-coin-change-ii/README.md) | Array | Medium | Solved |

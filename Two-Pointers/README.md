@@ -39,6 +39,7 @@ Filed under their main topic, but they use this one too.
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 876 | [Middle of the Linked List](../Linked-List/0876-middle-of-the-linked-list/README.md) | Linked List | Easy | Solved |
 | 977 | [Squares of a Sorted Array](../Array/0977-squares-of-a-sorted-array/README.md) | Array | Easy | Solved |
+| 1877 | [Minimize Maximum Pair Sum in Array](../Array/1877-minimize-maximum-pair-sum-in-array/README.md) | Array | Medium | Solved |
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Array | Easy | Solved |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Array | Medium | Solved |
 | 2396 | [Strictly Palindromic Number](../Math/2396-strictly-palindromic-number/README.md) | Math | Medium | Solved |

@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 90 | 86 | 4 | 47 | 41 | 2 |
+| 104 | 99 | 5 | 57 | 45 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](../Array/0001-two-sum/README.md) | Easy | Solved | 11 | cpp | 2025-07-25 |
 | 4 | [Median of Two Sorted Arrays](../Array/0004-median-of-two-sorted-arrays/README.md) | Hard | Solved | 2 | cpp | 2025-08-25 |
 | 11 | [Container With Most Water](../Array/0011-container-with-most-water/README.md) | Medium | Solved | 2 | cpp | 2025-10-04 |
+| 14 | [Longest Common Prefix](../Array/0014-longest-common-prefix/README.md) | Easy | Solved | 1 | cpp | 2026-01-19 |
 | 15 | [3Sum](../Array/0015-3sum/README.md) | Medium | Solved | 5 | cpp | 2025-10-20 |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 3 | cpp | 2025-07-27 |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Easy | Solved | 3 | cpp | 2025-08-09 |
@@ -42,6 +43,7 @@
 | 167 | [Two Sum II - Input Array Is Sorted](../Array/0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Solved | 1 | cpp | 2025-09-01 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-07-29 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 3 | cpp | 2025-07-27 |
+| 213 | [House Robber II](../Array/0213-house-robber-ii/README.md) | Medium | Attempted | 1 | cpp | - |
 | 215 | [Kth Largest Element in an Array](../Array/0215-kth-largest-element-in-an-array/README.md) | Medium | Solved | 4 | cpp | 2025-10-30 |
 | 216 | [Combination Sum III](../Array/0216-combination-sum-iii/README.md) | Medium | Solved | 1 | cpp | 2025-12-10 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 7 | cpp | 2025-08-04 |
@@ -59,8 +61,10 @@
 | 506 | [Relative Ranks](../Array/0506-relative-ranks/README.md) | Easy | Solved | 2 | cpp | 2025-10-30 |
 | 518 | [Coin Change II](../Array/0518-coin-change-ii/README.md) | Medium | Solved | 4 | cpp, python | 2025-10-19 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2025-08-19 |
+| 628 | [Maximum Product of Three Numbers](../Array/0628-maximum-product-of-three-numbers/README.md) | Easy | Solved | 3 | cpp | 2026-01-23 |
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Easy | Solved | 2 | cpp | 2025-08-23 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 4 | cpp | 2025-08-16 |
+| 744 | [Find Smallest Letter Greater Than Target](../Array/0744-find-smallest-letter-greater-than-target/README.md) | Easy | Solved | 2 | cpp | 2026-01-31 |
 | 746 | [Min Cost Climbing Stairs](../Array/0746-min-cost-climbing-stairs/README.md) | Easy | Solved | 1 | cpp | 2025-12-13 |
 | 867 | [Transpose Matrix](../Array/0867-transpose-matrix/README.md) | Easy | Solved | 2 | cpp | 2026-01-16 |
 | 912 | [Sort an Array](../Array/0912-sort-an-array/README.md) | Medium | Solved | 2 | cpp | 2025-11-05 |
@@ -68,7 +72,9 @@
 | 977 | [Squares of a Sorted Array](../Array/0977-squares-of-a-sorted-array/README.md) | Easy | Solved | 5 | cpp | 2025-08-31 |
 | 1037 | [Valid Boomerang](../Array/1037-valid-boomerang/README.md) | Easy | Solved | 1 | cpp | 2025-12-16 |
 | 1046 | [Last Stone Weight](../Array/1046-last-stone-weight/README.md) | Easy | Solved | 2 | cpp | 2025-10-19 |
+| 1200 | [Minimum Absolute Difference](../Array/1200-minimum-absolute-difference/README.md) | Easy | Solved | 2 | cpp | 2026-01-26 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 3 | cpp | 2025-09-28 |
+| 1304 | [Find N Unique Integers Sum up to Zero](../Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | Easy | Solved | 1 | cpp | 2026-01-28 |
 | 1504 | [Count Submatrices With All Ones](../Array/1504-count-submatrices-with-all-ones/README.md) | Medium | Attempted | 1 | cpp | - |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2025-08-19 |
 | 1550 | [Three Consecutive Odds](../Array/1550-three-consecutive-odds/README.md) | Easy | Solved | 1 | cpp | 2025-08-30 |
@@ -76,6 +82,8 @@
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 8 | cpp | 2025-07-26 |
 | 1822 | [Sign of the Product of an Array](../Array/1822-sign-of-the-product-of-an-array/README.md) | Easy | Solved | 3 | cpp | 2025-08-31 |
 | 1823 | [Find the Winner of the Circular Game](../Array/1823-find-the-winner-of-the-circular-game/README.md) | Medium | Solved | 2 | cpp | 2025-09-16 |
+| 1877 | [Minimize Maximum Pair Sum in Array](../Array/1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Solved | 1 | cpp | 2026-01-24 |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](../Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | Easy | Solved | 3 | cpp | 2026-01-25 |
 | 2011 | [Final Value of Variable After Performing Operations](../Array/2011-final-value-of-variable-after-performing-operations/README.md) | Easy | Solved | 2 | cpp | 2025-10-20 |
 | 2043 | [Simple Bank System](../Array/2043-simple-bank-system/README.md) | Medium | Solved | 3 | cpp | 2025-10-26 |
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-04 |
@@ -89,12 +97,18 @@
 | 2942 | [Find Words Containing Character](../Array/2942-find-words-containing-character/README.md) | Easy | Solved | 1 | cpp | 2025-09-06 |
 | 2974 | [Minimum Number Game](../Array/2974-minimum-number-game/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 3005 | [Count Elements With Maximum Frequency](../Array/3005-count-elements-with-maximum-frequency/README.md) | Easy | Solved | 1 | cpp | 2025-09-22 |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 3 | cpp | 2026-02-01 |
 | 3024 | [Type of Triangle](../Array/3024-type-of-triangle/README.md) | Easy | Solved | 2 | cpp | 2025-08-28 |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](../Array/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 3217 | [Delete Nodes From Linked List Present in Array](../Array/3217-delete-nodes-from-linked-list-present-in-array/README.md) | Medium | Solved | 2 | cpp | 2025-11-01 |
 | 3232 | [Find if Digit Game Can Be Won](../Array/3232-find-if-digit-game-can-be-won/README.md) | Easy | Solved | 3 | cpp | 2025-09-18 |
+| 3314 | [Construct the Minimum Bitwise Array I](../Array/3314-construct-the-minimum-bitwise-array-i/README.md) | Easy | Solved | 2 | cpp | 2026-01-27 |
+| 3315 | [Construct the Minimum Bitwise Array II](../Array/3315-construct-the-minimum-bitwise-array-ii/README.md) | Medium | Solved | 2 | cpp | 2026-01-21 |
 | 3349 | [Adjacent Increasing Subarrays Detection I](../Array/3349-adjacent-increasing-subarrays-detection-i/README.md) | Easy | Solved | 3 | cpp | 2025-10-14 |
 | 3354 | [Make Array Elements Equal to Zero](../Array/3354-make-array-elements-equal-to-zero/README.md) | Easy | Solved | 1 | cpp | 2025-10-28 |
+| 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-01-22 |
+| 3637 | [Trionic Array I](../Array/3637-trionic-array-i/README.md) | Easy | Solved | 5 | cpp | 2026-02-03 |
 | 3659 | [Partition Array Into K-Distinct Groups](../Array/3659-partition-array-into-k-distinct-groups/README.md) | Medium | Attempted | 1 | cpp | - |
 | 3668 | [Restore Finishing Order](../Array/3668-restore-finishing-order/README.md) | Easy | Solved | 1 | cpp | 2025-08-31 |
 | 3670 | [Maximum Product of Two Integers With No Common Bits](../Array/3670-maximum-product-of-two-integers-with-no-common-bits/README.md) | Medium | Attempted | 8 | cpp | - |
+| 3810 | [Minimum Operations to Reach Target Array](../Array/3810-minimum-operations-to-reach-target-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-20 |

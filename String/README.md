@@ -27,6 +27,7 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Hash Table | Medium | Solved |
 | 5 | [Longest Palindromic Substring](../Two-Pointers/0005-longest-palindromic-substring/README.md) | Two Pointers | Medium | Solved |
+| 14 | [Longest Common Prefix](../Array/0014-longest-common-prefix/README.md) | Array | Easy | Solved |
 | 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Two Pointers | Easy | Solved |
 | 49 | [Group Anagrams](../Array/0049-group-anagrams/README.md) | Array | Medium | Solved |
 | 67 | [Add Binary](../Math/0067-add-binary/README.md) | Math | Easy | Solved |
@@ -35,6 +36,7 @@ Filed under their main topic, but they use this one too.
 | 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Math | Easy | Solved |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Hash Table | Easy | Solved |
+| 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Attempted |
 | 1832 | [Check if the Sentence Is Pangram](../Hash-Table/1832-check-if-the-sentence-is-pangram/README.md) | Hash Table | Easy | Solved |
 | 1935 | [Maximum Number of Words You Can Type](../Hash-Table/1935-maximum-number-of-words-you-can-type/README.md) | Hash Table | Easy | Solved |
 | 2011 | [Final Value of Variable After Performing Operations](../Array/2011-final-value-of-variable-after-performing-operations/README.md) | Array | Easy | Solved |

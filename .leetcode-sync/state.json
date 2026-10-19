@@ -3225,6 +3225,291 @@
       "submissions": [
         {"id":1887460258,"status":"Accepted","lang":"cpp","timestamp":1768631993,"runtime":"0 ms","memory":"9.3 MB"}
       ]
+    },
+    "longest-common-prefix": {
+      "id": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "tags": ["Array","String","Trie"],
+      "topic": "Array",
+      "dir": "Array/0014-longest-common-prefix",
+      "first_attempt_at": 1768761357,
+      "last_attempt_at": 1768761357,
+      "solved_at": 1768761357,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1889189592,"status":"Accepted","lang":"cpp","timestamp":1768761357,"runtime":"0 ms","memory":"11.8 MB"}
+      },
+      "submissions": [
+        {"id":1889189592,"status":"Accepted","lang":"cpp","timestamp":1768761357,"runtime":"0 ms","memory":"11.8 MB"}
+      ]
+    },
+    "minimum-operations-to-reach-target-array": {
+      "id": "3810",
+      "title": "Minimum Operations to Reach Target Array",
+      "slug": "minimum-operations-to-reach-target-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Greedy"],
+      "topic": "Array",
+      "dir": "Array/3810-minimum-operations-to-reach-target-array",
+      "first_attempt_at": 1768880413,
+      "last_attempt_at": 1768880482,
+      "solved_at": 1768880413,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1890547958,"status":"Accepted","lang":"cpp","timestamp":1768880482,"runtime":"119 ms","memory":"257.4 MB"}
+      },
+      "submissions": [
+        {"id":1890547202,"status":"Accepted","lang":"cpp","timestamp":1768880413,"runtime":null,"memory":null},
+        {"id":1890547958,"status":"Accepted","lang":"cpp","timestamp":1768880482,"runtime":"119 ms","memory":"257.4 MB"}
+      ]
+    },
+    "construct-the-minimum-bitwise-array-ii": {
+      "id": "3315",
+      "title": "Construct the Minimum Bitwise Array II",
+      "slug": "construct-the-minimum-bitwise-array-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/3315-construct-the-minimum-bitwise-array-ii",
+      "first_attempt_at": 1769004909,
+      "last_attempt_at": 1769014476,
+      "solved_at": 1769014476,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1892387413,"status":"Accepted","lang":"cpp","timestamp":1769014476,"runtime":"0 ms","memory":"28.4 MB"}
+      },
+      "submissions": [
+        {"id":1892211314,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1769004909,"runtime":null,"memory":null},
+        {"id":1892387413,"status":"Accepted","lang":"cpp","timestamp":1769014476,"runtime":"0 ms","memory":"28.4 MB"}
+      ]
+    },
+    "minimum-pair-removal-to-sort-array-i": {
+      "id": "3507",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Linked List","Heap (Priority Queue)","Simulation","Doubly-Linked List","Ordered Set"],
+      "topic": "Array",
+      "dir": "Array/3507-minimum-pair-removal-to-sort-array-i",
+      "first_attempt_at": 1769096777,
+      "last_attempt_at": 1769096777,
+      "solved_at": 1769096777,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1893426003,"status":"Accepted","lang":"cpp","timestamp":1769096777,"runtime":"0 ms","memory":"26.6 MB"}
+      },
+      "submissions": [
+        {"id":1893426003,"status":"Accepted","lang":"cpp","timestamp":1769096777,"runtime":"0 ms","memory":"26.6 MB"}
+      ]
+    },
+    "maximum-product-of-three-numbers": {
+      "id": "628",
+      "title": "Maximum Product of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0628-maximum-product-of-three-numbers",
+      "first_attempt_at": 1769188731,
+      "last_attempt_at": 1785072506,
+      "solved_at": 1769188922,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2082078485,"status":"Accepted","lang":"cpp","timestamp":1785072506,"runtime":"19 ms","memory":"31.5 MB"}
+      },
+      "submissions": [
+        {"id":1894571249,"status":"Wrong Answer","lang":"cpp","timestamp":1769188731,"runtime":null,"memory":null},
+        {"id":1894574799,"status":"Accepted","lang":"cpp","timestamp":1769188922,"runtime":null,"memory":null},
+        {"id":2082078485,"status":"Accepted","lang":"cpp","timestamp":1785072506,"runtime":"19 ms","memory":"31.5 MB"}
+      ]
+    },
+    "minimize-maximum-pair-sum-in-array": {
+      "id": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Greedy","Sorting"],
+      "topic": "Array",
+      "dir": "Array/1877-minimize-maximum-pair-sum-in-array",
+      "first_attempt_at": 1769272051,
+      "last_attempt_at": 1769272051,
+      "solved_at": 1769272051,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1895518467,"status":"Accepted","lang":"cpp","timestamp":1769272051,"runtime":"200 ms","memory":"105.6 MB"}
+      },
+      "submissions": [
+        {"id":1895518467,"status":"Accepted","lang":"cpp","timestamp":1769272051,"runtime":"200 ms","memory":"105.6 MB"}
+      ]
+    },
+    "minimum-difference-between-highest-and-lowest-of-k-scores": {
+      "id": "1984",
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "difficulty": "Easy",
+      "tags": ["Array","Sliding Window","Sorting"],
+      "topic": "Array",
+      "dir": "Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+      "first_attempt_at": 1769361112,
+      "last_attempt_at": 1769362835,
+      "solved_at": 1769362133,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1896760012,"status":"Accepted","lang":"cpp","timestamp":1769362835,"runtime":"4 ms","memory":"17.3 MB"}
+      },
+      "submissions": [
+        {"id":1896728482,"status":"Wrong Answer","lang":"cpp","timestamp":1769361112,"runtime":null,"memory":null},
+        {"id":1896747163,"status":"Accepted","lang":"cpp","timestamp":1769362133,"runtime":null,"memory":null},
+        {"id":1896760012,"status":"Accepted","lang":"cpp","timestamp":1769362835,"runtime":"4 ms","memory":"17.3 MB"}
+      ]
+    },
+    "minimum-absolute-difference": {
+      "id": "1200",
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting"],
+      "topic": "Array",
+      "dir": "Array/1200-minimum-absolute-difference",
+      "first_attempt_at": 1769448460,
+      "last_attempt_at": 1769448854,
+      "solved_at": 1769448854,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1897901162,"status":"Accepted","lang":"cpp","timestamp":1769448854,"runtime":"11 ms","memory":"36.7 MB"}
+      },
+      "submissions": [
+        {"id":1897893423,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1769448460,"runtime":null,"memory":null},
+        {"id":1897901162,"status":"Accepted","lang":"cpp","timestamp":1769448854,"runtime":"11 ms","memory":"36.7 MB"}
+      ]
+    },
+    "construct-the-minimum-bitwise-array-i": {
+      "id": "3314",
+      "title": "Construct the Minimum Bitwise Array I",
+      "slug": "construct-the-minimum-bitwise-array-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/3314-construct-the-minimum-bitwise-array-i",
+      "first_attempt_at": 1769533551,
+      "last_attempt_at": 1769533645,
+      "solved_at": 1769533551,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1898882160,"status":"Accepted","lang":"cpp","timestamp":1769533645,"runtime":"3 ms","memory":"25.1 MB"}
+      },
+      "submissions": [
+        {"id":1898879744,"status":"Accepted","lang":"cpp","timestamp":1769533551,"runtime":null,"memory":null},
+        {"id":1898882160,"status":"Accepted","lang":"cpp","timestamp":1769533645,"runtime":"3 ms","memory":"25.1 MB"}
+      ]
+    },
+    "find-n-unique-integers-sum-up-to-zero": {
+      "id": "1304",
+      "title": "Find N Unique Integers Sum up to Zero",
+      "slug": "find-n-unique-integers-sum-up-to-zero",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/1304-find-n-unique-integers-sum-up-to-zero",
+      "first_attempt_at": 1769620038,
+      "last_attempt_at": 1769620038,
+      "solved_at": 1769620038,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1900046555,"status":"Accepted","lang":"cpp","timestamp":1769620038,"runtime":"0 ms","memory":"9.8 MB"}
+      },
+      "submissions": [
+        {"id":1900046555,"status":"Accepted","lang":"cpp","timestamp":1769620038,"runtime":"0 ms","memory":"9.8 MB"}
+      ]
+    },
+    "find-smallest-letter-greater-than-target": {
+      "id": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0744-find-smallest-letter-greater-than-target",
+      "first_attempt_at": 1769831568,
+      "last_attempt_at": 1769832056,
+      "solved_at": 1769831568,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1902557202,"status":"Accepted","lang":"cpp","timestamp":1769832056,"runtime":"0 ms","memory":"19.8 MB"}
+      },
+      "submissions": [
+        {"id":1902552319,"status":"Accepted","lang":"cpp","timestamp":1769831568,"runtime":null,"memory":null},
+        {"id":1902557202,"status":"Accepted","lang":"cpp","timestamp":1769832056,"runtime":"0 ms","memory":"19.8 MB"}
+      ]
+    },
+    "divide-an-array-into-subarrays-with-minimum-cost-i": {
+      "id": "3010",
+      "title": "Divide an Array Into Subarrays With Minimum Cost I",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting","Enumeration"],
+      "topic": "Array",
+      "dir": "Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+      "first_attempt_at": 1769952542,
+      "last_attempt_at": 1769953296,
+      "solved_at": 1769953296,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1904387197,"status":"Accepted","lang":"cpp","timestamp":1769953296,"runtime":"2 ms","memory":"30.4 MB"}
+      },
+      "submissions": [
+        {"id":1904375182,"status":"Wrong Answer","lang":"cpp","timestamp":1769952542,"runtime":null,"memory":null},
+        {"id":1904381237,"status":"Wrong Answer","lang":"cpp","timestamp":1769952921,"runtime":null,"memory":null},
+        {"id":1904387197,"status":"Accepted","lang":"cpp","timestamp":1769953296,"runtime":"2 ms","memory":"30.4 MB"}
+      ]
+    },
+    "trionic-array-i": {
+      "id": "3637",
+      "title": "Trionic Array I",
+      "slug": "trionic-array-i",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/3637-trionic-array-i",
+      "first_attempt_at": 1770088826,
+      "last_attempt_at": 1770090435,
+      "solved_at": 1770090375,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1906174762,"status":"Accepted","lang":"cpp","timestamp":1770090435,"runtime":"0 ms","memory":"27.8 MB"}
+      },
+      "submissions": [
+        {"id":1906154420,"status":"Wrong Answer","lang":"cpp","timestamp":1770088826,"runtime":null,"memory":null},
+        {"id":1906159624,"status":"Wrong Answer","lang":"cpp","timestamp":1770089242,"runtime":null,"memory":null},
+        {"id":1906163812,"status":"Wrong Answer","lang":"cpp","timestamp":1770089584,"runtime":null,"memory":null},
+        {"id":1906173964,"status":"Accepted","lang":"cpp","timestamp":1770090375,"runtime":null,"memory":null},
+        {"id":1906174762,"status":"Accepted","lang":"cpp","timestamp":1770090435,"runtime":"0 ms","memory":"27.8 MB"}
+      ]
+    },
+    "sum-of-beauty-of-all-substrings": {
+      "id": "1781",
+      "title": "Sum of Beauty of All Substrings",
+      "slug": "sum-of-beauty-of-all-substrings",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/1781-sum-of-beauty-of-all-substrings",
+      "first_attempt_at": 1770138611,
+      "last_attempt_at": 1770138611,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1907013108,"status":"Wrong Answer","lang":"cpp","timestamp":1770138611,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1907013108,"status":"Wrong Answer","lang":"cpp","timestamp":1770138611,"runtime":null,"memory":null}
+      ]
+    },
+    "house-robber-ii": {
+      "id": "213",
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0213-house-robber-ii",
+      "first_attempt_at": 1770869570,
+      "last_attempt_at": 1770869570,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1916495667,"status":"Compile Error","lang":"cpp","timestamp":1770869570,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1916495667,"status":"Compile Error","lang":"cpp","timestamp":1770869570,"runtime":null,"memory":null}
+      ]
     }
   }
 }
