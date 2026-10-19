@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 8 | 8 | 0 | 6 | 2 | 0 |
+| 9 | 9 | 0 | 7 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | 326 | [Power of Three](../Math/0326-power-of-three/README.md) | Easy | Solved | 2 | cpp | 2025-07-25 |
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Easy | Solved | 4 | cpp | 2025-07-25 |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2025-07-20 |
+| 3304 | [Find the K-th Character in String Game I](../Math/3304-find-the-k-th-character-in-string-game-i/README.md) | Easy | Solved | 7 | cpp | 2025-08-24 |
 
 ## Also tagged Math
 

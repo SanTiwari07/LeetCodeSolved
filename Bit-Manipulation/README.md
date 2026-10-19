@@ -20,3 +20,4 @@ Filed under their main topic, but they use this one too.
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Math | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Math | Easy | Solved |
+| 3304 | [Find the K-th Character in String Game I](../Math/3304-find-the-k-th-character-in-string-game-i/README.md) | Math | Easy | Solved |

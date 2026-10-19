@@ -22,4 +22,5 @@ Filed under their main topic, but they use this one too.
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Array | Easy | Solved |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Array | Easy | Solved |
+| 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Array | Medium | Solved |

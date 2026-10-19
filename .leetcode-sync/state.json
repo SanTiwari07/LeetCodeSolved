@@ -615,6 +615,314 @@
       "submissions": [
         {"id":1730268457,"status":"Accepted","lang":"cpp","timestamp":1754840046,"runtime":"0 ms","memory":"11.6 MB"}
       ]
+    },
+    "string-to-integer-atoi": {
+      "id": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/0008-string-to-integer-atoi",
+      "first_attempt_at": 1754928501,
+      "last_attempt_at": 1755708173,
+      "solved_at": 1754928838,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1742291218,"status":"Accepted","lang":"cpp","timestamp":1755708173,"runtime":"0 ms","memory":"9.2 MB"}
+      },
+      "submissions": [
+        {"id":1731433798,"status":"Wrong Answer","lang":"cpp","timestamp":1754928501,"runtime":null,"memory":null},
+        {"id":1731440765,"status":"Accepted","lang":"cpp","timestamp":1754928838,"runtime":null,"memory":null},
+        {"id":1732704908,"status":"Compile Error","lang":"cpp","timestamp":1755017036,"runtime":null,"memory":null},
+        {"id":1742291218,"status":"Accepted","lang":"cpp","timestamp":1755708173,"runtime":"0 ms","memory":"9.2 MB"}
+      ]
+    },
+    "find-the-k-th-character-in-string-game-i": {
+      "id": "3304",
+      "title": "Find the K-th Character in String Game I",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "difficulty": "Easy",
+      "tags": ["Math","Bit Manipulation","Recursion","Simulation"],
+      "topic": "Math",
+      "dir": "Math/3304-find-the-k-th-character-in-string-game-i",
+      "first_attempt_at": 1755077142,
+      "last_attempt_at": 1756052622,
+      "solved_at": 1756040857,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1746822309,"status":"Accepted","lang":"cpp","timestamp":1756052622,"runtime":"0 ms","memory":"8.1 MB"}
+      },
+      "submissions": [
+        {"id":1733530754,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1755077142,"runtime":null,"memory":null},
+        {"id":1746628872,"status":"Accepted","lang":"cpp","timestamp":1756040857,"runtime":null,"memory":null},
+        {"id":1746801252,"status":"Wrong Answer","lang":"cpp","timestamp":1756051417,"runtime":null,"memory":null},
+        {"id":1746802108,"status":"Wrong Answer","lang":"cpp","timestamp":1756051469,"runtime":null,"memory":null},
+        {"id":1746805921,"status":"Accepted","lang":"cpp","timestamp":1756051698,"runtime":null,"memory":null},
+        {"id":1746813833,"status":"Accepted","lang":"cpp","timestamp":1756052138,"runtime":null,"memory":null},
+        {"id":1746822309,"status":"Accepted","lang":"cpp","timestamp":1756052622,"runtime":"0 ms","memory":"8.1 MB"}
+      ]
+    },
+    "binary-search": {
+      "id": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0704-binary-search",
+      "first_attempt_at": 1755333854,
+      "last_attempt_at": 1792217610,
+      "solved_at": 1755333942,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174333513,"status":"Accepted","lang":"cpp","timestamp":1792217610,"runtime":"0 ms","memory":"31.4 MB"}
+      },
+      "submissions": [
+        {"id":1737039400,"status":"Runtime Error","lang":"cpp","timestamp":1755333854,"runtime":null,"memory":null},
+        {"id":1737040630,"status":"Accepted","lang":"cpp","timestamp":1755333942,"runtime":null,"memory":null},
+        {"id":2174333303,"status":"Accepted","lang":"cpp","timestamp":1792217588,"runtime":null,"memory":null},
+        {"id":2174333513,"status":"Accepted","lang":"cpp","timestamp":1792217610,"runtime":"0 ms","memory":"31.4 MB"}
+      ]
+    },
+    "find-first-and-last-position-of-element-in-sorted-array": {
+      "id": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0034-find-first-and-last-position-of-element-in-sorted-array",
+      "first_attempt_at": 1755335644,
+      "last_attempt_at": 1758127046,
+      "solved_at": 1755336205,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1774092189,"status":"Accepted","lang":"cpp","timestamp":1758127046,"runtime":"0 ms","memory":"17.5 MB"}
+      },
+      "submissions": [
+        {"id":1737065368,"status":"Runtime Error","lang":"cpp","timestamp":1755335644,"runtime":null,"memory":null},
+        {"id":1737067758,"status":"Wrong Answer","lang":"cpp","timestamp":1755335807,"runtime":null,"memory":null},
+        {"id":1737073804,"status":"Accepted","lang":"cpp","timestamp":1755336205,"runtime":null,"memory":null},
+        {"id":1774092189,"status":"Accepted","lang":"cpp","timestamp":1758127046,"runtime":"0 ms","memory":"17.5 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array": {
+      "id": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0033-search-in-rotated-sorted-array",
+      "first_attempt_at": 1755340694,
+      "last_attempt_at": 1792247773,
+      "solved_at": 1755342040,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174635033,"status":"Accepted","lang":"cpp","timestamp":1792247773,"runtime":"0 ms","memory":"15.2 MB"}
+      },
+      "submissions": [
+        {"id":1737146237,"status":"Wrong Answer","lang":"cpp","timestamp":1755340694,"runtime":null,"memory":null},
+        {"id":1737147232,"status":"Wrong Answer","lang":"cpp","timestamp":1755340760,"runtime":null,"memory":null},
+        {"id":1737150727,"status":"Wrong Answer","lang":"cpp","timestamp":1755340975,"runtime":null,"memory":null},
+        {"id":1737168032,"status":"Accepted","lang":"cpp","timestamp":1755342040,"runtime":null,"memory":null},
+        {"id":1737281483,"status":"Accepted","lang":"cpp","timestamp":1755349497,"runtime":null,"memory":null},
+        {"id":2174635033,"status":"Accepted","lang":"cpp","timestamp":1792247773,"runtime":"0 ms","memory":"15.2 MB"}
+      ]
+    },
+    "search-a-2d-matrix": {
+      "id": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0074-search-a-2d-matrix",
+      "first_attempt_at": 1755509418,
+      "last_attempt_at": 1792221342,
+      "solved_at": 1755509418,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174371955,"status":"Accepted","lang":"cpp","timestamp":1792221342,"runtime":"0 ms","memory":"13.3 MB"}
+      },
+      "submissions": [
+        {"id":1739440262,"status":"Accepted","lang":"cpp","timestamp":1755509418,"runtime":null,"memory":null},
+        {"id":2174369798,"status":"Restrictions Failed","lang":"cpp","timestamp":1792221123,"runtime":null,"memory":null},
+        {"id":2174371955,"status":"Accepted","lang":"cpp","timestamp":1792221342,"runtime":"0 ms","memory":"13.3 MB"}
+      ]
+    },
+    "search-a-2d-matrix-ii": {
+      "id": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Divide and Conquer","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0240-search-a-2d-matrix-ii",
+      "first_attempt_at": 1755510692,
+      "last_attempt_at": 1755510731,
+      "solved_at": 1755510692,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1739459179,"status":"Accepted","lang":"cpp","timestamp":1755510731,"runtime":"74 ms","memory":"18.8 MB"}
+      },
+      "submissions": [
+        {"id":1739458602,"status":"Accepted","lang":"cpp","timestamp":1755510692,"runtime":null,"memory":null},
+        {"id":1739459179,"status":"Accepted","lang":"cpp","timestamp":1755510731,"runtime":"74 ms","memory":"18.8 MB"}
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "id": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0153-find-minimum-in-rotated-sorted-array",
+      "first_attempt_at": 1755532920,
+      "last_attempt_at": 1792246818,
+      "solved_at": 1755532920,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174623493,"status":"Accepted","lang":"cpp","timestamp":1792246818,"runtime":"0 ms","memory":"14.3 MB"}
+      },
+      "submissions": [
+        {"id":1739814575,"status":"Accepted","lang":"cpp","timestamp":1755532920,"runtime":null,"memory":null},
+        {"id":2174622678,"status":"Wrong Answer","lang":"cpp","timestamp":1792246747,"runtime":null,"memory":null},
+        {"id":2174623493,"status":"Accepted","lang":"cpp","timestamp":1792246818,"runtime":"0 ms","memory":"14.3 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array-ii": {
+      "id": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0081-search-in-rotated-sorted-array-ii",
+      "first_attempt_at": 1755534499,
+      "last_attempt_at": 1755537642,
+      "solved_at": 1755536302,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1739916295,"status":"Accepted","lang":"cpp","timestamp":1755537642,"runtime":"0 ms","memory":"18 MB"}
+      },
+      "submissions": [
+        {"id":1739847007,"status":"Runtime Error","lang":"cpp","timestamp":1755534499,"runtime":null,"memory":null},
+        {"id":1739886262,"status":"Accepted","lang":"cpp","timestamp":1755536302,"runtime":null,"memory":null},
+        {"id":1739916295,"status":"Accepted","lang":"cpp","timestamp":1755537642,"runtime":"0 ms","memory":"18 MB"}
+      ]
+    },
+    "single-element-in-a-sorted-array": {
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0540-single-element-in-a-sorted-array",
+      "first_attempt_at": 1755611377,
+      "last_attempt_at": 1755612434,
+      "solved_at": 1755612434,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1740915217,"status":"Accepted","lang":"cpp","timestamp":1755612434,"runtime":"0 ms","memory":"26.1 MB"}
+      },
+      "submissions": [
+        {"id":1740894418,"status":"Runtime Error","lang":"cpp","timestamp":1755611377,"runtime":null,"memory":null},
+        {"id":1740898927,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1755611604,"runtime":null,"memory":null},
+        {"id":1740915217,"status":"Accepted","lang":"cpp","timestamp":1755612434,"runtime":"0 ms","memory":"26.1 MB"}
+      ]
+    },
+    "kth-missing-positive-number": {
+      "id": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1539-kth-missing-positive-number",
+      "first_attempt_at": 1755621029,
+      "last_attempt_at": 1755621029,
+      "solved_at": 1755621029,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1741088294,"status":"Accepted","lang":"cpp","timestamp":1755621029,"runtime":"0 ms","memory":"13.1 MB"}
+      },
+      "submissions": [
+        {"id":1741088294,"status":"Accepted","lang":"cpp","timestamp":1755621029,"runtime":"0 ms","memory":"13.1 MB"}
+      ]
+    },
+    "count-submatrices-with-all-ones": {
+      "id": "1504",
+      "title": "Count Submatrices With All Ones",
+      "slug": "count-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Stack","Matrix","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/1504-count-submatrices-with-all-ones",
+      "first_attempt_at": 1755796143,
+      "last_attempt_at": 1755796143,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1743474990,"status":"Wrong Answer","lang":"cpp","timestamp":1755796143,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1743474990,"status":"Wrong Answer","lang":"cpp","timestamp":1755796143,"runtime":null,"memory":null}
+      ]
+    },
+    "valid-parentheses": {
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "tags": ["String","Stack","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0020-valid-parentheses",
+      "first_attempt_at": 1755853703,
+      "last_attempt_at": 1792322691,
+      "solved_at": 1755854925,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175336035,"status":"Accepted","lang":"cpp","timestamp":1792322691,"runtime":"0 ms","memory":"8.8 MB"}
+      },
+      "submissions": [
+        {"id":1744148686,"status":"Wrong Answer","lang":"cpp","timestamp":1755853703,"runtime":null,"memory":null},
+        {"id":1744154054,"status":"Wrong Answer","lang":"cpp","timestamp":1755854045,"runtime":null,"memory":null},
+        {"id":1744165891,"status":"Wrong Answer","lang":"cpp","timestamp":1755854822,"runtime":null,"memory":null},
+        {"id":1744167433,"status":"Accepted","lang":"cpp","timestamp":1755854925,"runtime":null,"memory":null},
+        {"id":1744198206,"status":"Accepted","lang":"cpp","timestamp":1755857056,"runtime":null,"memory":null},
+        {"id":1877662707,"status":"Accepted","lang":"cpp","timestamp":1767794956,"runtime":null,"memory":null},
+        {"id":2175335700,"status":"Wrong Answer","lang":"cpp","timestamp":1792322659,"runtime":null,"memory":null},
+        {"id":2175336035,"status":"Accepted","lang":"cpp","timestamp":1792322691,"runtime":"0 ms","memory":"8.8 MB"}
+      ]
+    },
+    "intersection-of-two-arrays": {
+      "id": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Two Pointers","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0349-intersection-of-two-arrays",
+      "first_attempt_at": 1755858281,
+      "last_attempt_at": 1755859375,
+      "solved_at": 1755858281,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1744229993,"status":"Accepted","lang":"cpp","timestamp":1755859375,"runtime":"2 ms","memory":"14.6 MB"}
+      },
+      "submissions": [
+        {"id":1744215404,"status":"Accepted","lang":"cpp","timestamp":1755858281,"runtime":null,"memory":null},
+        {"id":1744229993,"status":"Accepted","lang":"cpp","timestamp":1755859375,"runtime":"2 ms","memory":"14.6 MB"}
+      ]
+    },
+    "baseball-game": {
+      "id": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "difficulty": "Easy",
+      "tags": ["Array","Stack","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0682-baseball-game",
+      "first_attempt_at": 1755965223,
+      "last_attempt_at": 1755965283,
+      "solved_at": 1755965223,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1745577553,"status":"Accepted","lang":"cpp","timestamp":1755965283,"runtime":"0 ms","memory":"12.9 MB"}
+      },
+      "submissions": [
+        {"id":1745576523,"status":"Accepted","lang":"cpp","timestamp":1755965223,"runtime":null,"memory":null},
+        {"id":1745577553,"status":"Accepted","lang":"cpp","timestamp":1755965283,"runtime":"0 ms","memory":"12.9 MB"}
+      ]
     }
   }
 }
