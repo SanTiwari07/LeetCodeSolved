@@ -923,6 +923,284 @@
         {"id":1745576523,"status":"Accepted","lang":"cpp","timestamp":1755965223,"runtime":null,"memory":null},
         {"id":1745577553,"status":"Accepted","lang":"cpp","timestamp":1755965283,"runtime":"0 ms","memory":"12.9 MB"}
       ]
+    },
+    "gcd-of-odd-and-even-sums": {
+      "id": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "tags": ["Math","Number Theory"],
+      "topic": "Math",
+      "dir": "Math/3658-gcd-of-odd-and-even-sums",
+      "first_attempt_at": 1756005683,
+      "last_attempt_at": 1756005935,
+      "solved_at": 1756005935,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1746082477,"status":"Accepted","lang":"cpp","timestamp":1756005935,"runtime":"568 ms","memory":"8.5 MB"}
+      },
+      "submissions": [
+        {"id":1746075807,"status":"Compile Error","lang":"cpp","timestamp":1756005683,"runtime":null,"memory":null},
+        {"id":1746077451,"status":"Wrong Answer","lang":"cpp","timestamp":1756005744,"runtime":null,"memory":null},
+        {"id":1746082477,"status":"Accepted","lang":"cpp","timestamp":1756005935,"runtime":"568 ms","memory":"8.5 MB"}
+      ]
+    },
+    "partition-array-into-k-distinct-groups": {
+      "id": "3659",
+      "title": "Partition Array Into K-Distinct Groups",
+      "slug": "partition-array-into-k-distinct-groups",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Counting"],
+      "topic": "Array",
+      "dir": "Array/3659-partition-array-into-k-distinct-groups",
+      "first_attempt_at": 1756006986,
+      "last_attempt_at": 1756006986,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1746107884,"status":"Wrong Answer","lang":"cpp","timestamp":1756006986,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1746107884,"status":"Wrong Answer","lang":"cpp","timestamp":1756006986,"runtime":null,"memory":null}
+      ]
+    },
+    "island-perimeter": {
+      "id": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "difficulty": "Easy",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0463-island-perimeter",
+      "first_attempt_at": 1756039581,
+      "last_attempt_at": 1756039581,
+      "solved_at": 1756039581,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1746609009,"status":"Accepted","lang":"cpp","timestamp":1756039581,"runtime":"0 ms","memory":"102 MB"}
+      },
+      "submissions": [
+        {"id":1746609009,"status":"Accepted","lang":"cpp","timestamp":1756039581,"runtime":"0 ms","memory":"102 MB"}
+      ]
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "id": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","String Matching","Z Algorithm","Knuth–Morris–Pratt Algorithm","Boyer–Moore String-Search Algorithm"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "first_attempt_at": 1756125391,
+      "last_attempt_at": 1756125391,
+      "solved_at": 1756125391,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1747712180,"status":"Accepted","lang":"cpp","timestamp":1756125391,"runtime":"0 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":1747712180,"status":"Accepted","lang":"cpp","timestamp":1756125391,"runtime":"0 ms","memory":"8.6 MB"}
+      ]
+    },
+    "median-of-two-sorted-arrays": {
+      "id": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Divide and Conquer"],
+      "topic": "Array",
+      "dir": "Array/0004-median-of-two-sorted-arrays",
+      "first_attempt_at": 1756132007,
+      "last_attempt_at": 1760808872,
+      "solved_at": 1756132007,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1805196835,"status":"Accepted","lang":"cpp","timestamp":1760808872,"runtime":"0 ms","memory":"95.8 MB"}
+      },
+      "submissions": [
+        {"id":1747824762,"status":"Accepted","lang":"cpp","timestamp":1756132007,"runtime":null,"memory":null},
+        {"id":1805196835,"status":"Accepted","lang":"cpp","timestamp":1760808872,"runtime":"0 ms","memory":"95.8 MB"}
+      ]
+    },
+    "add-digits": {
+      "id": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "tags": ["Math","Simulation","Number Theory"],
+      "topic": "Math",
+      "dir": "Math/0258-add-digits",
+      "first_attempt_at": 1756210523,
+      "last_attempt_at": 1756426882,
+      "solved_at": 1756210666,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1751866611,"status":"Accepted","lang":"cpp","timestamp":1756426882,"runtime":"3 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":1748960698,"status":"Wrong Answer","lang":"cpp","timestamp":1756210523,"runtime":null,"memory":null},
+        {"id":1748962729,"status":"Accepted","lang":"cpp","timestamp":1756210666,"runtime":null,"memory":null},
+        {"id":1751866611,"status":"Accepted","lang":"cpp","timestamp":1756426882,"runtime":"3 ms","memory":"8.6 MB"}
+      ]
+    },
+    "first-unique-character-in-a-string": {
+      "id": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Queue","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0387-first-unique-character-in-a-string",
+      "first_attempt_at": 1756211115,
+      "last_attempt_at": 1756211958,
+      "solved_at": 1756211115,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1748981630,"status":"Accepted","lang":"cpp","timestamp":1756211958,"runtime":"3 ms","memory":"14.5 MB"}
+      },
+      "submissions": [
+        {"id":1748969270,"status":"Accepted","lang":"cpp","timestamp":1756211115,"runtime":null,"memory":null},
+        {"id":1748981630,"status":"Accepted","lang":"cpp","timestamp":1756211958,"runtime":"3 ms","memory":"14.5 MB"}
+      ]
+    },
+    "minimum-number-game": {
+      "id": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting","Heap (Priority Queue)","Simulation"],
+      "topic": "Array",
+      "dir": "Array/2974-minimum-number-game",
+      "first_attempt_at": 1756222681,
+      "last_attempt_at": 1756222681,
+      "solved_at": 1756222681,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1749176215,"status":"Accepted","lang":"cpp","timestamp":1756222681,"runtime":"0 ms","memory":"28 MB"}
+      },
+      "submissions": [
+        {"id":1749176215,"status":"Accepted","lang":"cpp","timestamp":1756222681,"runtime":"0 ms","memory":"28 MB"}
+      ]
+    },
+    "check-if-the-sentence-is-pangram": {
+      "id": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/1832-check-if-the-sentence-is-pangram",
+      "first_attempt_at": 1756223011,
+      "last_attempt_at": 1756223011,
+      "solved_at": 1756223011,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1749182399,"status":"Accepted","lang":"cpp","timestamp":1756223011,"runtime":"0 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1749182399,"status":"Accepted","lang":"cpp","timestamp":1756223011,"runtime":"0 ms","memory":"8.9 MB"}
+      ]
+    },
+    "count-the-digits-that-divide-a-number": {
+      "id": "2520",
+      "title": "Count the Digits That Divide a Number",
+      "slug": "count-the-digits-that-divide-a-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2520-count-the-digits-that-divide-a-number",
+      "first_attempt_at": 1756223856,
+      "last_attempt_at": 1756223904,
+      "solved_at": 1756223904,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1749199405,"status":"Accepted","lang":"cpp","timestamp":1756223904,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1749198484,"status":"Wrong Answer","lang":"cpp","timestamp":1756223856,"runtime":null,"memory":null},
+        {"id":1749199405,"status":"Accepted","lang":"cpp","timestamp":1756223904,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "number-of-employees-who-met-the-target": {
+      "id": "2798",
+      "title": "Number of Employees Who Met the Target",
+      "slug": "number-of-employees-who-met-the-target",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/2798-number-of-employees-who-met-the-target",
+      "first_attempt_at": 1756224704,
+      "last_attempt_at": 1756224704,
+      "solved_at": 1756224704,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1749215437,"status":"Accepted","lang":"cpp","timestamp":1756224704,"runtime":"0 ms","memory":"24.6 MB"}
+      },
+      "submissions": [
+        {"id":1749215437,"status":"Accepted","lang":"cpp","timestamp":1756224704,"runtime":"0 ms","memory":"24.6 MB"}
+      ]
+    },
+    "minimum-operations-to-exceed-threshold-value-i": {
+      "id": "3065",
+      "title": "Minimum Operations to Exceed Threshold Value I",
+      "slug": "minimum-operations-to-exceed-threshold-value-i",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/3065-minimum-operations-to-exceed-threshold-value-i",
+      "first_attempt_at": 1756224853,
+      "last_attempt_at": 1756224853,
+      "solved_at": 1756224853,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1749218445,"status":"Accepted","lang":"cpp","timestamp":1756224853,"runtime":"0 ms","memory":"25 MB"}
+      },
+      "submissions": [
+        {"id":1749218445,"status":"Accepted","lang":"cpp","timestamp":1756224853,"runtime":"0 ms","memory":"25 MB"}
+      ]
+    },
+    "sum-multiples": {
+      "id": "2652",
+      "title": "Sum Multiples",
+      "slug": "sum-multiples",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2652-sum-multiples",
+      "first_attempt_at": 1756225915,
+      "last_attempt_at": 1756225915,
+      "solved_at": 1756225915,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1749240716,"status":"Accepted","lang":"cpp","timestamp":1756225915,"runtime":"0 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":1749240716,"status":"Accepted","lang":"cpp","timestamp":1756225915,"runtime":"0 ms","memory":"8.7 MB"}
+      ]
+    },
+    "divisible-and-non-divisible-sums-difference": {
+      "id": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2894-divisible-and-non-divisible-sums-difference",
+      "first_attempt_at": 1756302485,
+      "last_attempt_at": 1756302485,
+      "solved_at": 1756302485,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1750214138,"status":"Accepted","lang":"cpp","timestamp":1756302485,"runtime":"0 ms","memory":"8.5 MB"}
+      },
+      "submissions": [
+        {"id":1750214138,"status":"Accepted","lang":"cpp","timestamp":1756302485,"runtime":"0 ms","memory":"8.5 MB"}
+      ]
+    },
+    "to-lower-case": {
+      "id": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/0709-to-lower-case",
+      "first_attempt_at": 1756303065,
+      "last_attempt_at": 1756303099,
+      "solved_at": 1756303099,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1750225245,"status":"Accepted","lang":"cpp","timestamp":1756303099,"runtime":"0 ms","memory":"8.2 MB"}
+      },
+      "submissions": [
+        {"id":1750224614,"status":"Wrong Answer","lang":"cpp","timestamp":1756303065,"runtime":null,"memory":null},
+        {"id":1750225245,"status":"Accepted","lang":"cpp","timestamp":1756303099,"runtime":"0 ms","memory":"8.2 MB"}
+      ]
     }
   }
 }

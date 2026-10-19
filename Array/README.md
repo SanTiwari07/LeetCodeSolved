@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 31 | 30 | 1 | 19 | 12 | 0 |
+| 37 | 35 | 2 | 23 | 13 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](../Array/0001-two-sum/README.md) | Easy | Solved | 11 | cpp | 2025-07-25 |
+| 4 | [Median of Two Sorted Arrays](../Array/0004-median-of-two-sorted-arrays/README.md) | Hard | Solved | 2 | cpp | 2025-08-25 |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 3 | cpp | 2025-07-27 |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Easy | Solved | 3 | cpp | 2025-08-09 |
 | 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 6 | cpp | 2025-08-16 |
@@ -31,6 +32,7 @@
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-07-27 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 4 | cpp | 2025-07-27 |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Easy | Solved | 2 | cpp | 2025-08-22 |
+| 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Easy | Solved | 1 | cpp | 2025-08-24 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 5 | cpp | 2025-07-27 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2025-08-19 |
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Easy | Solved | 2 | cpp | 2025-08-23 |
@@ -39,3 +41,7 @@
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2025-08-19 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 8 | cpp | 2025-07-26 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 3 | cpp | 2025-07-31 |
+| 2798 | [Number of Employees Who Met the Target](../Array/2798-number-of-employees-who-met-the-target/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
+| 2974 | [Minimum Number Game](../Array/2974-minimum-number-game/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](../Array/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
+| 3659 | [Partition Array Into K-Distinct Groups](../Array/3659-partition-array-into-k-distinct-groups/README.md) | Medium | Attempted | 1 | cpp | - |

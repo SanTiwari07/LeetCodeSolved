@@ -4,10 +4,11 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 0 | 1 | 0 | 0 |
+| 2 | 2 | 0 | 2 | 0 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Easy | Solved | 1 | cpp | 2025-08-25 |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Easy | Solved | 3 | cpp | 2025-07-20 |
 
 ## Also tagged Two Pointers
