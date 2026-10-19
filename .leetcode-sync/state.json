@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 0,
+  "synced_through": 2175565986,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4089,6 +4089,209 @@
       },
       "submissions": [
         {"id":2169381828,"status":"Accepted","lang":"mysql","timestamp":1791730777,"runtime":"365 ms","memory":"0B"}
+      ]
+    },
+    "primary-department-for-each-employee": {
+      "id": "1789",
+      "title": "Primary Department for Each Employee",
+      "slug": "primary-department-for-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1789-primary-department-for-each-employee",
+      "first_attempt_at": 1791824741,
+      "last_attempt_at": 1791824741,
+      "solved_at": 1791824741,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2170419756,"status":"Accepted","lang":"mysql","timestamp":1791824741,"runtime":"546 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2170419756,"status":"Accepted","lang":"mysql","timestamp":1791824741,"runtime":"546 ms","memory":"0B"}
+      ]
+    },
+    "fix-names-in-a-table": {
+      "id": "1667",
+      "title": "Fix Names in a Table",
+      "slug": "fix-names-in-a-table",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1667-fix-names-in-a-table",
+      "first_attempt_at": 1791907206,
+      "last_attempt_at": 1791907236,
+      "solved_at": 1791907236,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2171345527,"status":"Accepted","lang":"mysql","timestamp":1791907236,"runtime":"651 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2171345058,"status":"Wrong Answer","lang":"mysql","timestamp":1791907206,"runtime":null,"memory":null},
+        {"id":2171345527,"status":"Accepted","lang":"mysql","timestamp":1791907236,"runtime":"651 ms","memory":"0B"}
+      ]
+    },
+    "patients-with-a-condition": {
+      "id": "1527",
+      "title": "Patients With a Condition",
+      "slug": "patients-with-a-condition",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1527-patients-with-a-condition",
+      "first_attempt_at": 1791985546,
+      "last_attempt_at": 1791985635,
+      "solved_at": 1791985635,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2172172200,"status":"Accepted","lang":"mysql","timestamp":1791985635,"runtime":"608 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2172170894,"status":"Wrong Answer","lang":"mysql","timestamp":1791985546,"runtime":null,"memory":null},
+        {"id":2172171639,"status":"Wrong Answer","lang":"mysql","timestamp":1791985597,"runtime":null,"memory":null},
+        {"id":2172172200,"status":"Accepted","lang":"mysql","timestamp":1791985635,"runtime":"608 ms","memory":"0B"}
+      ]
+    },
+    "sum-of-squares-of-special-elements": {
+      "id": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "tags": ["Array","Enumeration"],
+      "topic": "Array",
+      "dir": "Array/2778-sum-of-squares-of-special-elements",
+      "first_attempt_at": 1792134320,
+      "last_attempt_at": 1792134320,
+      "solved_at": 1792134320,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2173636065,"status":"Accepted","lang":"cpp","timestamp":1792134320,"runtime":"0 ms","memory":"39.9 MB"}
+      },
+      "submissions": [
+        {"id":2173636065,"status":"Accepted","lang":"cpp","timestamp":1792134320,"runtime":"0 ms","memory":"39.9 MB"}
+      ]
+    },
+    "koko-eating-bananas": {
+      "id": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0875-koko-eating-bananas",
+      "first_attempt_at": 1792244602,
+      "last_attempt_at": 1792245252,
+      "solved_at": 1792245252,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174604467,"status":"Accepted","lang":"cpp","timestamp":1792245252,"runtime":"8 ms","memory":"22.8 MB"}
+      },
+      "submissions": [
+        {"id":2174596678,"status":"Runtime Error","lang":"cpp","timestamp":1792244602,"runtime":null,"memory":null},
+        {"id":2174604467,"status":"Accepted","lang":"cpp","timestamp":1792245252,"runtime":"8 ms","memory":"22.8 MB"}
+      ]
+    },
+    "min-stack": {
+      "id": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "tags": ["Stack","Design"],
+      "topic": "Stack",
+      "dir": "Stack/0155-min-stack",
+      "first_attempt_at": 1792326613,
+      "last_attempt_at": 1792326613,
+      "solved_at": 1792326613,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175374860,"status":"Accepted","lang":"cpp","timestamp":1792326613,"runtime":"250 ms","memory":"151.2 MB"}
+      },
+      "submissions": [
+        {"id":2175374860,"status":"Accepted","lang":"cpp","timestamp":1792326613,"runtime":"250 ms","memory":"151.2 MB"}
+      ]
+    },
+    "evaluate-reverse-polish-notation": {
+      "id": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Stack"],
+      "topic": "Array",
+      "dir": "Array/0150-evaluate-reverse-polish-notation",
+      "first_attempt_at": 1792329852,
+      "last_attempt_at": 1792329852,
+      "solved_at": 1792329852,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175411007,"status":"Accepted","lang":"cpp","timestamp":1792329852,"runtime":"1 ms","memory":"16.9 MB"}
+      },
+      "submissions": [
+        {"id":2175411007,"status":"Accepted","lang":"cpp","timestamp":1792329852,"runtime":"1 ms","memory":"16.9 MB"}
+      ]
+    },
+    "daily-temperatures": {
+      "id": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0739-daily-temperatures",
+      "first_attempt_at": 1792331570,
+      "last_attempt_at": 1792331914,
+      "solved_at": 1792331914,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175436988,"status":"Accepted","lang":"cpp","timestamp":1792331914,"runtime":"25 ms","memory":"107.4 MB"}
+      },
+      "submissions": [
+        {"id":2175432633,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792331570,"runtime":null,"memory":null},
+        {"id":2175436988,"status":"Accepted","lang":"cpp","timestamp":1792331914,"runtime":"25 ms","memory":"107.4 MB"}
+      ]
+    },
+    "car-fleet": {
+      "id": "853",
+      "title": "Car Fleet",
+      "slug": "car-fleet",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Sorting","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0853-car-fleet",
+      "first_attempt_at": 1792334583,
+      "last_attempt_at": 1792334583,
+      "solved_at": 1792334583,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175470555,"status":"Accepted","lang":"cpp","timestamp":1792334583,"runtime":"41 ms","memory":"100 MB"}
+      },
+      "submissions": [
+        {"id":2175470555,"status":"Accepted","lang":"cpp","timestamp":1792334583,"runtime":"41 ms","memory":"100 MB"}
+      ]
+    },
+    "customers-who-never-order": {
+      "id": "183",
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0183-customers-who-never-order",
+      "first_attempt_at": 1792341422,
+      "last_attempt_at": 1792341422,
+      "solved_at": 1792341422,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2175555129,"status":"Accepted","lang":"mysql","timestamp":1792341422,"runtime":"655 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2175555129,"status":"Accepted","lang":"mysql","timestamp":1792341422,"runtime":"655 ms","memory":"0B"}
+      ]
+    },
+    "delete-duplicate-emails": {
+      "id": "196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0196-delete-duplicate-emails",
+      "first_attempt_at": 1792342199,
+      "last_attempt_at": 1792342199,
+      "solved_at": 1792342199,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2175565986,"status":"Accepted","lang":"mysql","timestamp":1792342199,"runtime":"1248 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2175565986,"status":"Accepted","lang":"mysql","timestamp":1792342199,"runtime":"1248 ms","memory":"0B"}
       ]
     }
   }

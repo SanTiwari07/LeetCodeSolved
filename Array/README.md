@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 108 | 103 | 5 | 61 | 45 | 2 |
+| 113 | 108 | 5 | 62 | 49 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,6 +39,7 @@
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Solved | 4 | cpp | 2025-07-30 |
 | 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Medium | Solved | 2 | cpp | 2026-01-04 |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Easy | Solved | 4 | cpp | 2025-07-27 |
+| 150 | [Evaluate Reverse Polish Notation](../Array/0150-evaluate-reverse-polish-notation/README.md) | Medium | Solved | 1 | cpp | 2026-10-18 |
 | 153 | [Find Minimum in Rotated Sorted Array](../Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2025-08-18 |
 | 167 | [Two Sum II - Input Array Is Sorted](../Array/0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | Solved | 1 | cpp | 2025-09-01 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-07-29 |
@@ -64,9 +65,12 @@
 | 628 | [Maximum Product of Three Numbers](../Array/0628-maximum-product-of-three-numbers/README.md) | Easy | Solved | 3 | cpp | 2026-01-23 |
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Easy | Solved | 2 | cpp | 2025-08-23 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 4 | cpp | 2025-08-16 |
+| 739 | [Daily Temperatures](../Array/0739-daily-temperatures/README.md) | Medium | Solved | 2 | cpp | 2026-10-18 |
 | 744 | [Find Smallest Letter Greater Than Target](../Array/0744-find-smallest-letter-greater-than-target/README.md) | Easy | Solved | 2 | cpp | 2026-01-31 |
 | 746 | [Min Cost Climbing Stairs](../Array/0746-min-cost-climbing-stairs/README.md) | Easy | Solved | 1 | cpp | 2025-12-13 |
+| 853 | [Car Fleet](../Array/0853-car-fleet/README.md) | Medium | Solved | 1 | cpp | 2026-10-18 |
 | 867 | [Transpose Matrix](../Array/0867-transpose-matrix/README.md) | Easy | Solved | 2 | cpp | 2026-01-16 |
+| 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 2 | cpp | 2026-10-17 |
 | 912 | [Sort an Array](../Array/0912-sort-an-array/README.md) | Medium | Solved | 2 | cpp | 2025-11-05 |
 | 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Easy | Solved | 1 | cpp | 2025-09-28 |
 | 977 | [Squares of a Sorted Array](../Array/0977-squares-of-a-sorted-array/README.md) | Easy | Solved | 5 | cpp | 2025-08-31 |
@@ -95,6 +99,7 @@
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Easy | Solved | 3 | cpp | 2025-09-14 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](../Array/2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-02 |
 | 2643 | [Row With Maximum Ones](../Array/2643-row-with-maximum-ones/README.md) | Easy | Solved | 1 | cpp | 2025-10-30 |
+| 2778 | [Sum of Squares of Special Elements ](../Array/2778-sum-of-squares-of-special-elements/README.md) | Easy | Solved | 1 | cpp | 2026-10-16 |
 | 2798 | [Number of Employees Who Met the Target](../Array/2798-number-of-employees-who-met-the-target/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 2942 | [Find Words Containing Character](../Array/2942-find-words-containing-character/README.md) | Easy | Solved | 1 | cpp | 2025-09-06 |
 | 2974 | [Minimum Number Game](../Array/2974-minimum-number-game/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |

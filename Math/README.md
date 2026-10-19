@@ -47,6 +47,7 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 2 | [Add Two Numbers](../Linked-List/0002-add-two-numbers/README.md) | Linked List | Medium | Solved |
 | 66 | [Plus One](../Array/0066-plus-one/README.md) | Array | Easy | Solved |
+| 150 | [Evaluate Reverse Polish Notation](../Array/0150-evaluate-reverse-polish-notation/README.md) | Array | Medium | Solved |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 628 | [Maximum Product of Three Numbers](../Array/0628-maximum-product-of-three-numbers/README.md) | Array | Easy | Solved |
