@@ -4,13 +4,16 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 3 | 3 | 0 | 2 | 1 | 0 |
+| 6 | 6 | 0 | 4 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 98 | [Validate Binary Search Tree](../Tree/0098-validate-binary-search-tree/README.md) | Medium | Solved | 3 | cpp | 2025-09-26 |
+| 100 | [Same Tree](../Tree/0100-same-tree/README.md) | Easy | Solved | 1 | cpp | 2025-09-29 |
 | 101 | [Symmetric Tree](../Tree/0101-symmetric-tree/README.md) | Easy | Solved | 1 | cpp | 2025-09-26 |
 | 104 | [Maximum Depth of Binary Tree](../Tree/0104-maximum-depth-of-binary-tree/README.md) | Easy | Solved | 2 | cpp | 2025-09-26 |
+| 543 | [Diameter of Binary Tree](../Tree/0543-diameter-of-binary-tree/README.md) | Easy | Solved | 5 | cpp | 2025-10-05 |
+| 1325 | [Delete Leaves With a Given Value](../Tree/1325-delete-leaves-with-a-given-value/README.md) | Medium | Solved | 2 | cpp | 2025-09-30 |
 
 ## Also tagged Tree
 

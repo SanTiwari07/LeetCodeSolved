@@ -4,10 +4,11 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 3 | 3 | 0 | 2 | 1 | 0 |
+| 4 | 4 | 0 | 2 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 5 | [Longest Palindromic Substring](../Two-Pointers/0005-longest-palindromic-substring/README.md) | Medium | Solved | 2 | cpp | 2025-10-19 |
 | 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Easy | Solved | 1 | cpp | 2025-08-25 |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Easy | Solved | 3 | cpp | 2025-07-20 |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Medium | Solved | 1 | cpp | 2025-08-31 |
@@ -18,10 +19,13 @@ Filed under their main topic, but they use this one too.
 
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
+| 11 | [Container With Most Water](../Array/0011-container-with-most-water/README.md) | Array | Medium | Solved |
+| 19 | [Remove Nth Node From End of List](../Linked-List/0019-remove-nth-node-from-end-of-list/README.md) | Linked List | Medium | Solved |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Array | Easy | Solved |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Array | Easy | Solved |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Array | Medium | Solved |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Array | Easy | Solved |
+| 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Hash Table | Easy | Solved |
 | 167 | [Two Sum II - Input Array Is Sorted](../Array/0167-two-sum-ii-input-array-is-sorted/README.md) | Array | Medium | Solved |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Linked List | Easy | Solved |

@@ -2078,6 +2078,302 @@
       "submissions": [
         {"id":1785274064,"status":"Accepted","lang":"cpp","timestamp":1759060311,"runtime":"13 ms","memory":"25.7 MB"}
       ]
+    },
+    "find-the-smallest-divisor-given-a-threshold": {
+      "id": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1283-find-the-smallest-divisor-given-a-threshold",
+      "first_attempt_at": 1759064494,
+      "last_attempt_at": 1759064711,
+      "solved_at": 1759064494,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1785329502,"status":"Accepted","lang":"cpp","timestamp":1759064711,"runtime":"4 ms","memory":"26 MB"}
+      },
+      "submissions": [
+        {"id":1785326587,"status":"Accepted","lang":"cpp","timestamp":1759064494,"runtime":null,"memory":null},
+        {"id":1785329202,"status":"Wrong Answer","lang":"cpp","timestamp":1759064687,"runtime":null,"memory":null},
+        {"id":1785329502,"status":"Accepted","lang":"cpp","timestamp":1759064711,"runtime":"4 ms","memory":"26 MB"}
+      ]
+    },
+    "remove-nth-node-from-end-of-list": {
+      "id": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0019-remove-nth-node-from-end-of-list",
+      "first_attempt_at": 1759075137,
+      "last_attempt_at": 1765782876,
+      "solved_at": 1759075137,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1856031663,"status":"Accepted","lang":"cpp","timestamp":1765782876,"runtime":"0 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":1785473416,"status":"Accepted","lang":"cpp","timestamp":1759075137,"runtime":null,"memory":null},
+        {"id":1785485333,"status":"Accepted","lang":"cpp","timestamp":1759075998,"runtime":null,"memory":null},
+        {"id":1856031663,"status":"Accepted","lang":"cpp","timestamp":1765782876,"runtime":"0 ms","memory":"15 MB"}
+      ]
+    },
+    "linked-list-cycle": {
+      "id": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Linked List","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0141-linked-list-cycle",
+      "first_attempt_at": 1759079482,
+      "last_attempt_at": 1770211446,
+      "solved_at": 1759079482,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1907949608,"status":"Accepted","lang":"cpp","timestamp":1770211446,"runtime":"8 ms","memory":"11.9 MB"}
+      },
+      "submissions": [
+        {"id":1785536988,"status":"Accepted","lang":"cpp","timestamp":1759079482,"runtime":null,"memory":null},
+        {"id":1785540966,"status":"Accepted","lang":"cpp","timestamp":1759079745,"runtime":null,"memory":null},
+        {"id":1907949608,"status":"Accepted","lang":"cpp","timestamp":1770211446,"runtime":"8 ms","memory":"11.9 MB"}
+      ]
+    },
+    "same-tree": {
+      "id": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0100-same-tree",
+      "first_attempt_at": 1759149591,
+      "last_attempt_at": 1759149591,
+      "solved_at": 1759149591,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1786236266,"status":"Accepted","lang":"cpp","timestamp":1759149591,"runtime":"0 ms","memory":"12.7 MB"}
+      },
+      "submissions": [
+        {"id":1786236266,"status":"Accepted","lang":"cpp","timestamp":1759149591,"runtime":"0 ms","memory":"12.7 MB"}
+      ]
+    },
+    "swap-nodes-in-pairs": {
+      "id": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0024-swap-nodes-in-pairs",
+      "first_attempt_at": 1759152680,
+      "last_attempt_at": 1759152680,
+      "solved_at": 1759152680,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1786274157,"status":"Accepted","lang":"cpp","timestamp":1759152680,"runtime":"0 ms","memory":"11.3 MB"}
+      },
+      "submissions": [
+        {"id":1786274157,"status":"Accepted","lang":"cpp","timestamp":1759152680,"runtime":"0 ms","memory":"11.3 MB"}
+      ]
+    },
+    "delete-leaves-with-a-given-value": {
+      "id": "1325",
+      "title": "Delete Leaves With a Given Value",
+      "slug": "delete-leaves-with-a-given-value",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/1325-delete-leaves-with-a-given-value",
+      "first_attempt_at": 1759236326,
+      "last_attempt_at": 1759342325,
+      "solved_at": 1759236326,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1788507231,"status":"Accepted","lang":"cpp","timestamp":1759342325,"runtime":"0 ms","memory":"23.4 MB"}
+      },
+      "submissions": [
+        {"id":1787231998,"status":"Accepted","lang":"cpp","timestamp":1759236326,"runtime":null,"memory":null},
+        {"id":1788507231,"status":"Accepted","lang":"cpp","timestamp":1759342325,"runtime":"0 ms","memory":"23.4 MB"}
+      ]
+    },
+    "powx-n": {
+      "id": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "tags": ["Math","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0050-powx-n",
+      "first_attempt_at": 1759429699,
+      "last_attempt_at": 1760633173,
+      "solved_at": 1760632237,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1803548180,"status":"Accepted","lang":"cpp","timestamp":1760633173,"runtime":"0 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":1789507677,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1759429699,"runtime":null,"memory":null},
+        {"id":1789533502,"status":"Wrong Answer","lang":"cpp","timestamp":1759431519,"runtime":null,"memory":null},
+        {"id":1803520622,"status":"Wrong Answer","lang":"cpp","timestamp":1760631405,"runtime":null,"memory":null},
+        {"id":1803533332,"status":"Accepted","lang":"cpp","timestamp":1760632237,"runtime":null,"memory":null},
+        {"id":1803548180,"status":"Accepted","lang":"cpp","timestamp":1760633173,"runtime":"0 ms","memory":"8.6 MB"}
+      ]
+    },
+    "excel-sheet-column-number": {
+      "id": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "difficulty": "Easy",
+      "tags": ["Math","String"],
+      "topic": "Math",
+      "dir": "Math/0171-excel-sheet-column-number",
+      "first_attempt_at": 1759512273,
+      "last_attempt_at": 1759512273,
+      "solved_at": 1759512273,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1790385388,"status":"Accepted","lang":"cpp","timestamp":1759512273,"runtime":"0 ms","memory":"8.8 MB"}
+      },
+      "submissions": [
+        {"id":1790385388,"status":"Accepted","lang":"cpp","timestamp":1759512273,"runtime":"0 ms","memory":"8.8 MB"}
+      ]
+    },
+    "container-with-most-water": {
+      "id": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0011-container-with-most-water",
+      "first_attempt_at": 1759594929,
+      "last_attempt_at": 1759596086,
+      "solved_at": 1759596086,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1791267892,"status":"Accepted","lang":"cpp","timestamp":1759596086,"runtime":"1 ms","memory":"62.9 MB"}
+      },
+      "submissions": [
+        {"id":1791249595,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1759594929,"runtime":null,"memory":null},
+        {"id":1791267892,"status":"Accepted","lang":"cpp","timestamp":1759596086,"runtime":"1 ms","memory":"62.9 MB"}
+      ]
+    },
+    "diameter-of-binary-tree": {
+      "id": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Binary Tree","DP on Trees"],
+      "topic": "Tree",
+      "dir": "Tree/0543-diameter-of-binary-tree",
+      "first_attempt_at": 1759667345,
+      "last_attempt_at": 1761999013,
+      "solved_at": 1759667412,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817641289,"status":"Accepted","lang":"cpp","timestamp":1761999013,"runtime":"0 ms","memory":"23.8 MB"}
+      },
+      "submissions": [
+        {"id":1792135867,"status":"Wrong Answer","lang":"cpp","timestamp":1759667345,"runtime":null,"memory":null},
+        {"id":1792136721,"status":"Accepted","lang":"cpp","timestamp":1759667412,"runtime":null,"memory":null},
+        {"id":1792139679,"status":"Accepted","lang":"cpp","timestamp":1759667642,"runtime":null,"memory":null},
+        {"id":1817631745,"status":"Wrong Answer","lang":"cpp","timestamp":1761998093,"runtime":null,"memory":null},
+        {"id":1817641289,"status":"Accepted","lang":"cpp","timestamp":1761999013,"runtime":"0 ms","memory":"23.8 MB"}
+      ]
+    },
+    "find-resultant-array-after-removing-anagrams": {
+      "id": "2273",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "slug": "find-resultant-array-after-removing-anagrams",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","String","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2273-find-resultant-array-after-removing-anagrams",
+      "first_attempt_at": 1760361443,
+      "last_attempt_at": 1760361922,
+      "solved_at": 1760361443,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1800326182,"status":"Accepted","lang":"cpp","timestamp":1760361922,"runtime":"0 ms","memory":"18.2 MB"}
+      },
+      "submissions": [
+        {"id":1800319320,"status":"Accepted","lang":"cpp","timestamp":1760361443,"runtime":null,"memory":null},
+        {"id":1800326182,"status":"Accepted","lang":"cpp","timestamp":1760361922,"runtime":"0 ms","memory":"18.2 MB"}
+      ]
+    },
+    "adjacent-increasing-subarrays-detection-i": {
+      "id": "3349",
+      "title": "Adjacent Increasing Subarrays Detection I",
+      "slug": "adjacent-increasing-subarrays-detection-i",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/3349-adjacent-increasing-subarrays-detection-i",
+      "first_attempt_at": 1760447421,
+      "last_attempt_at": 1760447818,
+      "solved_at": 1760447818,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1801388104,"status":"Accepted","lang":"cpp","timestamp":1760447818,"runtime":"15 ms","memory":"40.4 MB"}
+      },
+      "submissions": [
+        {"id":1801382401,"status":"Wrong Answer","lang":"cpp","timestamp":1760447421,"runtime":null,"memory":null},
+        {"id":1801383378,"status":"Wrong Answer","lang":"cpp","timestamp":1760447491,"runtime":null,"memory":null},
+        {"id":1801388104,"status":"Accepted","lang":"cpp","timestamp":1760447818,"runtime":"15 ms","memory":"40.4 MB"}
+      ]
+    },
+    "longest-substring-without-repeating-characters": {
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0003-longest-substring-without-repeating-characters",
+      "first_attempt_at": 1760806650,
+      "last_attempt_at": 1760807567,
+      "solved_at": 1760806762,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1805178753,"status":"Accepted","lang":"cpp","timestamp":1760807567,"runtime":"0 ms","memory":"11.9 MB"}
+      },
+      "submissions": [
+        {"id":1805166117,"status":"Wrong Answer","lang":"cpp","timestamp":1760806650,"runtime":null,"memory":null},
+        {"id":1805167774,"status":"Accepted","lang":"cpp","timestamp":1760806762,"runtime":null,"memory":null},
+        {"id":1805178753,"status":"Accepted","lang":"cpp","timestamp":1760807567,"runtime":"0 ms","memory":"11.9 MB"}
+      ]
+    },
+    "longest-palindromic-substring": {
+      "id": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "tags": ["Two Pointers","String","Dynamic Programming","Manacher"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0005-longest-palindromic-substring",
+      "first_attempt_at": 1760855265,
+      "last_attempt_at": 1760855407,
+      "solved_at": 1760855407,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1805671325,"status":"Accepted","lang":"cpp","timestamp":1760855407,"runtime":"1473 ms","memory":"491.8 MB"}
+      },
+      "submissions": [
+        {"id":1805669666,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1760855265,"runtime":null,"memory":null},
+        {"id":1805671325,"status":"Accepted","lang":"cpp","timestamp":1760855407,"runtime":"1473 ms","memory":"491.8 MB"}
+      ]
+    },
+    "coin-change-ii": {
+      "id": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Knapsack Problem","Complete Knapsack"],
+      "topic": "Array",
+      "dir": "Array/0518-coin-change-ii",
+      "first_attempt_at": 1760881529,
+      "last_attempt_at": 1760882640,
+      "solved_at": 1760882640,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1805938805,"status":"Wrong Answer","lang":"cpp","timestamp":1760882471,"runtime":null,"memory":null},
+        "python": {"file":"solution_python2.py","id":1805940891,"status":"Accepted","lang":"python","timestamp":1760882640,"runtime":"294 ms","memory":"12.9 MB"}
+      },
+      "submissions": [
+        {"id":1805927399,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1760881529,"runtime":null,"memory":null},
+        {"id":1805936925,"status":"Runtime Error","lang":"cpp","timestamp":1760882315,"runtime":null,"memory":null},
+        {"id":1805938805,"status":"Wrong Answer","lang":"cpp","timestamp":1760882471,"runtime":null,"memory":null},
+        {"id":1805940891,"status":"Accepted","lang":"python","timestamp":1760882640,"runtime":"294 ms","memory":"12.9 MB"}
+      ]
     }
   }
 }

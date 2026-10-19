@@ -4,14 +4,16 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 22 | 22 | 0 | 18 | 4 | 0 |
+| 24 | 24 | 0 | 19 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 | [Reverse Integer](../Math/0007-reverse-integer/README.md) | Medium | Solved | 7 | cpp | 2025-08-01 |
 | 9 | [Palindrome Number](../Math/0009-palindrome-number/README.md) | Easy | Solved | 4 | cpp | 2025-08-02 |
+| 50 | [Pow(x, n)](../Math/0050-powx-n/README.md) | Medium | Solved | 5 | cpp | 2025-10-16 |
 | 69 | [Sqrt(x)](../Math/0069-sqrtx/README.md) | Easy | Solved | 1 | cpp | 2025-08-08 |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Easy | Solved | 3 | cpp | 2025-09-08 |
+| 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Easy | Solved | 1 | cpp | 2025-10-03 |
 | 172 | [Factorial Trailing Zeroes](../Math/0172-factorial-trailing-zeroes/README.md) | Medium | Solved | 5 | cpp | 2025-08-01 |
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Easy | Solved | 6 | cpp | 2025-07-25 |
 | 258 | [Add Digits](../Math/0258-add-digits/README.md) | Easy | Solved | 3 | cpp | 2025-08-26 |
