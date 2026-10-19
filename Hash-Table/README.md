@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 10 | 9 | 1 | 7 | 3 | 0 |
+| 11 | 10 | 1 | 7 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Easy | Solved | 4 | cpp | 2025-11-01 |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 4 | cpp | 2025-09-12 |
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Easy | Solved | 2 | cpp | 2025-08-26 |
+| 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Medium | Solved | 2 | cpp | 2026-07-29 |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Medium | Attempted | 1 | cpp | - |
 | 1832 | [Check if the Sentence Is Pangram](../Hash-Table/1832-check-if-the-sentence-is-pangram/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 1935 | [Maximum Number of Words You Can Type](../Hash-Table/1935-maximum-number-of-words-you-can-type/README.md) | Easy | Solved | 3 | cpp | 2025-09-15 |
@@ -35,6 +36,7 @@ Filed under their main topic, but they use this one too.
 | 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Array | Medium | Solved |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 2043 | [Simple Bank System](../Array/2043-simple-bank-system/README.md) | Array | Medium | Solved |
+| 2154 | [Keep Multiplying Found Values by Two](../Array/2154-keep-multiplying-found-values-by-two/README.md) | Array | Easy | Solved |
 | 2273 | [Find Resultant Array After Removing Anagrams](../Array/2273-find-resultant-array-after-removing-anagrams/README.md) | Array | Easy | Solved |
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Array | Easy | Solved |
 | 3005 | [Count Elements With Maximum Frequency](../Array/3005-count-elements-with-maximum-frequency/README.md) | Array | Easy | Solved |
@@ -42,4 +44,5 @@ Filed under their main topic, but they use this one too.
 | 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Array | Easy | Solved |
 | 3659 | [Partition Array Into K-Distinct Groups](../Array/3659-partition-array-into-k-distinct-groups/README.md) | Array | Medium | Attempted |
 | 3668 | [Restore Finishing Order](../Array/3668-restore-finishing-order/README.md) | Array | Easy | Solved |
+| 3731 | [Find Missing Elements](../Array/3731-find-missing-elements/README.md) | Array | Easy | Solved |
 | 3810 | [Minimum Operations to Reach Target Array](../Array/3810-minimum-operations-to-reach-target-array/README.md) | Array | Medium | Solved |

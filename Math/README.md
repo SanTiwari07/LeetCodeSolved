@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 28 | 28 | 0 | 23 | 5 | 0 |
+| 30 | 30 | 0 | 25 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -33,8 +33,10 @@
 | 2652 | [Sum Multiples](../Math/2652-sum-multiples/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 2769 | [Find the Maximum Achievable Number](../Math/2769-find-the-maximum-achievable-number/README.md) | Easy | Solved | 2 | cpp | 2025-08-31 |
 | 2894 | [Divisible and Non-divisible Sums Difference](../Math/2894-divisible-and-non-divisible-sums-difference/README.md) | Easy | Solved | 1 | cpp | 2025-08-27 |
+| 3014 | [Minimum Number of Pushes to Type Word I](../Math/3014-minimum-number-of-pushes-to-type-word-i/README.md) | Easy | Solved | 2 | cpp | 2026-07-30 |
 | 3227 | [Vowels Game in a String](../Math/3227-vowels-game-in-a-string/README.md) | Medium | Solved | 4 | cpp | 2025-09-12 |
 | 3304 | [Find the K-th Character in String Game I](../Math/3304-find-the-k-th-character-in-string-game-i/README.md) | Easy | Solved | 7 | cpp | 2025-08-24 |
+| 3536 | [Maximum Product of Two Digits](../Math/3536-maximum-product-of-two-digits/README.md) | Easy | Solved | 3 | cpp | 2026-07-25 |
 | 3658 | [GCD of Odd and Even Sums](../Math/3658-gcd-of-odd-and-even-sums/README.md) | Easy | Solved | 3 | cpp | 2025-08-24 |
 
 ## Also tagged Math

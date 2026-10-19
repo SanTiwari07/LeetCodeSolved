@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 104 | 99 | 5 | 57 | 45 | 2 |
+| 108 | 103 | 5 | 61 | 45 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -75,6 +75,7 @@
 | 1200 | [Minimum Absolute Difference](../Array/1200-minimum-absolute-difference/README.md) | Easy | Solved | 2 | cpp | 2026-01-26 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](../Array/1283-find-the-smallest-divisor-given-a-threshold/README.md) | Medium | Solved | 3 | cpp | 2025-09-28 |
 | 1304 | [Find N Unique Integers Sum up to Zero](../Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | Easy | Solved | 1 | cpp | 2026-01-28 |
+| 1464 | [Maximum Product of Two Elements in an Array](../Array/1464-maximum-product-of-two-elements-in-an-array/README.md) | Easy | Solved | 1 | cpp | 2026-07-27 |
 | 1504 | [Count Submatrices With All Ones](../Array/1504-count-submatrices-with-all-ones/README.md) | Medium | Attempted | 1 | cpp | - |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2025-08-19 |
 | 1550 | [Three Consecutive Odds](../Array/1550-three-consecutive-odds/README.md) | Easy | Solved | 1 | cpp | 2025-08-30 |
@@ -89,6 +90,7 @@
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-04 |
 | 2114 | [Maximum Number of Words Found in Sentences](../Array/2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Solved | 1 | cpp | 2025-09-21 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 3 | cpp | 2025-07-31 |
+| 2154 | [Keep Multiplying Found Values by Two](../Array/2154-keep-multiplying-found-values-by-two/README.md) | Easy | Solved | 2 | cpp | 2026-07-24 |
 | 2273 | [Find Resultant Array After Removing Anagrams](../Array/2273-find-resultant-array-after-removing-anagrams/README.md) | Easy | Solved | 2 | cpp | 2025-10-13 |
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Easy | Solved | 3 | cpp | 2025-09-14 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](../Array/2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-02 |
@@ -111,4 +113,6 @@
 | 3659 | [Partition Array Into K-Distinct Groups](../Array/3659-partition-array-into-k-distinct-groups/README.md) | Medium | Attempted | 1 | cpp | - |
 | 3668 | [Restore Finishing Order](../Array/3668-restore-finishing-order/README.md) | Easy | Solved | 1 | cpp | 2025-08-31 |
 | 3670 | [Maximum Product of Two Integers With No Common Bits](../Array/3670-maximum-product-of-two-integers-with-no-common-bits/README.md) | Medium | Attempted | 8 | cpp | - |
+| 3731 | [Find Missing Elements](../Array/3731-find-missing-elements/README.md) | Easy | Solved | 1 | cpp | 2026-08-04 |
 | 3810 | [Minimum Operations to Reach Target Array](../Array/3810-minimum-operations-to-reach-target-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-20 |
+| 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Easy | Solved | 1 | cpp | 2026-02-14 |

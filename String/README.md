@@ -36,6 +36,7 @@ Filed under their main topic, but they use this one too.
 | 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Math | Easy | Solved |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Hash Table | Easy | Solved |
+| 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Hash Table | Medium | Solved |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Attempted |
 | 1832 | [Check if the Sentence Is Pangram](../Hash-Table/1832-check-if-the-sentence-is-pangram/README.md) | Hash Table | Easy | Solved |
 | 1935 | [Maximum Number of Words You Can Type](../Hash-Table/1935-maximum-number-of-words-you-can-type/README.md) | Hash Table | Easy | Solved |
@@ -44,5 +45,7 @@ Filed under their main topic, but they use this one too.
 | 2114 | [Maximum Number of Words Found in Sentences](../Array/2114-maximum-number-of-words-found-in-sentences/README.md) | Array | Easy | Solved |
 | 2273 | [Find Resultant Array After Removing Anagrams](../Array/2273-find-resultant-array-after-removing-anagrams/README.md) | Array | Easy | Solved |
 | 2942 | [Find Words Containing Character](../Array/2942-find-words-containing-character/README.md) | Array | Easy | Solved |
+| 3014 | [Minimum Number of Pushes to Type Word I](../Math/3014-minimum-number-of-pushes-to-type-word-i/README.md) | Math | Easy | Solved |
 | 3227 | [Vowels Game in a String](../Math/3227-vowels-game-in-a-string/README.md) | Math | Medium | Solved |
 | 3541 | [Find Most Frequent Vowel and Consonant](../Hash-Table/3541-find-most-frequent-vowel-and-consonant/README.md) | Hash Table | Easy | Solved |
+| 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Array | Easy | Solved |
