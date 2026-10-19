@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 53 | 50 | 3 | 34 | 18 | 1 |
+| 56 | 53 | 3 | 37 | 18 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -40,6 +40,7 @@
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2025-08-19 |
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Easy | Solved | 2 | cpp | 2025-08-23 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 4 | cpp | 2025-08-16 |
+| 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Easy | Solved | 1 | cpp | 2025-09-28 |
 | 977 | [Squares of a Sorted Array](../Array/0977-squares-of-a-sorted-array/README.md) | Easy | Solved | 5 | cpp | 2025-08-31 |
 | 1504 | [Count Submatrices With All Ones](../Array/1504-count-submatrices-with-all-ones/README.md) | Medium | Attempted | 1 | cpp | - |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2025-08-19 |
@@ -49,12 +50,14 @@
 | 1822 | [Sign of the Product of an Array](../Array/1822-sign-of-the-product-of-an-array/README.md) | Easy | Solved | 3 | cpp | 2025-08-31 |
 | 1823 | [Find the Winner of the Circular Game](../Array/1823-find-the-winner-of-the-circular-game/README.md) | Medium | Solved | 2 | cpp | 2025-09-16 |
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-04 |
+| 2114 | [Maximum Number of Words Found in Sentences](../Array/2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Solved | 1 | cpp | 2025-09-21 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 3 | cpp | 2025-07-31 |
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Easy | Solved | 3 | cpp | 2025-09-14 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](../Array/2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-02 |
 | 2798 | [Number of Employees Who Met the Target](../Array/2798-number-of-employees-who-met-the-target/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 2942 | [Find Words Containing Character](../Array/2942-find-words-containing-character/README.md) | Easy | Solved | 1 | cpp | 2025-09-06 |
 | 2974 | [Minimum Number Game](../Array/2974-minimum-number-game/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
+| 3005 | [Count Elements With Maximum Frequency](../Array/3005-count-elements-with-maximum-frequency/README.md) | Easy | Solved | 1 | cpp | 2025-09-22 |
 | 3024 | [Type of Triangle](../Array/3024-type-of-triangle/README.md) | Easy | Solved | 2 | cpp | 2025-08-28 |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](../Array/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 3232 | [Find if Digit Game Can Be Won](../Array/3232-find-if-digit-game-can-be-won/README.md) | Easy | Solved | 3 | cpp | 2025-09-18 |

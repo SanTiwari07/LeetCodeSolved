@@ -24,6 +24,7 @@ Filed under their main topic, but they use this one too.
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Array | Easy | Solved |
 | 167 | [Two Sum II - Input Array Is Sorted](../Array/0167-two-sum-ii-input-array-is-sorted/README.md) | Array | Medium | Solved |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
+| 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Linked List | Easy | Solved |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Array | Easy | Solved |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 876 | [Middle of the Linked List](../Linked-List/0876-middle-of-the-linked-list/README.md) | Linked List | Easy | Solved |

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 6 | 6 | 0 | 4 | 2 | 0 |
+| 7 | 7 | 0 | 5 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | 657 | [Robot Return to Origin](../String/0657-robot-return-to-origin/README.md) | Easy | Solved | 1 | cpp | 2025-09-18 |
 | 709 | [To Lower Case](../String/0709-to-lower-case/README.md) | Easy | Solved | 2 | cpp | 2025-08-27 |
 | 2785 | [Sort Vowels in a String](../String/2785-sort-vowels-in-a-string/README.md) | Medium | Solved | 2 | cpp | 2025-09-11 |
+| 3019 | [Number of Changing Keys](../String/3019-number-of-changing-keys/README.md) | Easy | Solved | 1 | cpp | 2025-09-21 |
 
 ## Also tagged String
 
@@ -29,6 +30,7 @@ Filed under their main topic, but they use this one too.
 | 1832 | [Check if the Sentence Is Pangram](../Hash-Table/1832-check-if-the-sentence-is-pangram/README.md) | Hash Table | Easy | Solved |
 | 1935 | [Maximum Number of Words You Can Type](../Hash-Table/1935-maximum-number-of-words-you-can-type/README.md) | Hash Table | Easy | Solved |
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Array | Easy | Solved |
+| 2114 | [Maximum Number of Words Found in Sentences](../Array/2114-maximum-number-of-words-found-in-sentences/README.md) | Array | Easy | Solved |
 | 2942 | [Find Words Containing Character](../Array/2942-find-words-containing-character/README.md) | Array | Easy | Solved |
 | 3227 | [Vowels Game in a String](../Math/3227-vowels-game-in-a-string/README.md) | Math | Medium | Solved |
 | 3541 | [Find Most Frequent Vowel and Consonant](../Hash-Table/3541-find-most-frequent-vowel-and-consonant/README.md) | Hash Table | Easy | Solved |

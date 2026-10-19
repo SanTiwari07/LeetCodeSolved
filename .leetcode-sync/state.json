@@ -1788,6 +1788,296 @@
         {"id":1775164867,"status":"Accepted","lang":"cpp","timestamp":1758211715,"runtime":null,"memory":null},
         {"id":1775165574,"status":"Accepted","lang":"cpp","timestamp":1758211752,"runtime":"0 ms","memory":"28.5 MB"}
       ]
+    },
+    "subtract-the-product-and-sum-of-digits-of-an-integer": {
+      "id": "1281",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "first_attempt_at": 1758299123,
+      "last_attempt_at": 1758299123,
+      "solved_at": 1758299123,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1776241140,"status":"Accepted","lang":"cpp","timestamp":1758299123,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":1776241140,"status":"Accepted","lang":"cpp","timestamp":1758299123,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "merge-two-sorted-lists": {
+      "id": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0021-merge-two-sorted-lists",
+      "first_attempt_at": 1758385084,
+      "last_attempt_at": 1770212232,
+      "solved_at": 1758385084,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1907963144,"status":"Accepted","lang":"cpp","timestamp":1770212232,"runtime":"0 ms","memory":"19.6 MB"}
+      },
+      "submissions": [
+        {"id":1777177037,"status":"Accepted","lang":"cpp","timestamp":1758385084,"runtime":null,"memory":null},
+        {"id":1856298264,"status":"Accepted","lang":"cpp","timestamp":1765808231,"runtime":null,"memory":null},
+        {"id":1907963144,"status":"Accepted","lang":"cpp","timestamp":1770212232,"runtime":"0 ms","memory":"19.6 MB"}
+      ]
+    },
+    "number-of-changing-keys": {
+      "id": "3019",
+      "title": "Number of Changing Keys",
+      "slug": "number-of-changing-keys",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/3019-number-of-changing-keys",
+      "first_attempt_at": 1758473428,
+      "last_attempt_at": 1758473428,
+      "solved_at": 1758473428,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1778268235,"status":"Accepted","lang":"cpp","timestamp":1758473428,"runtime":"0 ms","memory":"9.1 MB"}
+      },
+      "submissions": [
+        {"id":1778268235,"status":"Accepted","lang":"cpp","timestamp":1758473428,"runtime":"0 ms","memory":"9.1 MB"}
+      ]
+    },
+    "maximum-number-of-words-found-in-sentences": {
+      "id": "2114",
+      "title": "Maximum Number of Words Found in Sentences",
+      "slug": "maximum-number-of-words-found-in-sentences",
+      "difficulty": "Easy",
+      "tags": ["Array","String"],
+      "topic": "Array",
+      "dir": "Array/2114-maximum-number-of-words-found-in-sentences",
+      "first_attempt_at": 1758474744,
+      "last_attempt_at": 1758474744,
+      "solved_at": 1758474744,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1778289494,"status":"Accepted","lang":"cpp","timestamp":1758474744,"runtime":"0 ms","memory":"12.9 MB"}
+      },
+      "submissions": [
+        {"id":1778289494,"status":"Accepted","lang":"cpp","timestamp":1758474744,"runtime":"0 ms","memory":"12.9 MB"}
+      ]
+    },
+    "remove-duplicates-from-sorted-list": {
+      "id": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0083-remove-duplicates-from-sorted-list",
+      "first_attempt_at": 1758555927,
+      "last_attempt_at": 1758555979,
+      "solved_at": 1758555979,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1779244479,"status":"Accepted","lang":"cpp","timestamp":1758555979,"runtime":"0 ms","memory":"16.3 MB"}
+      },
+      "submissions": [
+        {"id":1779243565,"status":"Wrong Answer","lang":"cpp","timestamp":1758555927,"runtime":null,"memory":null},
+        {"id":1779244479,"status":"Accepted","lang":"cpp","timestamp":1758555979,"runtime":"0 ms","memory":"16.3 MB"}
+      ]
+    },
+    "count-elements-with-maximum-frequency": {
+      "id": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Counting"],
+      "topic": "Array",
+      "dir": "Array/3005-count-elements-with-maximum-frequency",
+      "first_attempt_at": 1758557100,
+      "last_attempt_at": 1758557100,
+      "solved_at": 1758557100,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1779264807,"status":"Accepted","lang":"cpp","timestamp":1758557100,"runtime":"0 ms","memory":"23.8 MB"}
+      },
+      "submissions": [
+        {"id":1779264807,"status":"Accepted","lang":"cpp","timestamp":1758557100,"runtime":"0 ms","memory":"23.8 MB"}
+      ]
+    },
+    "add-two-numbers": {
+      "id": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Math","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0002-add-two-numbers",
+      "first_attempt_at": 1758710454,
+      "last_attempt_at": 1785261977,
+      "solved_at": 1758712162,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2085200040,"status":"Accepted","lang":"cpp","timestamp":1785261977,"runtime":"0 ms","memory":"77.2 MB"}
+      },
+      "submissions": [
+        {"id":1781147488,"status":"Runtime Error","lang":"cpp","timestamp":1758710454,"runtime":null,"memory":null},
+        {"id":1781147932,"status":"Runtime Error","lang":"cpp","timestamp":1758710491,"runtime":null,"memory":null},
+        {"id":1781167285,"status":"Accepted","lang":"cpp","timestamp":1758712162,"runtime":null,"memory":null},
+        {"id":1781199157,"status":"Accepted","lang":"cpp","timestamp":1758715063,"runtime":null,"memory":null},
+        {"id":1789504038,"status":"Compile Error","lang":"cpp","timestamp":1759429488,"runtime":null,"memory":null},
+        {"id":1804832437,"status":"Accepted","lang":"cpp","timestamp":1760774922,"runtime":null,"memory":null},
+        {"id":1804845638,"status":"Accepted","lang":"cpp","timestamp":1760776356,"runtime":null,"memory":null},
+        {"id":2085200040,"status":"Accepted","lang":"cpp","timestamp":1785261977,"runtime":"0 ms","memory":"77.2 MB"}
+      ]
+    },
+    "symmetric-tree": {
+      "id": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0101-symmetric-tree",
+      "first_attempt_at": 1758891390,
+      "last_attempt_at": 1758891390,
+      "solved_at": 1758891390,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1783287936,"status":"Accepted","lang":"cpp","timestamp":1758891390,"runtime":"0 ms","memory":"18.5 MB"}
+      },
+      "submissions": [
+        {"id":1783287936,"status":"Accepted","lang":"cpp","timestamp":1758891390,"runtime":"0 ms","memory":"18.5 MB"}
+      ]
+    },
+    "maximum-depth-of-binary-tree": {
+      "id": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0104-maximum-depth-of-binary-tree",
+      "first_attempt_at": 1758896301,
+      "last_attempt_at": 1761979812,
+      "solved_at": 1758896301,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817437997,"status":"Accepted","lang":"cpp","timestamp":1761979812,"runtime":"0 ms","memory":"19 MB"}
+      },
+      "submissions": [
+        {"id":1783350183,"status":"Accepted","lang":"cpp","timestamp":1758896301,"runtime":null,"memory":null},
+        {"id":1817437997,"status":"Accepted","lang":"cpp","timestamp":1761979812,"runtime":"0 ms","memory":"19 MB"}
+      ]
+    },
+    "perfect-number": {
+      "id": "507",
+      "title": "Perfect Number",
+      "slug": "perfect-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0507-perfect-number",
+      "first_attempt_at": 1758903321,
+      "last_attempt_at": 1758903474,
+      "solved_at": 1758903321,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1783449625,"status":"Accepted","lang":"cpp","timestamp":1758903474,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1783447269,"status":"Accepted","lang":"cpp","timestamp":1758903321,"runtime":null,"memory":null},
+        {"id":1783447860,"status":"Accepted","lang":"cpp","timestamp":1758903361,"runtime":null,"memory":null},
+        {"id":1783449625,"status":"Accepted","lang":"cpp","timestamp":1758903474,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "binary-tree-inorder-traversal": {
+      "id": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0094-binary-tree-inorder-traversal",
+      "first_attempt_at": 1758905049,
+      "last_attempt_at": 1758905049,
+      "solved_at": 1758905049,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1783473827,"status":"Accepted","lang":"cpp","timestamp":1758905049,"runtime":"0 ms","memory":"13.3 MB"}
+      },
+      "submissions": [
+        {"id":1783473827,"status":"Accepted","lang":"cpp","timestamp":1758905049,"runtime":"0 ms","memory":"13.3 MB"}
+      ]
+    },
+    "binary-tree-preorder-traversal": {
+      "id": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0144-binary-tree-preorder-traversal",
+      "first_attempt_at": 1758905341,
+      "last_attempt_at": 1761979414,
+      "solved_at": 1758905341,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817433007,"status":"Accepted","lang":"cpp","timestamp":1761979414,"runtime":"4 ms","memory":"13.4 MB"}
+      },
+      "submissions": [
+        {"id":1783478455,"status":"Accepted","lang":"cpp","timestamp":1758905341,"runtime":null,"memory":null},
+        {"id":1817424826,"status":"Compile Error","lang":"cpp","timestamp":1761978736,"runtime":null,"memory":null},
+        {"id":1817431739,"status":"Wrong Answer","lang":"cpp","timestamp":1761979309,"runtime":null,"memory":null},
+        {"id":1817432903,"status":"Accepted","lang":"cpp","timestamp":1761979404,"runtime":null,"memory":null},
+        {"id":1817433007,"status":"Accepted","lang":"cpp","timestamp":1761979414,"runtime":"4 ms","memory":"13.4 MB"}
+      ]
+    },
+    "validate-binary-search-tree": {
+      "id": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0098-validate-binary-search-tree",
+      "first_attempt_at": 1758906736,
+      "last_attempt_at": 1758907797,
+      "solved_at": 1758906912,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1783518469,"status":"Accepted","lang":"cpp","timestamp":1758907797,"runtime":"0 ms","memory":"21.7 MB"}
+      },
+      "submissions": [
+        {"id":1783500976,"status":"Wrong Answer","lang":"cpp","timestamp":1758906736,"runtime":null,"memory":null},
+        {"id":1783503799,"status":"Accepted","lang":"cpp","timestamp":1758906912,"runtime":null,"memory":null},
+        {"id":1783518469,"status":"Accepted","lang":"cpp","timestamp":1758907797,"runtime":"0 ms","memory":"21.7 MB"}
+      ]
+    },
+    "palindrome-linked-list": {
+      "id": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Two Pointers","Stack","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0234-palindrome-linked-list",
+      "first_attempt_at": 1758980701,
+      "last_attempt_at": 1758980784,
+      "solved_at": 1758980784,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1784225263,"status":"Accepted","lang":"cpp","timestamp":1758980784,"runtime":"2 ms","memory":"127.4 MB"}
+      },
+      "submissions": [
+        {"id":1784224160,"status":"Runtime Error","lang":"cpp","timestamp":1758980701,"runtime":null,"memory":null},
+        {"id":1784225263,"status":"Accepted","lang":"cpp","timestamp":1758980784,"runtime":"2 ms","memory":"127.4 MB"}
+      ]
+    },
+    "largest-perimeter-triangle": {
+      "id": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Greedy","Sorting","Quicksort","Polygons"],
+      "topic": "Array",
+      "dir": "Array/0976-largest-perimeter-triangle",
+      "first_attempt_at": 1759060311,
+      "last_attempt_at": 1759060311,
+      "solved_at": 1759060311,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1785274064,"status":"Accepted","lang":"cpp","timestamp":1759060311,"runtime":"13 ms","memory":"25.7 MB"}
+      },
+      "submissions": [
+        {"id":1785274064,"status":"Accepted","lang":"cpp","timestamp":1759060311,"runtime":"13 ms","memory":"25.7 MB"}
+      ]
     }
   }
 }
