@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 26 | 26 | 0 | 21 | 5 | 0 |
+| 28 | 28 | 0 | 23 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,8 @@
 | 258 | [Add Digits](../Math/0258-add-digits/README.md) | Easy | Solved | 3 | cpp | 2025-08-26 |
 | 326 | [Power of Three](../Math/0326-power-of-three/README.md) | Easy | Solved | 2 | cpp | 2025-07-25 |
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Easy | Solved | 4 | cpp | 2025-07-25 |
+| 367 | [Valid Perfect Square](../Math/0367-valid-perfect-square/README.md) | Easy | Solved | 5 | cpp | 2025-12-15 |
+| 492 | [Construct the Rectangle](../Math/0492-construct-the-rectangle/README.md) | Easy | Solved | 2 | cpp | 2025-12-15 |
 | 507 | [Perfect Number](../Math/0507-perfect-number/README.md) | Easy | Solved | 3 | cpp | 2025-09-26 |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2025-07-20 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](../Math/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md) | Easy | Solved | 1 | cpp | 2025-09-19 |
@@ -46,6 +48,7 @@ Filed under their main topic, but they use this one too.
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Array | Easy | Solved |
+| 1037 | [Valid Boomerang](../Array/1037-valid-boomerang/README.md) | Array | Easy | Solved |
 | 1290 | [Convert Binary Number in a Linked List to Integer](../Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer/README.md) | Linked List | Easy | Solved |
 | 1822 | [Sign of the Product of an Array](../Array/1822-sign-of-the-product-of-an-array/README.md) | Array | Easy | Solved |
 | 1823 | [Find the Winner of the Circular Game](../Array/1823-find-the-winner-of-the-circular-game/README.md) | Array | Medium | Solved |

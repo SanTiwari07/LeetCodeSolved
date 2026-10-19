@@ -17,6 +17,7 @@ Filed under their main topic, but they use this one too.
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
 | 5 | [Longest Palindromic Substring](../Two-Pointers/0005-longest-palindromic-substring/README.md) | Two Pointers | Medium | Solved |
+| 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Array | Hard | Solved |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Array | Medium | Solved |
 | 64 | [Minimum Path Sum](../Array/0064-minimum-path-sum/README.md) | Array | Medium | Solved |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Math | Easy | Solved |

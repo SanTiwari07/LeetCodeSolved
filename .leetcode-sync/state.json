@@ -2942,6 +2942,289 @@
       "submissions": [
         {"id":1854546341,"status":"Accepted","lang":"cpp","timestamp":1765634311,"runtime":"0 ms","memory":"17.4 MB"}
       ]
+    },
+    "linked-list-cycle-ii": {
+      "id": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Linked List","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0142-linked-list-cycle-ii",
+      "first_attempt_at": 1765806610,
+      "last_attempt_at": 1765806694,
+      "solved_at": 1765806694,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1856275884,"status":"Accepted","lang":"cpp","timestamp":1765806694,"runtime":"3 ms","memory":"11.2 MB"}
+      },
+      "submissions": [
+        {"id":1856274656,"status":"Runtime Error","lang":"cpp","timestamp":1765806610,"runtime":null,"memory":null},
+        {"id":1856275884,"status":"Accepted","lang":"cpp","timestamp":1765806694,"runtime":"3 ms","memory":"11.2 MB"}
+      ]
+    },
+    "reorder-list": {
+      "id": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers","Stack","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0143-reorder-list",
+      "first_attempt_at": 1765811374,
+      "last_attempt_at": 1765811591,
+      "solved_at": 1765811374,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1856347056,"status":"Accepted","lang":"cpp","timestamp":1765811591,"runtime":"0 ms","memory":"22.7 MB"}
+      },
+      "submissions": [
+        {"id":1856343938,"status":"Accepted","lang":"cpp","timestamp":1765811374,"runtime":null,"memory":null},
+        {"id":1856347056,"status":"Accepted","lang":"cpp","timestamp":1765811591,"runtime":"0 ms","memory":"22.7 MB"}
+      ]
+    },
+    "valid-perfect-square": {
+      "id": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "difficulty": "Easy",
+      "tags": ["Math","Binary Search"],
+      "topic": "Math",
+      "dir": "Math/0367-valid-perfect-square",
+      "first_attempt_at": 1765821367,
+      "last_attempt_at": 1765821937,
+      "solved_at": 1765821553,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1856514320,"status":"Accepted","lang":"cpp","timestamp":1765821937,"runtime":"0 ms","memory":"7.6 MB"}
+      },
+      "submissions": [
+        {"id":1856505439,"status":"Wrong Answer","lang":"cpp","timestamp":1765821367,"runtime":null,"memory":null},
+        {"id":1856506190,"status":"Runtime Error","lang":"cpp","timestamp":1765821412,"runtime":null,"memory":null},
+        {"id":1856508355,"status":"Accepted","lang":"cpp","timestamp":1765821553,"runtime":null,"memory":null},
+        {"id":1856514124,"status":"Compile Error","lang":"cpp","timestamp":1765821924,"runtime":null,"memory":null},
+        {"id":1856514320,"status":"Accepted","lang":"cpp","timestamp":1765821937,"runtime":"0 ms","memory":"7.6 MB"}
+      ]
+    },
+    "construct-the-rectangle": {
+      "id": "492",
+      "title": "Construct the Rectangle",
+      "slug": "construct-the-rectangle",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0492-construct-the-rectangle",
+      "first_attempt_at": 1765822923,
+      "last_attempt_at": 1765822967,
+      "solved_at": 1765822923,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1856529838,"status":"Accepted","lang":"cpp","timestamp":1765822967,"runtime":"0 ms","memory":"8 MB"}
+      },
+      "submissions": [
+        {"id":1856529159,"status":"Accepted","lang":"cpp","timestamp":1765822923,"runtime":null,"memory":null},
+        {"id":1856529838,"status":"Accepted","lang":"cpp","timestamp":1765822967,"runtime":"0 ms","memory":"8 MB"}
+      ]
+    },
+    "valid-boomerang": {
+      "id": "1037",
+      "title": "Valid Boomerang",
+      "slug": "valid-boomerang",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Geometry"],
+      "topic": "Array",
+      "dir": "Array/1037-valid-boomerang",
+      "first_attempt_at": 1765823967,
+      "last_attempt_at": 1765823967,
+      "solved_at": 1765823967,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1856543652,"status":"Accepted","lang":"cpp","timestamp":1765823967,"runtime":"0 ms","memory":"12.7 MB"}
+      },
+      "submissions": [
+        {"id":1856543652,"status":"Accepted","lang":"cpp","timestamp":1765823967,"runtime":"0 ms","memory":"12.7 MB"}
+      ]
+    },
+    "rotate-list": {
+      "id": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0061-rotate-list",
+      "first_attempt_at": 1765892646,
+      "last_attempt_at": 1765892646,
+      "solved_at": 1765892646,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1857172788,"status":"Accepted","lang":"cpp","timestamp":1765892646,"runtime":"0 ms","memory":"16.3 MB"}
+      },
+      "submissions": [
+        {"id":1857172788,"status":"Accepted","lang":"cpp","timestamp":1765892646,"runtime":"0 ms","memory":"16.3 MB"}
+      ]
+    },
+    "group-anagrams": {
+      "id": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","String","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0049-group-anagrams",
+      "first_attempt_at": 1767247184,
+      "last_attempt_at": 1784816271,
+      "solved_at": 1767247184,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2078489584,"status":"Accepted","lang":"cpp","timestamp":1784816271,"runtime":"13 ms","memory":"26 MB"}
+      },
+      "submissions": [
+        {"id":1870742705,"status":"Accepted","lang":"cpp","timestamp":1767247184,"runtime":null,"memory":null},
+        {"id":2078477203,"status":"Accepted","lang":"cpp","timestamp":1784815641,"runtime":null,"memory":null},
+        {"id":2078489584,"status":"Accepted","lang":"cpp","timestamp":1784816271,"runtime":"13 ms","memory":"26 MB"}
+      ]
+    },
+    "top-k-frequent-elements": {
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Divide and Conquer","Sorting","Heap (Priority Queue)","Bucket Sort","Counting","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0347-top-k-frequent-elements",
+      "first_attempt_at": 1767249150,
+      "last_attempt_at": 1767249150,
+      "solved_at": 1767249150,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1870764086,"status":"Accepted","lang":"cpp","timestamp":1767249150,"runtime":"5 ms","memory":"18 MB"}
+      },
+      "submissions": [
+        {"id":1870764086,"status":"Accepted","lang":"cpp","timestamp":1767249150,"runtime":"5 ms","memory":"18 MB"}
+      ]
+    },
+    "product-of-array-except-self": {
+      "id": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0238-product-of-array-except-self",
+      "first_attempt_at": 1767251809,
+      "last_attempt_at": 1767252296,
+      "solved_at": 1767251949,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1870799238,"status":"Accepted","lang":"cpp","timestamp":1767252296,"runtime":"3 ms","memory":"42.3 MB"}
+      },
+      "submissions": [
+        {"id":1870793996,"status":"Wrong Answer","lang":"cpp","timestamp":1767251809,"runtime":null,"memory":null},
+        {"id":1870795459,"status":"Accepted","lang":"cpp","timestamp":1767251949,"runtime":null,"memory":null},
+        {"id":1870799238,"status":"Accepted","lang":"cpp","timestamp":1767252296,"runtime":"3 ms","memory":"42.3 MB"}
+      ]
+    },
+    "valid-sudoku": {
+      "id": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0036-valid-sudoku",
+      "first_attempt_at": 1767364587,
+      "last_attempt_at": 1767364587,
+      "solved_at": 1767364587,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1872132550,"status":"Accepted","lang":"cpp","timestamp":1767364587,"runtime":"0 ms","memory":"21.7 MB"}
+      },
+      "submissions": [
+        {"id":1872132550,"status":"Accepted","lang":"cpp","timestamp":1767364587,"runtime":"0 ms","memory":"21.7 MB"}
+      ]
+    },
+    "longest-consecutive-sequence": {
+      "id": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Union-Find"],
+      "topic": "Array",
+      "dir": "Array/0128-longest-consecutive-sequence",
+      "first_attempt_at": 1767509813,
+      "last_attempt_at": 1767510227,
+      "solved_at": 1767510227,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1873914562,"status":"Accepted","lang":"cpp","timestamp":1767510227,"runtime":"21 ms","memory":"60.2 MB"}
+      },
+      "submissions": [
+        {"id":1873907975,"status":"Runtime Error","lang":"cpp","timestamp":1767509813,"runtime":null,"memory":null},
+        {"id":1873914562,"status":"Accepted","lang":"cpp","timestamp":1767510227,"runtime":"21 ms","memory":"60.2 MB"}
+      ]
+    },
+    "trapping-rain-water": {
+      "id": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "tags": ["Array","Two Pointers","Dynamic Programming","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0042-trapping-rain-water",
+      "first_attempt_at": 1767632464,
+      "last_attempt_at": 1767632464,
+      "solved_at": 1767632464,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1875551529,"status":"Accepted","lang":"cpp","timestamp":1767632464,"runtime":"3 ms","memory":"26 MB"}
+      },
+      "submissions": [
+        {"id":1875551529,"status":"Accepted","lang":"cpp","timestamp":1767632464,"runtime":"3 ms","memory":"26 MB"}
+      ]
+    },
+    "transpose-matrix": {
+      "id": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "difficulty": "Easy",
+      "tags": ["Array","Matrix","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0867-transpose-matrix",
+      "first_attempt_at": 1768571663,
+      "last_attempt_at": 1768572162,
+      "solved_at": 1768572162,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1886853700,"status":"Accepted","lang":"cpp","timestamp":1768572162,"runtime":"0 ms","memory":"15.1 MB"}
+      },
+      "submissions": [
+        {"id":1886846825,"status":"Compile Error","lang":"cpp","timestamp":1768571663,"runtime":null,"memory":null},
+        {"id":1886853700,"status":"Accepted","lang":"cpp","timestamp":1768572162,"runtime":"0 ms","memory":"15.1 MB"}
+      ]
+    },
+    "spiral-matrix": {
+      "id": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "tags": ["Array","Matrix","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0054-spiral-matrix",
+      "first_attempt_at": 1768574594,
+      "last_attempt_at": 1768574594,
+      "solved_at": 1768574594,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1886889075,"status":"Accepted","lang":"cpp","timestamp":1768574594,"runtime":"0 ms","memory":"9.2 MB"}
+      },
+      "submissions": [
+        {"id":1886889075,"status":"Accepted","lang":"cpp","timestamp":1768574594,"runtime":"0 ms","memory":"9.2 MB"}
+      ]
+    },
+    "spiral-matrix-ii": {
+      "id": "59",
+      "title": "Spiral Matrix II",
+      "slug": "spiral-matrix-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Matrix","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0059-spiral-matrix-ii",
+      "first_attempt_at": 1768631993,
+      "last_attempt_at": 1768631993,
+      "solved_at": 1768631993,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1887460258,"status":"Accepted","lang":"cpp","timestamp":1768631993,"runtime":"0 ms","memory":"9.3 MB"}
+      },
+      "submissions": [
+        {"id":1887460258,"status":"Accepted","lang":"cpp","timestamp":1768631993,"runtime":"0 ms","memory":"9.3 MB"}
+      ]
     }
   }
 }

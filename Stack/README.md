@@ -19,6 +19,8 @@ Filed under their main topic, but they use this one too.
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | String | Easy | Solved |
+| 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Array | Hard | Solved |
+| 143 | [Reorder List](../Linked-List/0143-reorder-list/README.md) | Linked List | Medium | Solved |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Linked List | Easy | Solved |
 | 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Array | Medium | Solved |
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Array | Easy | Solved |
