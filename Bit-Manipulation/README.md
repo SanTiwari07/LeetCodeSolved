@@ -20,4 +20,6 @@ Filed under their main topic, but they use this one too.
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Math | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Math | Easy | Solved |
+| 1486 | [XOR Operation in an Array](../Math/1486-xor-operation-in-an-array/README.md) | Math | Easy | Solved |
 | 3304 | [Find the K-th Character in String Game I](../Math/3304-find-the-k-th-character-in-string-game-i/README.md) | Math | Easy | Solved |
+| 3670 | [Maximum Product of Two Integers With No Common Bits](../Array/3670-maximum-product-of-two-integers-with-no-common-bits/README.md) | Array | Medium | Attempted |

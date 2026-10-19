@@ -21,5 +21,7 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Two Pointers | Easy | Solved |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Two Pointers | Easy | Solved |
+| 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Two Pointers | Medium | Solved |
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Hash Table | Easy | Solved |
 | 1832 | [Check if the Sentence Is Pangram](../Hash-Table/1832-check-if-the-sentence-is-pangram/README.md) | Hash Table | Easy | Solved |
+| 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Array | Easy | Solved |

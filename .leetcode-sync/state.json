@@ -1201,6 +1201,294 @@
         {"id":1750224614,"status":"Wrong Answer","lang":"cpp","timestamp":1756303065,"runtime":null,"memory":null},
         {"id":1750225245,"status":"Accepted","lang":"cpp","timestamp":1756303099,"runtime":"0 ms","memory":"8.2 MB"}
       ]
+    },
+    "type-of-triangle": {
+      "id": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Sorting","Polygons"],
+      "topic": "Array",
+      "dir": "Array/3024-type-of-triangle",
+      "first_attempt_at": 1756385874,
+      "last_attempt_at": 1756386031,
+      "solved_at": 1756386031,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1751300757,"status":"Accepted","lang":"cpp","timestamp":1756386031,"runtime":"0 ms","memory":"23 MB"}
+      },
+      "submissions": [
+        {"id":1751298434,"status":"Wrong Answer","lang":"cpp","timestamp":1756385874,"runtime":null,"memory":null},
+        {"id":1751300757,"status":"Accepted","lang":"cpp","timestamp":1756386031,"runtime":"0 ms","memory":"23 MB"}
+      ]
+    },
+    "three-consecutive-odds": {
+      "id": "1550",
+      "title": "Three Consecutive Odds",
+      "slug": "three-consecutive-odds",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/1550-three-consecutive-odds",
+      "first_attempt_at": 1756561091,
+      "last_attempt_at": 1756561091,
+      "solved_at": 1756561091,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1753535954,"status":"Accepted","lang":"cpp","timestamp":1756561091,"runtime":"0 ms","memory":"12 MB"}
+      },
+      "submissions": [
+        {"id":1753535954,"status":"Accepted","lang":"cpp","timestamp":1756561091,"runtime":"0 ms","memory":"12 MB"}
+      ]
+    },
+    "richest-customer-wealth": {
+      "id": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "difficulty": "Easy",
+      "tags": ["Array","Matrix"],
+      "topic": "Array",
+      "dir": "Array/1672-richest-customer-wealth",
+      "first_attempt_at": 1756561534,
+      "last_attempt_at": 1756561534,
+      "solved_at": 1756561534,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1753542893,"status":"Accepted","lang":"cpp","timestamp":1756561534,"runtime":"0 ms","memory":"11.2 MB"}
+      },
+      "submissions": [
+        {"id":1753542893,"status":"Accepted","lang":"cpp","timestamp":1756561534,"runtime":"0 ms","memory":"11.2 MB"}
+      ]
+    },
+    "restore-finishing-order": {
+      "id": "3668",
+      "title": "Restore Finishing Order",
+      "slug": "restore-finishing-order",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table"],
+      "topic": "Array",
+      "dir": "Array/3668-restore-finishing-order",
+      "first_attempt_at": 1756607870,
+      "last_attempt_at": 1756607870,
+      "solved_at": 1756607870,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754180822,"status":"Accepted","lang":"cpp","timestamp":1756607870,"runtime":"0 ms","memory":"50.2 MB"}
+      },
+      "submissions": [
+        {"id":1754180822,"status":"Accepted","lang":"cpp","timestamp":1756607870,"runtime":"0 ms","memory":"50.2 MB"}
+      ]
+    },
+    "maximum-product-of-two-integers-with-no-common-bits": {
+      "id": "3670",
+      "title": "Maximum Product of Two Integers With No Common Bits",
+      "slug": "maximum-product-of-two-integers-with-no-common-bits",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/3670-maximum-product-of-two-integers-with-no-common-bits",
+      "first_attempt_at": 1756610661,
+      "last_attempt_at": 1767241454,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1870691878,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1767241454,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1754244010,"status":"Wrong Answer","lang":"cpp","timestamp":1756610661,"runtime":null,"memory":null},
+        {"id":1754257662,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1756611239,"runtime":null,"memory":null},
+        {"id":1754269641,"status":"Compile Error","lang":"cpp","timestamp":1756611751,"runtime":null,"memory":null},
+        {"id":1754272027,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1756611855,"runtime":null,"memory":null},
+        {"id":1754275430,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1756612005,"runtime":null,"memory":null},
+        {"id":1870683491,"status":"Runtime Error","lang":"cpp","timestamp":1767240324,"runtime":null,"memory":null},
+        {"id":1870684656,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1767240483,"runtime":null,"memory":null},
+        {"id":1870691878,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1767241454,"runtime":null,"memory":null}
+      ]
+    },
+    "reverse-words-in-a-string": {
+      "id": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0151-reverse-words-in-a-string",
+      "first_attempt_at": 1756615998,
+      "last_attempt_at": 1756615998,
+      "solved_at": 1756615998,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754335070,"status":"Accepted","lang":"cpp","timestamp":1756615998,"runtime":"3 ms","memory":"10.3 MB"}
+      },
+      "submissions": [
+        {"id":1754335070,"status":"Accepted","lang":"cpp","timestamp":1756615998,"runtime":"3 ms","memory":"10.3 MB"}
+      ]
+    },
+    "squares-of-a-sorted-array": {
+      "id": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0977-squares-of-a-sorted-array",
+      "first_attempt_at": 1756617527,
+      "last_attempt_at": 1756617787,
+      "solved_at": 1756617527,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754359055,"status":"Accepted","lang":"cpp","timestamp":1756617787,"runtime":"11 ms","memory":"30.3 MB"}
+      },
+      "submissions": [
+        {"id":1754355420,"status":"Accepted","lang":"cpp","timestamp":1756617527,"runtime":null,"memory":null},
+        {"id":1754357091,"status":"Accepted","lang":"cpp","timestamp":1756617648,"runtime":null,"memory":null},
+        {"id":1754357248,"status":"Accepted","lang":"cpp","timestamp":1756617659,"runtime":null,"memory":null},
+        {"id":1754358232,"status":"Accepted","lang":"cpp","timestamp":1756617728,"runtime":null,"memory":null},
+        {"id":1754359055,"status":"Accepted","lang":"cpp","timestamp":1756617787,"runtime":"11 ms","memory":"30.3 MB"}
+      ]
+    },
+    "sign-of-the-product-of-an-array": {
+      "id": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/1822-sign-of-the-product-of-an-array",
+      "first_attempt_at": 1756621555,
+      "last_attempt_at": 1756621743,
+      "solved_at": 1756621743,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754424119,"status":"Accepted","lang":"cpp","timestamp":1756621743,"runtime":"0 ms","memory":"13.6 MB"}
+      },
+      "submissions": [
+        {"id":1754420746,"status":"Runtime Error","lang":"cpp","timestamp":1756621555,"runtime":null,"memory":null},
+        {"id":1754421146,"status":"Runtime Error","lang":"cpp","timestamp":1756621575,"runtime":null,"memory":null},
+        {"id":1754424119,"status":"Accepted","lang":"cpp","timestamp":1756621743,"runtime":"0 ms","memory":"13.6 MB"}
+      ]
+    },
+    "find-the-maximum-achievable-number": {
+      "id": "2769",
+      "title": "Find the Maximum Achievable Number",
+      "slug": "find-the-maximum-achievable-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2769-find-the-maximum-achievable-number",
+      "first_attempt_at": 1756622062,
+      "last_attempt_at": 1756622107,
+      "solved_at": 1756622062,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754430562,"status":"Accepted","lang":"cpp","timestamp":1756622107,"runtime":"0 ms","memory":"9.7 MB"}
+      },
+      "submissions": [
+        {"id":1754429781,"status":"Accepted","lang":"cpp","timestamp":1756622062,"runtime":null,"memory":null},
+        {"id":1754430562,"status":"Accepted","lang":"cpp","timestamp":1756622107,"runtime":"0 ms","memory":"9.7 MB"}
+      ]
+    },
+    "strictly-palindromic-number": {
+      "id": "2396",
+      "title": "Strictly Palindromic Number",
+      "slug": "strictly-palindromic-number",
+      "difficulty": "Medium",
+      "tags": ["Math","Two Pointers","Brainteaser"],
+      "topic": "Math",
+      "dir": "Math/2396-strictly-palindromic-number",
+      "first_attempt_at": 1756622179,
+      "last_attempt_at": 1756622290,
+      "solved_at": 1756622179,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754433668,"status":"Accepted","lang":"cpp","timestamp":1756622290,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1754431783,"status":"Accepted","lang":"cpp","timestamp":1756622179,"runtime":null,"memory":null},
+        {"id":1754433668,"status":"Accepted","lang":"cpp","timestamp":1756622290,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "next-greater-element-ii": {
+      "id": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0503-next-greater-element-ii",
+      "first_attempt_at": 1756624988,
+      "last_attempt_at": 1756624988,
+      "solved_at": 1756624988,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754476921,"status":"Accepted","lang":"cpp","timestamp":1756624988,"runtime":"99 ms","memory":"28.6 MB"}
+      },
+      "submissions": [
+        {"id":1754476921,"status":"Accepted","lang":"cpp","timestamp":1756624988,"runtime":"99 ms","memory":"28.6 MB"}
+      ]
+    },
+    "two-sum-ii-input-array-is-sorted": {
+      "id": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0167-two-sum-ii-input-array-is-sorted",
+      "first_attempt_at": 1756712570,
+      "last_attempt_at": 1756712570,
+      "solved_at": 1756712570,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1755573384,"status":"Accepted","lang":"cpp","timestamp":1756712570,"runtime":"0 ms","memory":"19.5 MB"}
+      },
+      "submissions": [
+        {"id":1755573384,"status":"Accepted","lang":"cpp","timestamp":1756712570,"runtime":"0 ms","memory":"19.5 MB"}
+      ]
+    },
+    "difference-between-element-sum-and-digit-sum-of-an-array": {
+      "id": "2535",
+      "title": "Difference Between Element Sum and Digit Sum of an Array",
+      "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/2535-difference-between-element-sum-and-digit-sum-of-an-array",
+      "first_attempt_at": 1756825077,
+      "last_attempt_at": 1756825337,
+      "solved_at": 1756825337,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1757166129,"status":"Accepted","lang":"cpp","timestamp":1756825337,"runtime":"2 ms","memory":"19.4 MB"}
+      },
+      "submissions": [
+        {"id":1757161435,"status":"Wrong Answer","lang":"cpp","timestamp":1756825077,"runtime":null,"memory":null},
+        {"id":1757166129,"status":"Accepted","lang":"cpp","timestamp":1756825337,"runtime":"2 ms","memory":"19.4 MB"}
+      ]
+    },
+    "find-first-palindromic-string-in-the-array": {
+      "id": "2108",
+      "title": "Find First Palindromic String in the Array",
+      "slug": "find-first-palindromic-string-in-the-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","String"],
+      "topic": "Array",
+      "dir": "Array/2108-find-first-palindromic-string-in-the-array",
+      "first_attempt_at": 1756988089,
+      "last_attempt_at": 1756988833,
+      "solved_at": 1756988089,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1759337327,"status":"Accepted","lang":"cpp","timestamp":1756988833,"runtime":"0 ms","memory":"23.2 MB"}
+      },
+      "submissions": [
+        {"id":1759327864,"status":"Accepted","lang":"cpp","timestamp":1756988089,"runtime":null,"memory":null},
+        {"id":1759337327,"status":"Accepted","lang":"cpp","timestamp":1756988833,"runtime":"0 ms","memory":"23.2 MB"}
+      ]
+    },
+    "xor-operation-in-an-array": {
+      "id": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "tags": ["Math","Bit Manipulation"],
+      "topic": "Math",
+      "dir": "Math/1486-xor-operation-in-an-array",
+      "first_attempt_at": 1757085576,
+      "last_attempt_at": 1757085576,
+      "solved_at": 1757085576,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1760590603,"status":"Accepted","lang":"cpp","timestamp":1757085576,"runtime":"0 ms","memory":"7.6 MB"}
+      },
+      "submissions": [
+        {"id":1760590603,"status":"Accepted","lang":"cpp","timestamp":1757085576,"runtime":"0 ms","memory":"7.6 MB"}
+      ]
     }
   }
 }

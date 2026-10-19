@@ -23,3 +23,4 @@ Filed under their main topic, but they use this one too.
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 3659 | [Partition Array Into K-Distinct Groups](../Array/3659-partition-array-into-k-distinct-groups/README.md) | Array | Medium | Attempted |
+| 3668 | [Restore Finishing Order](../Array/3668-restore-finishing-order/README.md) | Array | Easy | Solved |
