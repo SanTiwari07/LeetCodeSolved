@@ -32,5 +32,6 @@ Filed under their main topic, but they use this one too.
 | 2273 | [Find Resultant Array After Removing Anagrams](../Array/2273-find-resultant-array-after-removing-anagrams/README.md) | Array | Easy | Solved |
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Array | Easy | Solved |
 | 3005 | [Count Elements With Maximum Frequency](../Array/3005-count-elements-with-maximum-frequency/README.md) | Array | Easy | Solved |
+| 3217 | [Delete Nodes From Linked List Present in Array](../Array/3217-delete-nodes-from-linked-list-present-in-array/README.md) | Array | Medium | Solved |
 | 3659 | [Partition Array Into K-Distinct Groups](../Array/3659-partition-array-into-k-distinct-groups/README.md) | Array | Medium | Attempted |
 | 3668 | [Restore Finishing Order](../Array/3668-restore-finishing-order/README.md) | Array | Easy | Solved |

@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 24 | 24 | 0 | 19 | 5 | 0 |
+| 26 | 26 | 0 | 21 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 | [Reverse Integer](../Math/0007-reverse-integer/README.md) | Medium | Solved | 7 | cpp | 2025-08-01 |
 | 9 | [Palindrome Number](../Math/0009-palindrome-number/README.md) | Easy | Solved | 4 | cpp | 2025-08-02 |
 | 50 | [Pow(x, n)](../Math/0050-powx-n/README.md) | Medium | Solved | 5 | cpp | 2025-10-16 |
+| 67 | [Add Binary](../Math/0067-add-binary/README.md) | Easy | Solved | 2 | cpp | 2025-12-12 |
 | 69 | [Sqrt(x)](../Math/0069-sqrtx/README.md) | Easy | Solved | 1 | cpp | 2025-08-08 |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Easy | Solved | 3 | cpp | 2025-09-08 |
 | 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Easy | Solved | 1 | cpp | 2025-10-03 |
@@ -23,6 +24,7 @@
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2025-07-20 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](../Math/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md) | Easy | Solved | 1 | cpp | 2025-09-19 |
 | 1486 | [XOR Operation in an Array](../Math/1486-xor-operation-in-an-array/README.md) | Easy | Solved | 1 | cpp | 2025-09-05 |
+| 2235 | [Add Two Integers](../Math/2235-add-two-integers/README.md) | Easy | Solved | 1 | cpp | 2025-11-05 |
 | 2396 | [Strictly Palindromic Number](../Math/2396-strictly-palindromic-number/README.md) | Medium | Solved | 2 | cpp | 2025-08-31 |
 | 2520 | [Count the Digits That Divide a Number](../Math/2520-count-the-digits-that-divide-a-number/README.md) | Easy | Solved | 2 | cpp | 2025-08-26 |
 | 2525 | [Categorize Box According to Criteria](../Math/2525-categorize-box-according-to-criteria/README.md) | Easy | Solved | 5 | cpp | 2025-09-14 |

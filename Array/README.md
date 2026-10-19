@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 69 | 66 | 3 | 44 | 24 | 1 |
+| 80 | 76 | 4 | 45 | 34 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -17,12 +17,17 @@
 | 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 6 | cpp | 2025-08-16 |
 | 34 | [Find First and Last Position of Element in Sorted Array](../Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | Solved | 4 | cpp | 2025-08-16 |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Easy | Solved | 3 | cpp | 2025-08-06 |
+| 39 | [Combination Sum](../Array/0039-combination-sum/README.md) | Medium | Solved | 1 | cpp | 2025-12-09 |
+| 40 | [Combination Sum II](../Array/0040-combination-sum-ii/README.md) | Medium | Solved | 3 | cpp | 2025-12-09 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 4 | cpp | 2025-07-30 |
+| 64 | [Minimum Path Sum](../Array/0064-minimum-path-sum/README.md) | Medium | Solved | 1 | cpp | 2025-11-05 |
 | 66 | [Plus One](../Array/0066-plus-one/README.md) | Easy | Solved | 1 | cpp | 2025-08-10 |
 | 74 | [Search a 2D Matrix](../Array/0074-search-a-2d-matrix/README.md) | Medium | Solved | 3 | cpp | 2025-08-18 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 1 | cpp | 2025-07-28 |
+| 78 | [Subsets](../Array/0078-subsets/README.md) | Medium | Solved | 4 | cpp | 2025-11-05 |
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 3 | cpp | 2025-08-18 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-08-05 |
+| 90 | [Subsets II](../Array/0090-subsets-ii/README.md) | Medium | Solved | 2 | cpp | 2025-12-09 |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Easy | Solved | 1 | cpp | 2025-08-05 |
 | 120 | [Triangle](../Array/0120-triangle/README.md) | Medium | Solved | 4 | cpp | 2025-09-25 |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Solved | 4 | cpp | 2025-07-30 |
@@ -32,10 +37,13 @@
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-07-29 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 3 | cpp | 2025-07-27 |
 | 215 | [Kth Largest Element in an Array](../Array/0215-kth-largest-element-in-an-array/README.md) | Medium | Solved | 4 | cpp | 2025-10-30 |
+| 216 | [Combination Sum III](../Array/0216-combination-sum-iii/README.md) | Medium | Solved | 1 | cpp | 2025-12-10 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 7 | cpp | 2025-08-04 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 2 | cpp | 2025-08-18 |
+| 260 | [Single Number III](../Array/0260-single-number-iii/README.md) | Medium | Attempted | 1 | cpp | - |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-07-27 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 4 | cpp | 2025-07-27 |
+| 300 | [Longest Increasing Subsequence](../Array/0300-longest-increasing-subsequence/README.md) | Medium | Solved | 1 | cpp | 2025-11-03 |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Easy | Solved | 2 | cpp | 2025-08-22 |
 | 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Easy | Solved | 1 | cpp | 2025-08-24 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 5 | cpp | 2025-07-27 |
@@ -45,6 +53,8 @@
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2025-08-19 |
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Easy | Solved | 2 | cpp | 2025-08-23 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 4 | cpp | 2025-08-16 |
+| 746 | [Min Cost Climbing Stairs](../Array/0746-min-cost-climbing-stairs/README.md) | Easy | Solved | 1 | cpp | 2025-12-13 |
+| 912 | [Sort an Array](../Array/0912-sort-an-array/README.md) | Medium | Solved | 2 | cpp | 2025-11-05 |
 | 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Easy | Solved | 1 | cpp | 2025-09-28 |
 | 977 | [Squares of a Sorted Array](../Array/0977-squares-of-a-sorted-array/README.md) | Easy | Solved | 5 | cpp | 2025-08-31 |
 | 1046 | [Last Stone Weight](../Array/1046-last-stone-weight/README.md) | Easy | Solved | 2 | cpp | 2025-10-19 |
@@ -71,6 +81,7 @@
 | 3005 | [Count Elements With Maximum Frequency](../Array/3005-count-elements-with-maximum-frequency/README.md) | Easy | Solved | 1 | cpp | 2025-09-22 |
 | 3024 | [Type of Triangle](../Array/3024-type-of-triangle/README.md) | Easy | Solved | 2 | cpp | 2025-08-28 |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](../Array/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
+| 3217 | [Delete Nodes From Linked List Present in Array](../Array/3217-delete-nodes-from-linked-list-present-in-array/README.md) | Medium | Solved | 2 | cpp | 2025-11-01 |
 | 3232 | [Find if Digit Game Can Be Won](../Array/3232-find-if-digit-game-can-be-won/README.md) | Easy | Solved | 3 | cpp | 2025-09-18 |
 | 3349 | [Adjacent Increasing Subarrays Detection I](../Array/3349-adjacent-increasing-subarrays-detection-i/README.md) | Easy | Solved | 3 | cpp | 2025-10-14 |
 | 3354 | [Make Array Elements Equal to Zero](../Array/3354-make-array-elements-equal-to-zero/README.md) | Easy | Solved | 1 | cpp | 2025-10-28 |

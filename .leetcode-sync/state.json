@@ -2661,6 +2661,287 @@
       "submissions": [
         {"id":1817677700,"status":"Accepted","lang":"cpp","timestamp":1762002170,"runtime":"0 ms","memory":"10.9 MB"}
       ]
+    },
+    "delete-nodes-from-linked-list-present-in-array": {
+      "id": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Linked List"],
+      "topic": "Array",
+      "dir": "Array/3217-delete-nodes-from-linked-list-present-in-array",
+      "first_attempt_at": 1762003732,
+      "last_attempt_at": 1762004340,
+      "solved_at": 1762004340,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817706074,"status":"Accepted","lang":"cpp","timestamp":1762004340,"runtime":"90 ms","memory":"263.5 MB"}
+      },
+      "submissions": [
+        {"id":1817697823,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1762003732,"runtime":null,"memory":null},
+        {"id":1817706074,"status":"Accepted","lang":"cpp","timestamp":1762004340,"runtime":"90 ms","memory":"263.5 MB"}
+      ]
+    },
+    "longest-common-subsequence": {
+      "id": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "Medium",
+      "tags": ["String","Dynamic Programming","Longest Common Subsequence"],
+      "topic": "String",
+      "dir": "String/1143-longest-common-subsequence",
+      "first_attempt_at": 1762169356,
+      "last_attempt_at": 1768235893,
+      "solved_at": 1762169356,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1882991742,"status":"Accepted","lang":"cpp","timestamp":1768235893,"runtime":"26 ms","memory":"27.5 MB"}
+      },
+      "submissions": [
+        {"id":1819485348,"status":"Accepted","lang":"cpp","timestamp":1762169356,"runtime":null,"memory":null},
+        {"id":1882991742,"status":"Accepted","lang":"cpp","timestamp":1768235893,"runtime":"26 ms","memory":"27.5 MB"}
+      ]
+    },
+    "longest-increasing-subsequence": {
+      "id": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Dynamic Programming","Longest Increasing Subsequence"],
+      "topic": "Array",
+      "dir": "Array/0300-longest-increasing-subsequence",
+      "first_attempt_at": 1762172222,
+      "last_attempt_at": 1762172222,
+      "solved_at": 1762172222,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1819517378,"status":"Accepted","lang":"cpp","timestamp":1762172222,"runtime":"44 ms","memory":"14.4 MB"}
+      },
+      "submissions": [
+        {"id":1819517378,"status":"Accepted","lang":"cpp","timestamp":1762172222,"runtime":"44 ms","memory":"14.4 MB"}
+      ]
+    },
+    "counting-bits": {
+      "id": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "Easy",
+      "tags": ["Dynamic Programming","Bit Manipulation"],
+      "topic": "Dynamic Programming",
+      "dir": "Dynamic-Programming/0338-counting-bits",
+      "first_attempt_at": 1762342477,
+      "last_attempt_at": 1762342537,
+      "solved_at": 1762342537,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1821431803,"status":"Accepted","lang":"cpp","timestamp":1762342537,"runtime":"1 ms","memory":"11.5 MB"}
+      },
+      "submissions": [
+        {"id":1821431120,"status":"Wrong Answer","lang":"cpp","timestamp":1762342477,"runtime":null,"memory":null},
+        {"id":1821431803,"status":"Accepted","lang":"cpp","timestamp":1762342537,"runtime":"1 ms","memory":"11.5 MB"}
+      ]
+    },
+    "single-number-iii": {
+      "id": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "difficulty": "Medium",
+      "tags": ["Array","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0260-single-number-iii",
+      "first_attempt_at": 1762346101,
+      "last_attempt_at": 1762346101,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1821470024,"status":"Wrong Answer","lang":"cpp","timestamp":1762346101,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1821470024,"status":"Wrong Answer","lang":"cpp","timestamp":1762346101,"runtime":null,"memory":null}
+      ]
+    },
+    "subsets": {
+      "id": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0078-subsets",
+      "first_attempt_at": 1762349816,
+      "last_attempt_at": 1765288482,
+      "solved_at": 1762349816,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1851132201,"status":"Accepted","lang":"cpp","timestamp":1765288482,"runtime":"2 ms","memory":"9.9 MB"}
+      },
+      "submissions": [
+        {"id":1821516169,"status":"Accepted","lang":"cpp","timestamp":1762349816,"runtime":null,"memory":null},
+        {"id":1821516570,"status":"Accepted","lang":"cpp","timestamp":1762349841,"runtime":null,"memory":null},
+        {"id":1821522125,"status":"Accepted","lang":"cpp","timestamp":1762350239,"runtime":null,"memory":null},
+        {"id":1851132201,"status":"Accepted","lang":"cpp","timestamp":1765288482,"runtime":"2 ms","memory":"9.9 MB"}
+      ]
+    },
+    "sort-an-array": {
+      "id": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Divide and Conquer","Sorting","Heap (Priority Queue)","Merge Sort","Bucket Sort","Radix Sort","Counting Sort"],
+      "topic": "Array",
+      "dir": "Array/0912-sort-an-array",
+      "first_attempt_at": 1762350517,
+      "last_attempt_at": 1762351575,
+      "solved_at": 1762350517,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1821541089,"status":"Accepted","lang":"cpp","timestamp":1762351575,"runtime":"384 ms","memory":"185.6 MB"}
+      },
+      "submissions": [
+        {"id":1821525957,"status":"Accepted","lang":"cpp","timestamp":1762350517,"runtime":null,"memory":null},
+        {"id":1821541089,"status":"Accepted","lang":"cpp","timestamp":1762351575,"runtime":"384 ms","memory":"185.6 MB"}
+      ]
+    },
+    "minimum-path-sum": {
+      "id": "64",
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0064-minimum-path-sum",
+      "first_attempt_at": 1762362613,
+      "last_attempt_at": 1762362613,
+      "solved_at": 1762362613,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1821708284,"status":"Accepted","lang":"cpp","timestamp":1762362613,"runtime":"0 ms","memory":"15.1 MB"}
+      },
+      "submissions": [
+        {"id":1821708284,"status":"Accepted","lang":"cpp","timestamp":1762362613,"runtime":"0 ms","memory":"15.1 MB"}
+      ]
+    },
+    "add-two-integers": {
+      "id": "2235",
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2235-add-two-integers",
+      "first_attempt_at": 1762365177,
+      "last_attempt_at": 1762365177,
+      "solved_at": 1762365177,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1821753227,"status":"Accepted","lang":"cpp","timestamp":1762365177,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":1821753227,"status":"Accepted","lang":"cpp","timestamp":1762365177,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "subsets-ii": {
+      "id": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0090-subsets-ii",
+      "first_attempt_at": 1765287669,
+      "last_attempt_at": 1765287804,
+      "solved_at": 1765287804,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1851123177,"status":"Accepted","lang":"cpp","timestamp":1765287804,"runtime":"0 ms","memory":"10.4 MB"}
+      },
+      "submissions": [
+        {"id":1851121326,"status":"Runtime Error","lang":"cpp","timestamp":1765287669,"runtime":null,"memory":null},
+        {"id":1851123177,"status":"Accepted","lang":"cpp","timestamp":1765287804,"runtime":"0 ms","memory":"10.4 MB"}
+      ]
+    },
+    "combination-sum": {
+      "id": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking"],
+      "topic": "Array",
+      "dir": "Array/0039-combination-sum",
+      "first_attempt_at": 1765290694,
+      "last_attempt_at": 1765290694,
+      "solved_at": 1765290694,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1851162899,"status":"Accepted","lang":"cpp","timestamp":1765290694,"runtime":"0 ms","memory":"14.2 MB"}
+      },
+      "submissions": [
+        {"id":1851162899,"status":"Accepted","lang":"cpp","timestamp":1765290694,"runtime":"0 ms","memory":"14.2 MB"}
+      ]
+    },
+    "combination-sum-ii": {
+      "id": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking"],
+      "topic": "Array",
+      "dir": "Array/0040-combination-sum-ii",
+      "first_attempt_at": 1765291817,
+      "last_attempt_at": 1765293088,
+      "solved_at": 1765292377,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1851196112,"status":"Accepted","lang":"cpp","timestamp":1765293088,"runtime":"0 ms","memory":"14.1 MB"}
+      },
+      "submissions": [
+        {"id":1851178525,"status":"Wrong Answer","lang":"cpp","timestamp":1765291817,"runtime":null,"memory":null},
+        {"id":1851186383,"status":"Accepted","lang":"cpp","timestamp":1765292377,"runtime":null,"memory":null},
+        {"id":1851196112,"status":"Accepted","lang":"cpp","timestamp":1765293088,"runtime":"0 ms","memory":"14.1 MB"}
+      ]
+    },
+    "combination-sum-iii": {
+      "id": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking"],
+      "topic": "Array",
+      "dir": "Array/0216-combination-sum-iii",
+      "first_attempt_at": 1765375381,
+      "last_attempt_at": 1765375381,
+      "solved_at": 1765375381,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1852062319,"status":"Accepted","lang":"cpp","timestamp":1765375381,"runtime":"0 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":1852062319,"status":"Accepted","lang":"cpp","timestamp":1765375381,"runtime":"0 ms","memory":"8.6 MB"}
+      ]
+    },
+    "add-binary": {
+      "id": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "tags": ["Math","String","Bit Manipulation","Simulation"],
+      "topic": "Math",
+      "dir": "Math/0067-add-binary",
+      "first_attempt_at": 1765555032,
+      "last_attempt_at": 1765555452,
+      "solved_at": 1765555452,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1853863913,"status":"Accepted","lang":"cpp","timestamp":1765555452,"runtime":"0 ms","memory":"9 MB"}
+      },
+      "submissions": [
+        {"id":1853858900,"status":"Runtime Error","lang":"cpp","timestamp":1765555032,"runtime":null,"memory":null},
+        {"id":1853863913,"status":"Accepted","lang":"cpp","timestamp":1765555452,"runtime":"0 ms","memory":"9 MB"}
+      ]
+    },
+    "min-cost-climbing-stairs": {
+      "id": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0746-min-cost-climbing-stairs",
+      "first_attempt_at": 1765634311,
+      "last_attempt_at": 1765634311,
+      "solved_at": 1765634311,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1854546341,"status":"Accepted","lang":"cpp","timestamp":1765634311,"runtime":"0 ms","memory":"17.4 MB"}
+      },
+      "submissions": [
+        {"id":1854546341,"status":"Accepted","lang":"cpp","timestamp":1765634311,"runtime":"0 ms","memory":"17.4 MB"}
+      ]
     }
   }
 }

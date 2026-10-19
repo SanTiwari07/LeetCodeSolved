@@ -16,9 +16,14 @@ Filed under their main topic, but they use this one too.
 
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
+| 67 | [Add Binary](../Math/0067-add-binary/README.md) | Math | Easy | Solved |
+| 78 | [Subsets](../Array/0078-subsets/README.md) | Array | Medium | Solved |
+| 90 | [Subsets II](../Array/0090-subsets-ii/README.md) | Array | Medium | Solved |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Array | Easy | Solved |
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Math | Easy | Solved |
+| 260 | [Single Number III](../Array/0260-single-number-iii/README.md) | Array | Medium | Attempted |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 338 | [Counting Bits](../Dynamic-Programming/0338-counting-bits/README.md) | Dynamic Programming | Easy | Solved |
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Math | Easy | Solved |
 | 1486 | [XOR Operation in an Array](../Math/1486-xor-operation-in-an-array/README.md) | Math | Easy | Solved |
 | 3304 | [Find the K-th Character in String Game I](../Math/3304-find-the-k-th-character-in-string-game-i/README.md) | Math | Easy | Solved |

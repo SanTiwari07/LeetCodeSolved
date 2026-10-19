@@ -26,3 +26,4 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Hash Table | Easy | Solved |
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Hash Table | Easy | Solved |
+| 3217 | [Delete Nodes From Linked List Present in Array](../Array/3217-delete-nodes-from-linked-list-present-in-array/README.md) | Array | Medium | Solved |

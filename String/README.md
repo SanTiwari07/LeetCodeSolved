@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 9 | 9 | 0 | 5 | 4 | 0 |
+| 10 | 10 | 0 | 5 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | 58 | [Length of Last Word](../String/0058-length-of-last-word/README.md) | Easy | Solved | 1 | cpp | 2025-08-07 |
 | 657 | [Robot Return to Origin](../String/0657-robot-return-to-origin/README.md) | Easy | Solved | 1 | cpp | 2025-09-18 |
 | 709 | [To Lower Case](../String/0709-to-lower-case/README.md) | Easy | Solved | 2 | cpp | 2025-08-27 |
+| 1143 | [Longest Common Subsequence](../String/1143-longest-common-subsequence/README.md) | Medium | Solved | 2 | cpp | 2025-11-03 |
 | 1625 | [Lexicographically Smallest String After Applying Operations](../String/1625-lexicographically-smallest-string-after-applying-operations/README.md) | Medium | Solved | 2 | cpp | 2025-10-19 |
 | 2785 | [Sort Vowels in a String](../String/2785-sort-vowels-in-a-string/README.md) | Medium | Solved | 2 | cpp | 2025-09-11 |
 | 3019 | [Number of Changing Keys](../String/3019-number-of-changing-keys/README.md) | Easy | Solved | 1 | cpp | 2025-09-21 |
@@ -27,6 +28,7 @@ Filed under their main topic, but they use this one too.
 | 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Hash Table | Medium | Solved |
 | 5 | [Longest Palindromic Substring](../Two-Pointers/0005-longest-palindromic-substring/README.md) | Two Pointers | Medium | Solved |
 | 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Two Pointers | Easy | Solved |
+| 67 | [Add Binary](../Math/0067-add-binary/README.md) | Math | Easy | Solved |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Two Pointers | Easy | Solved |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Two Pointers | Medium | Solved |
 | 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Math | Easy | Solved |
