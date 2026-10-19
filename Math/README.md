@@ -44,6 +44,7 @@ Filed under their main topic, but they use this one too.
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Array | Easy | Solved |
+| 1290 | [Convert Binary Number in a Linked List to Integer](../Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer/README.md) | Linked List | Easy | Solved |
 | 1822 | [Sign of the Product of an Array](../Array/1822-sign-of-the-product-of-an-array/README.md) | Array | Easy | Solved |
 | 1823 | [Find the Winner of the Circular Game](../Array/1823-find-the-winner-of-the-circular-game/README.md) | Array | Medium | Solved |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](../Array/2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | Array | Easy | Solved |

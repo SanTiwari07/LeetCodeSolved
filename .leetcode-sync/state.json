@@ -2374,6 +2374,293 @@
         {"id":1805938805,"status":"Wrong Answer","lang":"cpp","timestamp":1760882471,"runtime":null,"memory":null},
         {"id":1805940891,"status":"Accepted","lang":"python","timestamp":1760882640,"runtime":"294 ms","memory":"12.9 MB"}
       ]
+    },
+    "last-stone-weight": {
+      "id": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "difficulty": "Easy",
+      "tags": ["Array","Heap (Priority Queue)"],
+      "topic": "Array",
+      "dir": "Array/1046-last-stone-weight",
+      "first_attempt_at": 1760888745,
+      "last_attempt_at": 1760888933,
+      "solved_at": 1760888745,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1806015270,"status":"Accepted","lang":"cpp","timestamp":1760888933,"runtime":"0 ms","memory":"9.7 MB"}
+      },
+      "submissions": [
+        {"id":1806013063,"status":"Accepted","lang":"cpp","timestamp":1760888745,"runtime":null,"memory":null},
+        {"id":1806015270,"status":"Accepted","lang":"cpp","timestamp":1760888933,"runtime":"0 ms","memory":"9.7 MB"}
+      ]
+    },
+    "lexicographically-smallest-string-after-applying-operations": {
+      "id": "1625",
+      "title": "Lexicographically Smallest String After Applying Operations",
+      "slug": "lexicographically-smallest-string-after-applying-operations",
+      "difficulty": "Medium",
+      "tags": ["String","Depth-First Search","Breadth-First Search","Enumeration"],
+      "topic": "String",
+      "dir": "String/1625-lexicographically-smallest-string-after-applying-operations",
+      "first_attempt_at": 1760897983,
+      "last_attempt_at": 1760898079,
+      "solved_at": 1760898079,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1806136672,"status":"Accepted","lang":"cpp","timestamp":1760898079,"runtime":"467 ms","memory":"122.6 MB"}
+      },
+      "submissions": [
+        {"id":1806135384,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1760897983,"runtime":null,"memory":null},
+        {"id":1806136672,"status":"Accepted","lang":"cpp","timestamp":1760898079,"runtime":"467 ms","memory":"122.6 MB"}
+      ]
+    },
+    "final-value-of-variable-after-performing-operations": {
+      "id": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "tags": ["Array","String","Simulation"],
+      "topic": "Array",
+      "dir": "Array/2011-final-value-of-variable-after-performing-operations",
+      "first_attempt_at": 1760961809,
+      "last_attempt_at": 1760961953,
+      "solved_at": 1760961809,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1806698960,"status":"Accepted","lang":"cpp","timestamp":1760961953,"runtime":"0 ms","memory":"17.6 MB"}
+      },
+      "submissions": [
+        {"id":1806697544,"status":"Accepted","lang":"cpp","timestamp":1760961809,"runtime":null,"memory":null},
+        {"id":1806698960,"status":"Accepted","lang":"cpp","timestamp":1760961953,"runtime":"0 ms","memory":"17.6 MB"}
+      ]
+    },
+    "3sum": {
+      "id": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0015-3sum",
+      "first_attempt_at": 1760964198,
+      "last_attempt_at": 1767590891,
+      "solved_at": 1760964432,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1874913621,"status":"Accepted","lang":"cpp","timestamp":1767590891,"runtime":"234 ms","memory":"49.9 MB"}
+      },
+      "submissions": [
+        {"id":1806721101,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1760964198,"runtime":null,"memory":null},
+        {"id":1806723469,"status":"Accepted","lang":"cpp","timestamp":1760964432,"runtime":null,"memory":null},
+        {"id":1806725326,"status":"Accepted","lang":"cpp","timestamp":1760964623,"runtime":null,"memory":null},
+        {"id":1806727065,"status":"Wrong Answer","lang":"cpp","timestamp":1760964794,"runtime":null,"memory":null},
+        {"id":1874913621,"status":"Accepted","lang":"cpp","timestamp":1767590891,"runtime":"234 ms","memory":"49.9 MB"}
+      ]
+    },
+    "zigzag-conversion": {
+      "id": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/0006-zigzag-conversion",
+      "first_attempt_at": 1761316189,
+      "last_attempt_at": 1761316189,
+      "solved_at": 1761316189,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1810410326,"status":"Accepted","lang":"cpp","timestamp":1761316189,"runtime":"82 ms","memory":"42.9 MB"}
+      },
+      "submissions": [
+        {"id":1810410326,"status":"Accepted","lang":"cpp","timestamp":1761316189,"runtime":"82 ms","memory":"42.9 MB"}
+      ]
+    },
+    "simple-bank-system": {
+      "id": "2043",
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Design","Simulation"],
+      "topic": "Array",
+      "dir": "Array/2043-simple-bank-system",
+      "first_attempt_at": 1761450772,
+      "last_attempt_at": 1761451164,
+      "solved_at": 1761451164,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1811856932,"status":"Accepted","lang":"cpp","timestamp":1761451164,"runtime":"8 ms","memory":"123.7 MB"}
+      },
+      "submissions": [
+        {"id":1811848820,"status":"Runtime Error","lang":"cpp","timestamp":1761450772,"runtime":null,"memory":null},
+        {"id":1811855734,"status":"Wrong Answer","lang":"cpp","timestamp":1761451110,"runtime":null,"memory":null},
+        {"id":1811856932,"status":"Accepted","lang":"cpp","timestamp":1761451164,"runtime":"8 ms","memory":"123.7 MB"}
+      ]
+    },
+    "make-array-elements-equal-to-zero": {
+      "id": "3354",
+      "title": "Make Array Elements Equal to Zero",
+      "slug": "make-array-elements-equal-to-zero",
+      "difficulty": "Easy",
+      "tags": ["Array","Simulation","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/3354-make-array-elements-equal-to-zero",
+      "first_attempt_at": 1761665566,
+      "last_attempt_at": 1761665566,
+      "solved_at": 1761665566,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1814176994,"status":"Accepted","lang":"cpp","timestamp":1761665566,"runtime":"0 ms","memory":"21.8 MB"}
+      },
+      "submissions": [
+        {"id":1814176994,"status":"Accepted","lang":"cpp","timestamp":1761665566,"runtime":"0 ms","memory":"21.8 MB"}
+      ]
+    },
+    "kth-largest-element-in-an-array": {
+      "id": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Divide and Conquer","Sorting","Heap (Priority Queue)","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0215-kth-largest-element-in-an-array",
+      "first_attempt_at": 1761829755,
+      "last_attempt_at": 1761830205,
+      "solved_at": 1761830045,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1815953621,"status":"Accepted","lang":"cpp","timestamp":1761830205,"runtime":"31 ms","memory":"59.1 MB"}
+      },
+      "submissions": [
+        {"id":1815947960,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1761829755,"runtime":null,"memory":null},
+        {"id":1815951651,"status":"Accepted","lang":"cpp","timestamp":1761830045,"runtime":null,"memory":null},
+        {"id":1815951965,"status":"Accepted","lang":"cpp","timestamp":1761830070,"runtime":null,"memory":null},
+        {"id":1815953621,"status":"Accepted","lang":"cpp","timestamp":1761830205,"runtime":"31 ms","memory":"59.1 MB"}
+      ]
+    },
+    "relative-ranks": {
+      "id": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting","Heap (Priority Queue)"],
+      "topic": "Array",
+      "dir": "Array/0506-relative-ranks",
+      "first_attempt_at": 1761833054,
+      "last_attempt_at": 1761833108,
+      "solved_at": 1761833054,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1815991820,"status":"Accepted","lang":"cpp","timestamp":1761833108,"runtime":"39 ms","memory":"16.1 MB"}
+      },
+      "submissions": [
+        {"id":1815991131,"status":"Accepted","lang":"cpp","timestamp":1761833054,"runtime":null,"memory":null},
+        {"id":1815991820,"status":"Accepted","lang":"cpp","timestamp":1761833108,"runtime":"39 ms","memory":"16.1 MB"}
+      ]
+    },
+    "row-with-maximum-ones": {
+      "id": "2643",
+      "title": "Row With Maximum Ones",
+      "slug": "row-with-maximum-ones",
+      "difficulty": "Easy",
+      "tags": ["Array","Matrix"],
+      "topic": "Array",
+      "dir": "Array/2643-row-with-maximum-ones",
+      "first_attempt_at": 1761834038,
+      "last_attempt_at": 1761834038,
+      "solved_at": 1761834038,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1816004398,"status":"Accepted","lang":"cpp","timestamp":1761834038,"runtime":"0 ms","memory":"65.4 MB"}
+      },
+      "submissions": [
+        {"id":1816004398,"status":"Accepted","lang":"cpp","timestamp":1761834038,"runtime":"0 ms","memory":"65.4 MB"}
+      ]
+    },
+    "intersection-of-two-linked-lists": {
+      "id": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Linked List","Two Pointers"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0160-intersection-of-two-linked-lists",
+      "first_attempt_at": 1761975572,
+      "last_attempt_at": 1765809031,
+      "solved_at": 1761975572,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1856309870,"status":"Accepted","lang":"cpp","timestamp":1765809031,"runtime":"55 ms","memory":"23.8 MB"}
+      },
+      "submissions": [
+        {"id":1817387269,"status":"Accepted","lang":"cpp","timestamp":1761975572,"runtime":null,"memory":null},
+        {"id":1817387595,"status":"Accepted","lang":"cpp","timestamp":1761975602,"runtime":null,"memory":null},
+        {"id":1817400036,"status":"Accepted","lang":"cpp","timestamp":1761976674,"runtime":null,"memory":null},
+        {"id":1856309870,"status":"Accepted","lang":"cpp","timestamp":1765809031,"runtime":"55 ms","memory":"23.8 MB"}
+      ]
+    },
+    "convert-binary-number-in-a-linked-list-to-integer": {
+      "id": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Math"],
+      "topic": "Linked List",
+      "dir": "Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer",
+      "first_attempt_at": 1761978442,
+      "last_attempt_at": 1761978551,
+      "solved_at": 1761978442,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817422570,"status":"Accepted","lang":"cpp","timestamp":1761978551,"runtime":"0 ms","memory":"10.5 MB"}
+      },
+      "submissions": [
+        {"id":1817421233,"status":"Accepted","lang":"cpp","timestamp":1761978442,"runtime":null,"memory":null},
+        {"id":1817422570,"status":"Accepted","lang":"cpp","timestamp":1761978551,"runtime":"0 ms","memory":"10.5 MB"}
+      ]
+    },
+    "path-sum": {
+      "id": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0112-path-sum",
+      "first_attempt_at": 1761980409,
+      "last_attempt_at": 1761980409,
+      "solved_at": 1761980409,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817445010,"status":"Accepted","lang":"cpp","timestamp":1761980409,"runtime":"0 ms","memory":"21.5 MB"}
+      },
+      "submissions": [
+        {"id":1817445010,"status":"Accepted","lang":"cpp","timestamp":1761980409,"runtime":"0 ms","memory":"21.5 MB"}
+      ]
+    },
+    "sum-of-left-leaves": {
+      "id": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0404-sum-of-left-leaves",
+      "first_attempt_at": 1761980922,
+      "last_attempt_at": 1761980922,
+      "solved_at": 1761980922,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817450832,"status":"Accepted","lang":"cpp","timestamp":1761980922,"runtime":"0 ms","memory":"16.1 MB"}
+      },
+      "submissions": [
+        {"id":1817450832,"status":"Accepted","lang":"cpp","timestamp":1761980922,"runtime":"0 ms","memory":"16.1 MB"}
+      ]
+    },
+    "increasing-order-search-tree": {
+      "id": "897",
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Search Tree","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0897-increasing-order-search-tree",
+      "first_attempt_at": 1762002170,
+      "last_attempt_at": 1762002170,
+      "solved_at": 1762002170,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1817677700,"status":"Accepted","lang":"cpp","timestamp":1762002170,"runtime":"0 ms","memory":"10.9 MB"}
+      },
+      "submissions": [
+        {"id":1817677700,"status":"Accepted","lang":"cpp","timestamp":1762002170,"runtime":"0 ms","memory":"10.9 MB"}
+      ]
     }
   }
 }

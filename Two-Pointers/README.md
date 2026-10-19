@@ -20,12 +20,14 @@ Filed under their main topic, but they use this one too.
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
 | 11 | [Container With Most Water](../Array/0011-container-with-most-water/README.md) | Array | Medium | Solved |
+| 15 | [3Sum](../Array/0015-3sum/README.md) | Array | Medium | Solved |
 | 19 | [Remove Nth Node From End of List](../Linked-List/0019-remove-nth-node-from-end-of-list/README.md) | Linked List | Medium | Solved |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Array | Easy | Solved |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Array | Easy | Solved |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Array | Medium | Solved |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Array | Easy | Solved |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Hash Table | Easy | Solved |
+| 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Hash Table | Easy | Solved |
 | 167 | [Two Sum II - Input Array Is Sorted](../Array/0167-two-sum-ii-input-array-is-sorted/README.md) | Array | Medium | Solved |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Linked List | Easy | Solved |

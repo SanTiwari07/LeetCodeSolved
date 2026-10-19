@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 8 | 8 | 0 | 5 | 3 | 0 |
+| 9 | 9 | 0 | 6 | 3 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | 206 | [Reverse Linked List](../Linked-List/0206-reverse-linked-list/README.md) | Easy | Solved | 4 | cpp | 2025-09-14 |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Easy | Solved | 2 | cpp | 2025-09-27 |
 | 876 | [Middle of the Linked List](../Linked-List/0876-middle-of-the-linked-list/README.md) | Easy | Solved | 3 | cpp, python3 | 2025-09-13 |
+| 1290 | [Convert Binary Number in a Linked List to Integer](../Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer/README.md) | Easy | Solved | 2 | cpp | 2025-11-01 |
 
 ## Also tagged Linked List
 
@@ -24,3 +25,4 @@ Filed under their main topic, but they use this one too.
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Hash Table | Easy | Solved |
+| 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Hash Table | Easy | Solved |
