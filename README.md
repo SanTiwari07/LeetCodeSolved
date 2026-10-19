@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 221 | 215 | 6 | 146 | 67 | 2 | 2026-10-18 |
+| 222 | 216 | 6 | 147 | 67 | 2 | 2026-10-19 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 113 | 108 | 5 | 62 | 49 | 2 |
+| [Array](Array/README.md) | 114 | 109 | 5 | 63 | 49 | 2 |
 | [Math](Math/README.md) | 30 | 30 | 0 | 25 | 5 | 0 |
 | [Database](Database/README.md) | 28 | 28 | 0 | 28 | 0 | 0 |
 | [Hash Table](Hash-Table/README.md) | 11 | 10 | 1 | 7 | 4 | 0 |
@@ -37,6 +37,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-18 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
 | 2026-10-18 | [183. Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | Accepted | mysql |
 | 2026-10-18 | [853. Car Fleet](Array/0853-car-fleet/README.md) | Accepted | cpp |
@@ -51,13 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-17 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
 | 2026-10-17 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Wrong Answer | cpp |
 | 2026-10-17 | [875. Koko Eating Bananas](Array/0875-koko-eating-bananas/README.md) | Accepted | cpp |
-| 2026-10-17 | [875. Koko Eating Bananas](Array/0875-koko-eating-bananas/README.md) | Runtime Error | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 32 | 80 |
+| 2026-10 | 33 | 81 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -249,6 +249,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2026-01-25 | 2026-01-25 |
 | 2011 | [Final Value of Variable After Performing Operations](Array/2011-final-value-of-variable-after-performing-operations/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-10-20 | 2025-10-20 |
 | 2043 | [Simple Bank System](Array/2043-simple-bank-system/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2025-10-26 | 2025-10-26 |
+| 2089 | [Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 2108 | [Find First Palindromic String in the Array](Array/2108-find-first-palindromic-string-in-the-array/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-09-04 | 2025-09-04 |
 | 2114 | [Maximum Number of Words Found in Sentences](Array/2114-maximum-number-of-words-found-in-sentences/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-21 | 2025-09-21 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2025-07-31 | 2025-07-31 |

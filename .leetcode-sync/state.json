@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2175565986,
+  "synced_through": 2176220757,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4292,6 +4292,24 @@
       },
       "submissions": [
         {"id":2175565986,"status":"Accepted","lang":"mysql","timestamp":1792342199,"runtime":"1248 ms","memory":"0B"}
+      ]
+    },
+    "find-target-indices-after-sorting-array": {
+      "id": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2089-find-target-indices-after-sorting-array",
+      "first_attempt_at": 1792414314,
+      "last_attempt_at": 1792414314,
+      "solved_at": 1792414314,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176220757,"status":"Accepted","lang":"cpp","timestamp":1792414314,"runtime":"0 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":2176220757,"status":"Accepted","lang":"cpp","timestamp":1792414314,"runtime":"0 ms","memory":"15 MB"}
       ]
     }
   }

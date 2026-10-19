@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 113 | 108 | 5 | 62 | 49 | 2 |
+| 114 | 109 | 5 | 63 | 49 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -91,6 +91,7 @@
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](../Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | Easy | Solved | 3 | cpp | 2026-01-25 |
 | 2011 | [Final Value of Variable After Performing Operations](../Array/2011-final-value-of-variable-after-performing-operations/README.md) | Easy | Solved | 2 | cpp | 2025-10-20 |
 | 2043 | [Simple Bank System](../Array/2043-simple-bank-system/README.md) | Medium | Solved | 3 | cpp | 2025-10-26 |
+| 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Easy | Solved | 1 | cpp | 2026-10-19 |
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-04 |
 | 2114 | [Maximum Number of Words Found in Sentences](../Array/2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Solved | 1 | cpp | 2025-09-21 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 3 | cpp | 2025-07-31 |
