@@ -12,7 +12,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 9 | 9 | 0 | 7 | 2 | 0 |
 | [Math](Math/README.md) | 4 | 4 | 0 | 4 | 0 | 0 |
-| [Divide and Conquer](Divide-and-Conquer/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
+| [Bit Manipulation](Bit-Manipulation/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Two Pointers](Two-Pointers/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 
 ## Recent activity
@@ -24,7 +24,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-07-23 | [1. Two Sum](Array/0001-two-sum/README.md) | Accepted | cpp |
 | 2026-01-05 | [125. Valid Palindrome](Two-Pointers/0125-valid-palindrome/README.md) | Accepted | cpp |
 | 2026-01-01 | [1. Two Sum](Array/0001-two-sum/README.md) | Accepted | cpp |
-| 2025-11-05 | [191. Number of 1 Bits](Divide-and-Conquer/0191-number-of-1-bits/README.md) | Accepted | cpp |
+| 2025-11-05 | [191. Number of 1 Bits](Bit-Manipulation/0191-number-of-1-bits/README.md) | Accepted | cpp |
 | 2025-11-05 | [231. Power of Two](Math/0231-power-of-two/README.md) | Accepted | cpp |
 | 2025-11-05 | [231. Power of Two](Math/0231-power-of-two/README.md) | Time Limit Exceeded | cpp |
 | 2025-11-05 | [136. Single Number](Array/0136-single-number/README.md) | Accepted | cpp |
@@ -57,7 +57,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 125 | [Valid Palindrome](Two-Pointers/0125-valid-palindrome/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2025-07-20 | 2025-07-20 |
 | 136 | [Single Number](Array/0136-single-number/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2025-07-27 | 2025-07-27 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2025-07-27 | 2025-07-27 |
-| 191 | [Number of 1 Bits](Divide-and-Conquer/0191-number-of-1-bits/README.md) | [Divide and Conquer](Divide-and-Conquer/README.md) | Easy | Solved | 2 | 2025-07-25 | 2025-07-25 |
+| 191 | [Number of 1 Bits](Bit-Manipulation/0191-number-of-1-bits/README.md) | [Bit Manipulation](Bit-Manipulation/README.md) | Easy | Solved | 2 | 2025-07-25 | 2025-07-25 |
 | 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 6 | 2025-07-25 | 2025-07-25 |
 | 268 | [Missing Number](Array/0268-missing-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-07-27 | 2025-07-27 |
 | 283 | [Move Zeroes](Array/0283-move-zeroes/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2025-07-27 | 2025-07-27 |

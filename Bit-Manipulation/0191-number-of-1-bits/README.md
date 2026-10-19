@@ -1,6 +1,6 @@
 # [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
-[Divide and Conquer](../README.md) / [All problems](../../README.md)
+[Bit Manipulation](../README.md) / [All problems](../../README.md)
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
