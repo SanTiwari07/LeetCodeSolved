@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
+| Easy | Solved | 2 | 2026-10-10 | 2026-10-10 |
 
 **Topics:** Database
 
@@ -12,12 +12,13 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [mysql](solution.sql) | Accepted | 292 ms | 0B | 2026-10-10 |
+| [mysql](solution.sql) | Accepted | 326 ms | 0B | 2026-10-20 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-20 | Accepted | mysql | 326 ms | 0B |
 | 2026-10-10 | Accepted | mysql | 292 ms | 0B |
 
 ## Problem

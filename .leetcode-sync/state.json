@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2176873257,
+  "synced_through": 2176966509,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -3991,13 +3991,14 @@
       "topic": "Database",
       "dir": "Database/0610-triangle-judgement",
       "first_attempt_at": 1791622185,
-      "last_attempt_at": 1791622185,
+      "last_attempt_at": 1792490512,
       "solved_at": 1791622185,
       "languages": {
-        "mysql": {"file":"solution.sql","id":2167985742,"status":"Accepted","lang":"mysql","timestamp":1791622185,"runtime":"292 ms","memory":"0B"}
+        "mysql": {"file":"solution.sql","id":2176953188,"status":"Accepted","lang":"mysql","timestamp":1792490512,"runtime":"326 ms","memory":"0B"}
       },
       "submissions": [
-        {"id":2167985742,"status":"Accepted","lang":"mysql","timestamp":1791622185,"runtime":"292 ms","memory":"0B"}
+        {"id":2167985742,"status":"Accepted","lang":"mysql","timestamp":1791622185,"runtime":"292 ms","memory":"0B"},
+        {"id":2176953188,"status":"Accepted","lang":"mysql","timestamp":1792490512,"runtime":"326 ms","memory":"0B"}
       ]
     },
     "project-employees-i": {
@@ -4348,6 +4349,64 @@
         {"id":2176863629,"status":"Wrong Answer","lang":"cpp","timestamp":1792481934,"runtime":null,"memory":null},
         {"id":2176864483,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792482017,"runtime":null,"memory":null},
         {"id":2176873257,"status":"Accepted","lang":"cpp","timestamp":1792482837,"runtime":"24 ms","memory":"139.2 MB"}
+      ]
+    },
+    "group-sold-products-by-the-date": {
+      "id": "1484",
+      "title": "Group Sold Products By The Date",
+      "slug": "group-sold-products-by-the-date",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1484-group-sold-products-by-the-date",
+      "first_attempt_at": 1792490260,
+      "last_attempt_at": 1792490260,
+      "solved_at": 1792490260,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2176950476,"status":"Accepted","lang":"mysql","timestamp":1792490260,"runtime":"622 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2176950476,"status":"Accepted","lang":"mysql","timestamp":1792490260,"runtime":"622 ms","memory":"0B"}
+      ]
+    },
+    "user-activity-for-the-past-30-days-i": {
+      "id": "1141",
+      "title": "User Activity for the Past 30 Days I",
+      "slug": "user-activity-for-the-past-30-days-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1141-user-activity-for-the-past-30-days-i",
+      "first_attempt_at": 1792490320,
+      "last_attempt_at": 1792490320,
+      "solved_at": 1792490320,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2176951154,"status":"Accepted","lang":"mysql","timestamp":1792490320,"runtime":"640 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2176951154,"status":"Accepted","lang":"mysql","timestamp":1792490320,"runtime":"640 ms","memory":"0B"}
+      ]
+    },
+    "find-users-with-valid-e-mails": {
+      "id": "1517",
+      "title": "Find Users With Valid E-Mails",
+      "slug": "find-users-with-valid-e-mails",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1517-find-users-with-valid-e-mails",
+      "first_attempt_at": 1792491480,
+      "last_attempt_at": 1792491752,
+      "solved_at": 1792491752,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2176966509,"status":"Accepted","lang":"mysql","timestamp":1792491752,"runtime":"902 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2176963525,"status":"Wrong Answer","lang":"mysql","timestamp":1792491480,"runtime":null,"memory":null},
+        {"id":2176964405,"status":"Wrong Answer","lang":"mysql","timestamp":1792491559,"runtime":null,"memory":null},
+        {"id":2176965336,"status":"Wrong Answer","lang":"mysql","timestamp":1792491645,"runtime":null,"memory":null},
+        {"id":2176965722,"status":"Wrong Answer","lang":"mysql","timestamp":1792491679,"runtime":null,"memory":null},
+        {"id":2176966509,"status":"Accepted","lang":"mysql","timestamp":1792491752,"runtime":"902 ms","memory":"0B"}
       ]
     }
   }

@@ -4,15 +4,15 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 224 | 218 | 6 | 147 | 68 | 3 | 2026-10-20 |
+| 227 | 221 | 6 | 150 | 68 | 3 | 2026-10-20 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 115 | 110 | 5 | 63 | 49 | 3 |
+| [Database](Database/README.md) | 31 | 31 | 0 | 31 | 0 | 0 |
 | [Math](Math/README.md) | 30 | 30 | 0 | 25 | 5 | 0 |
-| [Database](Database/README.md) | 28 | 28 | 0 | 28 | 0 | 0 |
 | [Hash Table](Hash-Table/README.md) | 12 | 11 | 1 | 7 | 5 | 0 |
 | [Linked List](Linked-List/README.md) | 11 | 11 | 0 | 6 | 5 | 0 |
 | [String](String/README.md) | 10 | 10 | 0 | 5 | 5 | 0 |
@@ -37,6 +37,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
+| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Accepted | mysql |
+| 2026-10-20 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Accepted | mysql |
+| 2026-10-20 | [1484. Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | Accepted | mysql |
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Accepted | cpp |
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Time Limit Exceeded | cpp |
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Wrong Answer | cpp |
@@ -44,20 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-18 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
 | 2026-10-18 | [183. Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | Accepted | mysql |
-| 2026-10-18 | [853. Car Fleet](Array/0853-car-fleet/README.md) | Accepted | cpp |
-| 2026-10-18 | [739. Daily Temperatures](Array/0739-daily-temperatures/README.md) | Accepted | cpp |
-| 2026-10-18 | [739. Daily Temperatures](Array/0739-daily-temperatures/README.md) | Time Limit Exceeded | cpp |
-| 2026-10-18 | [150. Evaluate Reverse Polish Notation](Array/0150-evaluate-reverse-polish-notation/README.md) | Accepted | cpp |
-| 2026-10-18 | [155. Min Stack](Stack/0155-min-stack/README.md) | Accepted | cpp |
-| 2026-10-18 | [20. Valid Parentheses](String/0020-valid-parentheses/README.md) | Accepted | cpp |
-| 2026-10-18 | [20. Valid Parentheses](String/0020-valid-parentheses/README.md) | Wrong Answer | cpp |
-| 2026-10-18 | [424. Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 35 | 85 |
+| 2026-10 | 38 | 93 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -189,7 +189,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-09-07 | 2026-09-07 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-10-03 | 2026-10-03 |
 | 596 | [Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-10 | 2026-10-10 |
-| 610 | [Triangle Judgement](Database/0610-triangle-judgement/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
+| 610 | [Triangle Judgement](Database/0610-triangle-judgement/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-10 | 2026-10-10 |
 | 619 | [Biggest Single Number](Database/0619-biggest-single-number/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-10-10 | 2026-10-10 |
 | 620 | [Not Boring Movies](Database/0620-not-boring-movies/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-08 | 2026-10-08 |
 | 628 | [Maximum Product of Three Numbers](Array/0628-maximum-product-of-three-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2026-01-23 | 2026-01-23 |
@@ -212,6 +212,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1046 | [Last Stone Weight](Array/1046-last-stone-weight/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-10-19 | 2025-10-19 |
 | 1068 | [Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-03 | 2026-10-03 |
 | 1075 | [Project Employees I](Database/1075-project-employees-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
+| 1141 | [User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 1143 | [Longest Common Subsequence](String/1143-longest-common-subsequence/README.md) | [String](String/README.md) | Medium | Solved | 2 | 2025-11-03 | 2025-11-03 |
 | 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-02 | 2026-10-02 |
 | 1200 | [Minimum Absolute Difference](Array/1200-minimum-absolute-difference/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-01-26 | 2026-01-26 |
@@ -225,8 +226,10 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1325 | [Delete Leaves With a Given Value](Tree/1325-delete-leaves-with-a-given-value/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2025-09-30 | 2025-09-30 |
 | 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-03 | 2026-10-03 |
 | 1464 | [Maximum Product of Two Elements in an Array](Array/1464-maximum-product-of-two-elements-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-27 | 2026-07-27 |
+| 1484 | [Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 1486 | [XOR Operation in an Array](Math/1486-xor-operation-in-an-array/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-09-05 | 2025-09-05 |
 | 1504 | [Count Submatrices With All Ones](Array/1504-count-submatrices-with-all-ones/README.md) | [Array](Array/README.md) | Medium | Attempted | 1 | 2025-08-21 | - |
+| 1517 | [Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | [Database](Database/README.md) | Easy | Solved | 5 | 2026-10-20 | 2026-10-20 |
 | 1527 | [Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-10-14 | 2026-10-14 |
 | 1539 | [Kth Missing Positive Number](Array/1539-kth-missing-positive-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-19 | 2025-08-19 |
 | 1550 | [Three Consecutive Odds](Array/1550-three-consecutive-odds/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-30 | 2025-08-30 |
