@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 114 | 109 | 5 | 63 | 49 | 2 |
+| 115 | 110 | 5 | 63 | 49 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -49,6 +49,7 @@
 | 216 | [Combination Sum III](../Array/0216-combination-sum-iii/README.md) | Medium | Solved | 1 | cpp | 2025-12-10 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 7 | cpp | 2025-08-04 |
 | 238 | [Product of Array Except Self](../Array/0238-product-of-array-except-self/README.md) | Medium | Solved | 3 | cpp | 2026-01-01 |
+| 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 3 | cpp | 2026-10-20 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 2 | cpp | 2025-08-18 |
 | 260 | [Single Number III](../Array/0260-single-number-iii/README.md) | Medium | Attempted | 1 | cpp | - |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 1 | cpp | 2025-07-27 |

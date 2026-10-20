@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2176845805,
+  "synced_through": 2176873257,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4328,6 +4328,26 @@
       },
       "submissions": [
         {"id":2176845805,"status":"Accepted","lang":"cpp","timestamp":1792480374,"runtime":"3 ms","memory":"9.8 MB"}
+      ]
+    },
+    "sliding-window-maximum": {
+      "id": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "tags": ["Array","Queue","Sliding Window","Heap (Priority Queue)","Monotonic Queue","Range Minimum/Maximum Query"],
+      "topic": "Array",
+      "dir": "Array/0239-sliding-window-maximum",
+      "first_attempt_at": 1792481934,
+      "last_attempt_at": 1792482837,
+      "solved_at": 1792482837,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176873257,"status":"Accepted","lang":"cpp","timestamp":1792482837,"runtime":"24 ms","memory":"139.2 MB"}
+      },
+      "submissions": [
+        {"id":2176863629,"status":"Wrong Answer","lang":"cpp","timestamp":1792481934,"runtime":null,"memory":null},
+        {"id":2176864483,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792482017,"runtime":null,"memory":null},
+        {"id":2176873257,"status":"Accepted","lang":"cpp","timestamp":1792482837,"runtime":"24 ms","memory":"139.2 MB"}
       ]
     }
   }

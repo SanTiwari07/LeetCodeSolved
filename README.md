@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 223 | 217 | 6 | 147 | 68 | 2 | 2026-10-20 |
+| 224 | 218 | 6 | 147 | 68 | 3 | 2026-10-20 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 114 | 109 | 5 | 63 | 49 | 2 |
+| [Array](Array/README.md) | 115 | 110 | 5 | 63 | 49 | 3 |
 | [Math](Math/README.md) | 30 | 30 | 0 | 25 | 5 | 0 |
 | [Database](Database/README.md) | 28 | 28 | 0 | 28 | 0 | 0 |
 | [Hash Table](Hash-Table/README.md) | 12 | 11 | 1 | 7 | 5 | 0 |
@@ -37,6 +37,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Accepted | cpp |
+| 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Time Limit Exceeded | cpp |
+| 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [567. Permutation in String](Hash-Table/0567-permutation-in-string/README.md) | Accepted | cpp |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-18 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
@@ -49,15 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-18 | [20. Valid Parentheses](String/0020-valid-parentheses/README.md) | Accepted | cpp |
 | 2026-10-18 | [20. Valid Parentheses](String/0020-valid-parentheses/README.md) | Wrong Answer | cpp |
 | 2026-10-18 | [424. Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | Accepted | cpp |
-| 2026-10-17 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Accepted | cpp |
-| 2026-10-17 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
-| 2026-10-17 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 34 | 82 |
+| 2026-10 | 35 | 85 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -157,6 +157,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 6 | 2025-07-25 | 2025-07-25 |
 | 234 | [Palindrome Linked List](Linked-List/0234-palindrome-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2025-09-27 | 2025-09-27 |
 | 238 | [Product of Array Except Self](Array/0238-product-of-array-except-self/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-01-01 | 2026-01-01 |
+| 239 | [Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | [Array](Array/README.md) | Hard | Solved | 3 | 2026-10-20 | 2026-10-20 |
 | 240 | [Search a 2D Matrix II](Array/0240-search-a-2d-matrix-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-08-18 | 2025-08-18 |
 | 242 | [Valid Anagram](Hash-Table/0242-valid-anagram/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 4 | 2025-09-12 | 2025-09-12 |
 | 258 | [Add Digits](Math/0258-add-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 3 | 2025-08-26 | 2025-08-26 |
