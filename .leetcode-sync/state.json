@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2176220757,
+  "synced_through": 2176845805,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4310,6 +4310,24 @@
       },
       "submissions": [
         {"id":2176220757,"status":"Accepted","lang":"cpp","timestamp":1792414314,"runtime":"0 ms","memory":"15 MB"}
+      ]
+    },
+    "permutation-in-string": {
+      "id": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Two Pointers","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0567-permutation-in-string",
+      "first_attempt_at": 1792480374,
+      "last_attempt_at": 1792480374,
+      "solved_at": 1792480374,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176845805,"status":"Accepted","lang":"cpp","timestamp":1792480374,"runtime":"3 ms","memory":"9.8 MB"}
+      },
+      "submissions": [
+        {"id":2176845805,"status":"Accepted","lang":"cpp","timestamp":1792480374,"runtime":"3 ms","memory":"9.8 MB"}
       ]
     }
   }

@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 222 | 216 | 6 | 147 | 67 | 2 | 2026-10-19 |
+| 223 | 217 | 6 | 147 | 68 | 2 | 2026-10-20 |
 
 ## Topics
 
@@ -13,7 +13,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Array](Array/README.md) | 114 | 109 | 5 | 63 | 49 | 2 |
 | [Math](Math/README.md) | 30 | 30 | 0 | 25 | 5 | 0 |
 | [Database](Database/README.md) | 28 | 28 | 0 | 28 | 0 | 0 |
-| [Hash Table](Hash-Table/README.md) | 11 | 10 | 1 | 7 | 4 | 0 |
+| [Hash Table](Hash-Table/README.md) | 12 | 11 | 1 | 7 | 5 | 0 |
 | [Linked List](Linked-List/README.md) | 11 | 11 | 0 | 6 | 5 | 0 |
 | [String](String/README.md) | 10 | 10 | 0 | 5 | 5 | 0 |
 | [Tree](Tree/README.md) | 8 | 8 | 0 | 6 | 2 | 0 |
@@ -37,6 +37,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-20 | [567. Permutation in String](Hash-Table/0567-permutation-in-string/README.md) | Accepted | cpp |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-18 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
 | 2026-10-18 | [183. Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | Accepted | mysql |
@@ -51,13 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-17 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Accepted | cpp |
 | 2026-10-17 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
 | 2026-10-17 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Wrong Answer | cpp |
-| 2026-10-17 | [875. Koko Eating Bananas](Array/0875-koko-eating-bananas/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 33 | 81 |
+| 2026-10 | 34 | 82 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -183,6 +183,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 518 | [Coin Change II](Array/0518-coin-change-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2025-10-19 | 2025-10-19 |
 | 540 | [Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2025-08-19 | 2025-08-19 |
 | 543 | [Diameter of Binary Tree](Tree/0543-diameter-of-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 5 | 2025-10-05 | 2025-10-05 |
+| 567 | [Permutation in String](Hash-Table/0567-permutation-in-string/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 577 | [Employee Bonus](Database/0577-employee-bonus/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-10-05 | 2026-10-05 |
 | 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 3 | 2026-09-07 | 2026-09-07 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-10-03 | 2026-10-03 |

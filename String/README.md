@@ -37,6 +37,7 @@ Filed under their main topic, but they use this one too.
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Hash Table | Easy | Solved |
 | 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Hash Table | Medium | Solved |
+| 567 | [Permutation in String](../Hash-Table/0567-permutation-in-string/README.md) | Hash Table | Medium | Solved |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Attempted |
 | 1832 | [Check if the Sentence Is Pangram](../Hash-Table/1832-check-if-the-sentence-is-pangram/README.md) | Hash Table | Easy | Solved |
 | 1935 | [Maximum Number of Words You Can Type](../Hash-Table/1935-maximum-number-of-words-you-can-type/README.md) | Hash Table | Easy | Solved |

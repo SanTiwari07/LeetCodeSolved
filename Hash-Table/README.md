@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 11 | 10 | 1 | 7 | 4 | 0 |
+| 12 | 11 | 1 | 7 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 4 | cpp | 2025-09-12 |
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Easy | Solved | 2 | cpp | 2025-08-26 |
 | 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Medium | Solved | 2 | cpp | 2026-07-29 |
+| 567 | [Permutation in String](../Hash-Table/0567-permutation-in-string/README.md) | Medium | Solved | 1 | cpp | 2026-10-20 |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Medium | Attempted | 1 | cpp | - |
 | 1832 | [Check if the Sentence Is Pangram](../Hash-Table/1832-check-if-the-sentence-is-pangram/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 1935 | [Maximum Number of Words You Can Type](../Hash-Table/1935-maximum-number-of-words-you-can-type/README.md) | Easy | Solved | 3 | cpp | 2025-09-15 |
