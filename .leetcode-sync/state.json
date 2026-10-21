@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2176966509,
+  "synced_through": 2177893088,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4407,6 +4407,24 @@
         {"id":2176965336,"status":"Wrong Answer","lang":"mysql","timestamp":1792491645,"runtime":null,"memory":null},
         {"id":2176965722,"status":"Wrong Answer","lang":"mysql","timestamp":1792491679,"runtime":null,"memory":null},
         {"id":2176966509,"status":"Accepted","lang":"mysql","timestamp":1792491752,"runtime":"902 ms","memory":"0B"}
+      ]
+    },
+    "minimum-operations-to-sort-a-string": {
+      "id": "3863",
+      "title": "Minimum Operations to Sort a String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "difficulty": "Medium",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/3863-minimum-operations-to-sort-a-string",
+      "first_attempt_at": 1792582661,
+      "last_attempt_at": 1792582661,
+      "solved_at": 1792582661,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2177893088,"status":"Accepted","lang":"cpp","timestamp":1792582661,"runtime":"7 ms","memory":"27.4 MB"}
+      },
+      "submissions": [
+        {"id":2177893088,"status":"Accepted","lang":"cpp","timestamp":1792582661,"runtime":"7 ms","memory":"27.4 MB"}
       ]
     }
   }

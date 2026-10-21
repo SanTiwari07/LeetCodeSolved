@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 10 | 10 | 0 | 5 | 5 | 0 |
+| 11 | 11 | 0 | 5 | 6 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -18,6 +18,7 @@
 | 1625 | [Lexicographically Smallest String After Applying Operations](../String/1625-lexicographically-smallest-string-after-applying-operations/README.md) | Medium | Solved | 2 | cpp | 2025-10-19 |
 | 2785 | [Sort Vowels in a String](../String/2785-sort-vowels-in-a-string/README.md) | Medium | Solved | 2 | cpp | 2025-09-11 |
 | 3019 | [Number of Changing Keys](../String/3019-number-of-changing-keys/README.md) | Easy | Solved | 1 | cpp | 2025-09-21 |
+| 3863 | [Minimum Operations to Sort a String](../String/3863-minimum-operations-to-sort-a-string/README.md) | Medium | Solved | 1 | cpp | 2026-10-21 |
 
 ## Also tagged String
 

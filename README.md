@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 227 | 221 | 6 | 150 | 68 | 3 | 2026-10-20 |
+| 228 | 222 | 6 | 150 | 69 | 3 | 2026-10-21 |
 
 ## Topics
 
@@ -15,7 +15,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Math](Math/README.md) | 30 | 30 | 0 | 25 | 5 | 0 |
 | [Hash Table](Hash-Table/README.md) | 12 | 11 | 1 | 7 | 5 | 0 |
 | [Linked List](Linked-List/README.md) | 11 | 11 | 0 | 6 | 5 | 0 |
-| [String](String/README.md) | 10 | 10 | 0 | 5 | 5 | 0 |
+| [String](String/README.md) | 11 | 11 | 0 | 5 | 6 | 0 |
 | [Tree](Tree/README.md) | 8 | 8 | 0 | 6 | 2 | 0 |
 | [Stack](Stack/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
 | [Two Pointers](Two-Pointers/README.md) | 4 | 4 | 0 | 2 | 2 | 0 |
@@ -37,6 +37,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
@@ -51,13 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [567. Permutation in String](Hash-Table/0567-permutation-in-string/README.md) | Accepted | cpp |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-18 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
-| 2026-10-18 | [183. Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 38 | 93 |
+| 2026-10 | 39 | 94 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -301,3 +301,4 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3731 | [Find Missing Elements](Array/3731-find-missing-elements/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-08-04 | 2026-08-04 |
 | 3810 | [Minimum Operations to Reach Target Array](Array/3810-minimum-operations-to-reach-target-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-20 | 2026-01-20 |
 | 3838 | [Weighted Word Mapping](Array/3838-weighted-word-mapping/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-14 | 2026-02-14 |
+| 3863 | [Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | [String](String/README.md) | Medium | Solved | 1 | 2026-10-21 | 2026-10-21 |
