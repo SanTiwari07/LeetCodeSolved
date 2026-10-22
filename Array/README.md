@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 115 | 110 | 5 | 63 | 49 | 3 |
+| 116 | 111 | 5 | 63 | 50 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -123,3 +123,4 @@
 | 3731 | [Find Missing Elements](../Array/3731-find-missing-elements/README.md) | Easy | Solved | 1 | cpp | 2026-08-04 |
 | 3810 | [Minimum Operations to Reach Target Array](../Array/3810-minimum-operations-to-reach-target-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-20 |
 | 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Easy | Solved | 1 | cpp | 2026-02-14 |
+| 3942 | [Minimum Operations to Sort a Permutation](../Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Medium | Solved | 1 | cpp | 2026-10-22 |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177893088,
+  "synced_through": 2178634524,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4425,6 +4425,24 @@
       },
       "submissions": [
         {"id":2177893088,"status":"Accepted","lang":"cpp","timestamp":1792582661,"runtime":"7 ms","memory":"27.4 MB"}
+      ]
+    },
+    "minimum-operations-to-sort-a-permutation": {
+      "id": "3942",
+      "title": "Minimum Operations to Sort a Permutation",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/3942-minimum-operations-to-sort-a-permutation",
+      "first_attempt_at": 1792655794,
+      "last_attempt_at": 1792655794,
+      "solved_at": 1792655794,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2178634524,"status":"Accepted","lang":"cpp","timestamp":1792655794,"runtime":"12 ms","memory":"141.5 MB"}
+      },
+      "submissions": [
+        {"id":2178634524,"status":"Accepted","lang":"cpp","timestamp":1792655794,"runtime":"12 ms","memory":"141.5 MB"}
       ]
     }
   }
