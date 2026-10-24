@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 229 | 223 | 6 | 150 | 70 | 3 | 2026-10-22 |
+| 230 | 224 | 6 | 151 | 70 | 3 | 2026-10-23 |
 
 ## Topics
 
@@ -12,7 +12,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 116 | 111 | 5 | 63 | 50 | 3 |
 | [Database](Database/README.md) | 31 | 31 | 0 | 31 | 0 | 0 |
-| [Math](Math/README.md) | 30 | 30 | 0 | 25 | 5 | 0 |
+| [Math](Math/README.md) | 31 | 31 | 0 | 26 | 5 | 0 |
 | [Hash Table](Hash-Table/README.md) | 12 | 11 | 1 | 7 | 5 | 0 |
 | [Linked List](Linked-List/README.md) | 11 | 11 | 0 | 6 | 5 | 0 |
 | [String](String/README.md) | 11 | 11 | 0 | 5 | 6 | 0 |
@@ -37,6 +37,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Accepted | cpp |
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Accepted | cpp |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
@@ -51,13 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Time Limit Exceeded | cpp |
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [567. Permutation in String](Hash-Table/0567-permutation-in-string/README.md) | Accepted | cpp |
-| 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 40 | 95 |
+| 2026-10 | 41 | 96 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -173,6 +173,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 367 | [Valid Perfect Square](Math/0367-valid-perfect-square/README.md) | [Math](Math/README.md) | Easy | Solved | 5 | 2025-12-15 | 2025-12-15 |
 | 387 | [First Unique Character in a String](Hash-Table/0387-first-unique-character-in-a-string/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2025-08-26 | 2025-08-26 |
 | 404 | [Sum of Left Leaves](Tree/0404-sum-of-left-leaves/README.md) | [Tree](Tree/README.md) | Easy | Solved | 1 | 2025-11-01 | 2025-11-01 |
+| 415 | [Add Strings](Math/0415-add-strings/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-10-23 | 2026-10-23 |
 | 424 | [Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 2 | 2026-07-29 | 2026-07-29 |
 | 463 | [Island Perimeter](Array/0463-island-perimeter/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-24 | 2025-08-24 |
 | 485 | [Max Consecutive Ones](Array/0485-max-consecutive-ones/README.md) | [Array](Array/README.md) | Easy | Solved | 5 | 2025-07-27 | 2025-07-27 |

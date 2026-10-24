@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 30 | 30 | 0 | 25 | 5 | 0 |
+| 31 | 31 | 0 | 26 | 5 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@
 | 326 | [Power of Three](../Math/0326-power-of-three/README.md) | Easy | Solved | 2 | cpp | 2025-07-25 |
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Easy | Solved | 4 | cpp | 2025-07-25 |
 | 367 | [Valid Perfect Square](../Math/0367-valid-perfect-square/README.md) | Easy | Solved | 5 | cpp | 2025-12-15 |
+| 415 | [Add Strings](../Math/0415-add-strings/README.md) | Easy | Solved | 1 | cpp | 2026-10-23 |
 | 492 | [Construct the Rectangle](../Math/0492-construct-the-rectangle/README.md) | Easy | Solved | 2 | cpp | 2025-12-15 |
 | 507 | [Perfect Number](../Math/0507-perfect-number/README.md) | Easy | Solved | 3 | cpp | 2025-09-26 |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2025-07-20 |

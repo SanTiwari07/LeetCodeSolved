@@ -37,6 +37,7 @@ Filed under their main topic, but they use this one too.
 | 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Math | Easy | Solved |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Hash Table | Easy | Solved |
+| 415 | [Add Strings](../Math/0415-add-strings/README.md) | Math | Easy | Solved |
 | 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Hash Table | Medium | Solved |
 | 567 | [Permutation in String](../Hash-Table/0567-permutation-in-string/README.md) | Hash Table | Medium | Solved |
 | 1781 | [Sum of Beauty of All Substrings](../Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | Hash Table | Medium | Attempted |

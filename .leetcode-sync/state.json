@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2178634524,
+  "synced_through": 2179738201,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4443,6 +4443,24 @@
       },
       "submissions": [
         {"id":2178634524,"status":"Accepted","lang":"cpp","timestamp":1792655794,"runtime":"12 ms","memory":"141.5 MB"}
+      ]
+    },
+    "add-strings": {
+      "id": "415",
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "difficulty": "Easy",
+      "tags": ["Math","String","Simulation"],
+      "topic": "Math",
+      "dir": "Math/0415-add-strings",
+      "first_attempt_at": 1792766459,
+      "last_attempt_at": 1792766459,
+      "solved_at": 1792766459,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2179738201,"status":"Accepted","lang":"cpp","timestamp":1792766459,"runtime":"2 ms","memory":"9.1 MB"}
+      },
+      "submissions": [
+        {"id":2179738201,"status":"Accepted","lang":"cpp","timestamp":1792766459,"runtime":"2 ms","memory":"9.1 MB"}
       ]
     }
   }
