@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 230 | 224 | 6 | 151 | 70 | 3 | 2026-10-23 |
+| 230 | 224 | 6 | 151 | 70 | 3 | 2026-10-24 |
 
 ## Topics
 
@@ -37,6 +37,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-24 | [217. Contains Duplicate](Array/0217-contains-duplicate/README.md) | Accepted | cpp |
 | 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Accepted | cpp |
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Accepted | cpp |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
@@ -51,13 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Accepted | cpp |
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Time Limit Exceeded | cpp |
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Wrong Answer | cpp |
-| 2026-10-20 | [567. Permutation in String](Hash-Table/0567-permutation-in-string/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 41 | 96 |
+| 2026-10 | 41 | 97 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -153,7 +153,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 213 | [House Robber II](Array/0213-house-robber-ii/README.md) | [Array](Array/README.md) | Medium | Attempted | 1 | 2026-02-12 | - |
 | 215 | [Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2025-10-30 | 2025-10-30 |
 | 216 | [Combination Sum III](Array/0216-combination-sum-iii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-12-10 | 2025-12-10 |
-| 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 7 | 2025-08-04 | 2025-08-04 |
+| 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 8 | 2025-08-04 | 2025-08-04 |
 | 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 6 | 2025-07-25 | 2025-07-25 |
 | 234 | [Palindrome Linked List](Linked-List/0234-palindrome-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2025-09-27 | 2025-09-27 |
 | 238 | [Product of Array Except Self](Array/0238-product-of-array-except-self/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-01-01 | 2026-01-01 |

@@ -47,7 +47,7 @@
 | 213 | [House Robber II](../Array/0213-house-robber-ii/README.md) | Medium | Attempted | 1 | cpp | - |
 | 215 | [Kth Largest Element in an Array](../Array/0215-kth-largest-element-in-an-array/README.md) | Medium | Solved | 4 | cpp | 2025-10-30 |
 | 216 | [Combination Sum III](../Array/0216-combination-sum-iii/README.md) | Medium | Solved | 1 | cpp | 2025-12-10 |
-| 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 7 | cpp | 2025-08-04 |
+| 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 8 | cpp | 2025-08-04 |
 | 238 | [Product of Array Except Self](../Array/0238-product-of-array-except-self/README.md) | Medium | Solved | 3 | cpp | 2026-01-01 |
 | 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 3 | cpp | 2026-10-20 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 2 | cpp | 2025-08-18 |

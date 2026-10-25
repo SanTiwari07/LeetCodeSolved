@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2179738201,
+  "synced_through": 2180695885,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -471,10 +471,10 @@
       "topic": "Array",
       "dir": "Array/0217-contains-duplicate",
       "first_attempt_at": 1754323940,
-      "last_attempt_at": 1784810551,
+      "last_attempt_at": 1792860801,
       "solved_at": 1754324468,
       "languages": {
-        "cpp": {"file":"solution.cpp","id":2078386006,"status":"Accepted","lang":"cpp","timestamp":1784810551,"runtime":"72 ms","memory":"111.3 MB"}
+        "cpp": {"file":"solution.cpp","id":2180695885,"status":"Accepted","lang":"cpp","timestamp":1792860801,"runtime":"79 ms","memory":"111.2 MB"}
       },
       "submissions": [
         {"id":1723287075,"status":"Wrong Answer","lang":"cpp","timestamp":1754323940,"runtime":null,"memory":null},
@@ -483,7 +483,8 @@
         {"id":1723323279,"status":"Accepted","lang":"cpp","timestamp":1754325499,"runtime":null,"memory":null},
         {"id":1870721695,"status":"Accepted","lang":"cpp","timestamp":1767245053,"runtime":null,"memory":null},
         {"id":2078382950,"status":"Accepted","lang":"cpp","timestamp":1784810354,"runtime":null,"memory":null},
-        {"id":2078386006,"status":"Accepted","lang":"cpp","timestamp":1784810551,"runtime":"72 ms","memory":"111.3 MB"}
+        {"id":2078386006,"status":"Accepted","lang":"cpp","timestamp":1784810551,"runtime":"72 ms","memory":"111.3 MB"},
+        {"id":2180695885,"status":"Accepted","lang":"cpp","timestamp":1792860801,"runtime":"79 ms","memory":"111.2 MB"}
       ]
     },
     "merge-sorted-array": {
