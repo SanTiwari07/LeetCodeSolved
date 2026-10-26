@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 31 | 31 | 0 | 31 | 0 | 0 |
+| 32 | 32 | 0 | 32 | 0 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | 1211 | [Queries Quality and Percentage](../Database/1211-queries-quality-and-percentage/README.md) | Easy | Solved | 1 | mysql | 2026-10-10 |
 | 1251 | [Average Selling Price](../Database/1251-average-selling-price/README.md) | Easy | Solved | 4 | mysql | 2026-10-09 |
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 4 | mysql | 2026-10-05 |
+| 1327 | [List the Products Ordered in a Period](../Database/1327-list-the-products-ordered-in-a-period/README.md) | Easy | Solved | 1 | mysql | 2026-10-25 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 2 | mysql | 2026-10-03 |
 | 1484 | [Group Sold Products By The Date](../Database/1484-group-sold-products-by-the-date/README.md) | Easy | Solved | 1 | mysql | 2026-10-20 |
 | 1517 | [Find Users With Valid E-Mails](../Database/1517-find-users-with-valid-e-mails/README.md) | Easy | Solved | 5 | mysql | 2026-10-20 |

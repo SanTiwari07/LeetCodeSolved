@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2180695885,
+  "synced_through": 2181619770,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4462,6 +4462,24 @@
       },
       "submissions": [
         {"id":2179738201,"status":"Accepted","lang":"cpp","timestamp":1792766459,"runtime":"2 ms","memory":"9.1 MB"}
+      ]
+    },
+    "list-the-products-ordered-in-a-period": {
+      "id": "1327",
+      "title": "List the Products Ordered in a Period",
+      "slug": "list-the-products-ordered-in-a-period",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1327-list-the-products-ordered-in-a-period",
+      "first_attempt_at": 1792950490,
+      "last_attempt_at": 1792950490,
+      "solved_at": 1792950490,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2181619770,"status":"Accepted","lang":"mysql","timestamp":1792950490,"runtime":"930 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2181619770,"status":"Accepted","lang":"mysql","timestamp":1792950490,"runtime":"930 ms","memory":"0B"}
       ]
     }
   }
