@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 116 | 111 | 5 | 63 | 50 | 3 |
+| 117 | 112 | 5 | 64 | 50 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -95,6 +95,7 @@
 | 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Easy | Solved | 1 | cpp | 2026-10-19 |
 | 2108 | [Find First Palindromic String in the Array](../Array/2108-find-first-palindromic-string-in-the-array/README.md) | Easy | Solved | 2 | cpp | 2025-09-04 |
 | 2114 | [Maximum Number of Words Found in Sentences](../Array/2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Solved | 1 | cpp | 2025-09-21 |
+| 2144 | [Minimum Cost of Buying Candies With Discount](../Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | Easy | Solved | 1 | cpp | 2026-10-26 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 3 | cpp | 2025-07-31 |
 | 2154 | [Keep Multiplying Found Values by Two](../Array/2154-keep-multiplying-found-values-by-two/README.md) | Easy | Solved | 2 | cpp | 2026-07-24 |
 | 2273 | [Find Resultant Array After Removing Anagrams](../Array/2273-find-resultant-array-after-removing-anagrams/README.md) | Easy | Solved | 2 | cpp | 2025-10-13 |

@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 231 | 225 | 6 | 152 | 70 | 3 | 2026-10-25 |
+| 232 | 226 | 6 | 153 | 70 | 3 | 2026-10-26 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 116 | 111 | 5 | 63 | 50 | 3 |
+| [Array](Array/README.md) | 117 | 112 | 5 | 64 | 50 | 3 |
 | [Database](Database/README.md) | 32 | 32 | 0 | 32 | 0 | 0 |
 | [Math](Math/README.md) | 31 | 31 | 0 | 26 | 5 | 0 |
 | [Hash Table](Hash-Table/README.md) | 12 | 11 | 1 | 7 | 5 | 0 |
@@ -37,6 +37,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-26 | [2144. Minimum Cost of Buying Candies With Discount](Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | Accepted | cpp |
 | 2026-10-25 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
 | 2026-10-24 | [217. Contains Duplicate](Array/0217-contains-duplicate/README.md) | Accepted | cpp |
 | 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Accepted | cpp |
@@ -51,13 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Accepted | mysql |
 | 2026-10-20 | [1484. Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | Accepted | mysql |
 | 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Accepted | cpp |
-| 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Time Limit Exceeded | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 42 | 98 |
+| 2026-10 | 43 | 99 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -259,6 +259,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2089 | [Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 2108 | [Find First Palindromic String in the Array](Array/2108-find-first-palindromic-string-in-the-array/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-09-04 | 2025-09-04 |
 | 2114 | [Maximum Number of Words Found in Sentences](Array/2114-maximum-number-of-words-found-in-sentences/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-21 | 2025-09-21 |
+| 2144 | [Minimum Cost of Buying Candies With Discount](Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-26 | 2026-10-26 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2025-07-31 | 2025-07-31 |
 | 2154 | [Keep Multiplying Found Values by Two](Array/2154-keep-multiplying-found-values-by-two/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-24 | 2026-07-24 |
 | 2235 | [Add Two Integers](Math/2235-add-two-integers/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-11-05 | 2025-11-05 |
