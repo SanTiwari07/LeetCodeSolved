@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 232 | 226 | 6 | 153 | 70 | 3 | 2026-10-26 |
+| 233 | 227 | 6 | 154 | 70 | 3 | 2026-10-27 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 117 | 112 | 5 | 64 | 50 | 3 |
-| [Database](Database/README.md) | 32 | 32 | 0 | 32 | 0 | 0 |
+| [Database](Database/README.md) | 33 | 33 | 0 | 33 | 0 | 0 |
 | [Math](Math/README.md) | 31 | 31 | 0 | 26 | 5 | 0 |
 | [Hash Table](Hash-Table/README.md) | 12 | 11 | 1 | 7 | 5 | 0 |
 | [Linked List](Linked-List/README.md) | 11 | 11 | 0 | 6 | 5 | 0 |
@@ -37,6 +37,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-27 | [1731. The Number of Employees Which Report to Each Employee](Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Accepted | mysql |
 | 2026-10-26 | [2144. Minimum Cost of Buying Candies With Discount](Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | Accepted | cpp |
 | 2026-10-25 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
 | 2026-10-24 | [217. Contains Duplicate](Array/0217-contains-duplicate/README.md) | Accepted | cpp |
@@ -51,13 +52,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Accepted | mysql |
 | 2026-10-20 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Accepted | mysql |
 | 2026-10-20 | [1484. Group Sold Products By The Date](Database/1484-group-sold-products-by-the-date/README.md) | Accepted | mysql |
-| 2026-10-20 | [239. Sliding Window Maximum](Array/0239-sliding-window-maximum/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 43 | 99 |
+| 2026-10 | 44 | 100 |
 | 2026-09 | 2 | 4 |
 | 2026-08 | 1 | 1 |
 | 2026-07 | 5 | 20 |
@@ -243,6 +243,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1672 | [Richest Customer Wealth](Array/1672-richest-customer-wealth/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-30 | 2025-08-30 |
 | 1683 | [Invalid Tweets](Database/1683-invalid-tweets/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-02 | 2026-10-02 |
 | 1729 | [Find Followers Count](Database/1729-find-followers-count/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-10 | 2026-10-10 |
+| 1731 | [The Number of Employees Which Report to Each Employee](Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 8 | 2025-07-26 | 2025-07-26 |
 | 1757 | [Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | [Database](Database/README.md) | Easy | Solved | 4 | 2026-09-07 | 2026-09-07 |
 | 1781 | [Sum of Beauty of All Substrings](Hash-Table/1781-sum-of-beauty-of-all-substrings/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Attempted | 1 | 2026-02-03 | - |

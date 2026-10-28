@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 32 | 32 | 0 | 32 | 0 | 0 |
+| 33 | 33 | 0 | 33 | 0 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -36,6 +36,7 @@
 | 1667 | [Fix Names in a Table](../Database/1667-fix-names-in-a-table/README.md) | Easy | Solved | 2 | mysql | 2026-10-13 |
 | 1683 | [Invalid Tweets](../Database/1683-invalid-tweets/README.md) | Easy | Solved | 2 | mysql | 2026-10-02 |
 | 1729 | [Find Followers Count](../Database/1729-find-followers-count/README.md) | Easy | Solved | 2 | mysql | 2026-10-10 |
+| 1731 | [The Number of Employees Which Report to Each Employee](../Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-27 |
 | 1757 | [Recyclable and Low Fat Products](../Database/1757-recyclable-and-low-fat-products/README.md) | Easy | Solved | 4 | mysql | 2026-09-07 |
 | 1789 | [Primary Department for Each Employee](../Database/1789-primary-department-for-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-12 |
 | 1978 | [Employees Whose Manager Left the Company](../Database/1978-employees-whose-manager-left-the-company/README.md) | Easy | Solved | 1 | mysql | 2026-10-11 |

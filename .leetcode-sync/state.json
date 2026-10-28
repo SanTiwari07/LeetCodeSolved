@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2182420447,
+  "synced_through": 2183264425,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4498,6 +4498,24 @@
       },
       "submissions": [
         {"id":2182420447,"status":"Accepted","lang":"cpp","timestamp":1793033396,"runtime":"0 ms","memory":"14.2 MB"}
+      ]
+    },
+    "the-number-of-employees-which-report-to-each-employee": {
+      "id": "1731",
+      "title": "The Number of Employees Which Report to Each Employee",
+      "slug": "the-number-of-employees-which-report-to-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1731-the-number-of-employees-which-report-to-each-employee",
+      "first_attempt_at": 1793119278,
+      "last_attempt_at": 1793119278,
+      "solved_at": 1793119278,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2183264425,"status":"Accepted","lang":"mysql","timestamp":1793119278,"runtime":"1006 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2183264425,"status":"Accepted","lang":"mysql","timestamp":1793119278,"runtime":"1006 ms","memory":"0B"}
       ]
     }
   }
