@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 33 | 33 | 0 | 33 | 0 | 0 |
+| 35 | 35 | 0 | 35 | 0 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 4 | mysql | 2026-10-05 |
 | 1327 | [List the Products Ordered in a Period](../Database/1327-list-the-products-ordered-in-a-period/README.md) | Easy | Solved | 1 | mysql | 2026-10-25 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 2 | mysql | 2026-10-03 |
+| 1407 | [Top Travellers](../Database/1407-top-travellers/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
 | 1484 | [Group Sold Products By The Date](../Database/1484-group-sold-products-by-the-date/README.md) | Easy | Solved | 1 | mysql | 2026-10-20 |
 | 1517 | [Find Users With Valid E-Mails](../Database/1517-find-users-with-valid-e-mails/README.md) | Easy | Solved | 5 | mysql | 2026-10-20 |
 | 1527 | [Patients With a Condition](../Database/1527-patients-with-a-condition/README.md) | Easy | Solved | 3 | mysql | 2026-10-14 |
@@ -36,7 +37,8 @@
 | 1667 | [Fix Names in a Table](../Database/1667-fix-names-in-a-table/README.md) | Easy | Solved | 2 | mysql | 2026-10-13 |
 | 1683 | [Invalid Tweets](../Database/1683-invalid-tweets/README.md) | Easy | Solved | 2 | mysql | 2026-10-02 |
 | 1729 | [Find Followers Count](../Database/1729-find-followers-count/README.md) | Easy | Solved | 2 | mysql | 2026-10-10 |
-| 1731 | [The Number of Employees Which Report to Each Employee](../Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-27 |
+| 1731 | [The Number of Employees Which Report to Each Employee](../Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Solved | 2 | mysql | 2026-10-27 |
+| 1741 | [Find Total Time Spent by Each Employee](../Database/1741-find-total-time-spent-by-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-29 |
 | 1757 | [Recyclable and Low Fat Products](../Database/1757-recyclable-and-low-fat-products/README.md) | Easy | Solved | 4 | mysql | 2026-09-07 |
 | 1789 | [Primary Department for Each Employee](../Database/1789-primary-department-for-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-12 |
 | 1978 | [Employees Whose Manager Left the Company](../Database/1978-employees-whose-manager-left-the-company/README.md) | Easy | Solved | 1 | mysql | 2026-10-11 |

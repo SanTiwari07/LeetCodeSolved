@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2183264425,
+  "synced_through": 2184787797,
   "problems": {
     "fibonacci-number": {
       "id": "509",
@@ -4509,13 +4509,50 @@
       "topic": "Database",
       "dir": "Database/1731-the-number-of-employees-which-report-to-each-employee",
       "first_attempt_at": 1793119278,
-      "last_attempt_at": 1793119278,
+      "last_attempt_at": 1793209637,
       "solved_at": 1793119278,
       "languages": {
-        "mysql": {"file":"solution.sql","id":2183264425,"status":"Accepted","lang":"mysql","timestamp":1793119278,"runtime":"1006 ms","memory":"0B"}
+        "mysql": {"file":"solution.sql","id":2184151922,"status":"Accepted","lang":"mysql","timestamp":1793209637,"runtime":"762 ms","memory":"0B"}
       },
       "submissions": [
-        {"id":2183264425,"status":"Accepted","lang":"mysql","timestamp":1793119278,"runtime":"1006 ms","memory":"0B"}
+        {"id":2183264425,"status":"Accepted","lang":"mysql","timestamp":1793119278,"runtime":"1006 ms","memory":"0B"},
+        {"id":2184151922,"status":"Accepted","lang":"mysql","timestamp":1793209637,"runtime":"762 ms","memory":"0B"}
+      ]
+    },
+    "top-travellers": {
+      "id": "1407",
+      "title": "Top Travellers",
+      "slug": "top-travellers",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1407-top-travellers",
+      "first_attempt_at": 1793283036,
+      "last_attempt_at": 1793283036,
+      "solved_at": 1793283036,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184768260,"status":"Accepted","lang":"mysql","timestamp":1793283036,"runtime":"1308 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184768260,"status":"Accepted","lang":"mysql","timestamp":1793283036,"runtime":"1308 ms","memory":"0B"}
+      ]
+    },
+    "find-total-time-spent-by-each-employee": {
+      "id": "1741",
+      "title": "Find Total Time Spent by Each Employee",
+      "slug": "find-total-time-spent-by-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1741-find-total-time-spent-by-each-employee",
+      "first_attempt_at": 1793284576,
+      "last_attempt_at": 1793284576,
+      "solved_at": 1793284576,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184787797,"status":"Accepted","lang":"mysql","timestamp":1793284576,"runtime":"880 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184787797,"status":"Accepted","lang":"mysql","timestamp":1793284576,"runtime":"880 ms","memory":"0B"}
       ]
     }
   }
